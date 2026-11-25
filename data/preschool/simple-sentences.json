@@ -9,7 +9,20 @@
     "Use I am to introduce yourself.",
     "Use I like to talk about things you enjoy."
   ],
-  "grammar": [],
+  "grammar": [
+    {
+      "expression": "I am",
+      "description": "Use am with I: I am happy."
+    },
+    {
+      "expression": "This is",
+      "description": "Use is with this: This is a cat."
+    },
+    {
+      "expression": "I like",
+      "description": "Use like to express something you enjoy: I like apples."
+    }
+  ],
   "vocabulary": [],
   "examples": [
     {
