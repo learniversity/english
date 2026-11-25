@@ -1,0 +1,73 @@
+{
+  "id": "primary-1-this-that",
+  "title": "This and That",
+  "level": "primary-1",
+  "category": "Grammar",
+  "introduction": "Practise this and that with familiar words and short sentences.",
+  "definition": "Use this for a nearby thing and that for a thing farther away.",
+  "rules": [
+    "Point to something near you and say This is a ...",
+    "Point to something farther away and say That is a ..."
+  ],
+  "grammar": [
+    {
+      "expression": "This is a book.",
+      "description": "The book is near."
+    },
+    {
+      "expression": "That is a tree.",
+      "description": "The tree is farther away."
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "___ is my pen here. (This or That)",
+      "steps": [
+        "Point to something near you and say This is a ..."
+      ],
+      "answer": "This"
+    },
+    {
+      "question": "___ is a tree over there.",
+      "steps": [
+        "Point to something farther away and say That is a ..."
+      ],
+      "answer": "That"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "___ is my pen here. (This or That)",
+      "answer": "This",
+      "solution": "Answer: This"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "___ is a tree over there.",
+      "answer": "That",
+      "solution": "Answer: That"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "This ___ a bag.",
+      "answer": "is",
+      "solution": "Answer: is"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "That is ___ apple.",
+      "answer": "an",
+      "solution": "Answer: an"
+    }
+  ],
+  "summary": "Use this for a nearby thing and that for a thing farther away.",
+  "relatedTopics": [
+    "primary-1-be"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "primary-1-writing-sentences",
+  "title": "Writing Simple Sentences",
+  "level": "primary-1",
+  "category": "Writing",
+  "introduction": "Practise writing simple sentences with familiar words and short sentences.",
+  "definition": "A simple sentence can tell who or what it is about and what happens or what it is like.",
+  "rules": [
+    "Start with a person or thing, then say something about it.",
+    "Use a capital letter, spaces and suitable punctuation.",
+    "Write two sentences about a favourite toy in your notebook."
+  ],
+  "grammar": [
+    {
+      "expression": "I like apples.",
+      "description": "A simple statement."
+    },
+    {
+      "expression": "The cat runs.",
+      "description": "A person or thing and an action."
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Put in order: like / I / rice",
+      "steps": [
+        "Start with a person or thing, then say something about it."
+      ],
+      "answer": "I like rice."
+    },
+    {
+      "question": "Put in order: is / It / red",
+      "steps": [
+        "Use a capital letter, spaces and suitable punctuation."
+      ],
+      "answer": "It is red."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Put in order: like / I / rice",
+      "answer": "I like rice.",
+      "solution": "Answer: I like rice.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Put in order: is / It / red",
+      "answer": "It is red.",
+      "solution": "Answer: It is red.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: I ___ a bag. (have or has)",
+      "answer": "have",
+      "solution": "Answer: have"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Put in order: can / jump / I",
+      "answer": "I can jump.",
+      "solution": "Answer: I can jump.",
+      "caseSensitive": true
+    }
+  ],
+  "summary": "A simple sentence can tell who or what it is about and what happens or what it is like.",
+  "relatedTopics": [
+    "primary-1-punctuation"
+  ]
+}

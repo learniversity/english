@@ -1,0 +1,113 @@
+{
+  "id": "primary-1-numbers-colours",
+  "title": "Numbers and Colours in English",
+  "level": "primary-1",
+  "category": "Vocabulary",
+  "introduction": "Practise numbers and colours in english with familiar words and short sentences.",
+  "definition": "Number words tell how many. Colour words describe objects.",
+  "rules": [
+    "Describe objects using a number and a colour: two red balls.",
+    "Practise saying numbers from one to ten."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "one",
+      "description": "1"
+    },
+    {
+      "expression": "two",
+      "description": "2"
+    },
+    {
+      "expression": "three",
+      "description": "3"
+    },
+    {
+      "expression": "four",
+      "description": "4"
+    },
+    {
+      "expression": "five",
+      "description": "5"
+    },
+    {
+      "expression": "six",
+      "description": "6"
+    },
+    {
+      "expression": "seven",
+      "description": "7"
+    },
+    {
+      "expression": "eight",
+      "description": "8"
+    },
+    {
+      "expression": "nine",
+      "description": "9"
+    },
+    {
+      "expression": "ten",
+      "description": "10"
+    },
+    {
+      "expression": "orange",
+      "description": "The colour of many oranges."
+    },
+    {
+      "expression": "purple",
+      "description": "The colour of many grapes."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Write 8 in words.",
+      "steps": [
+        "Describe objects using a number and a colour: two red balls."
+      ],
+      "answer": "eight"
+    },
+    {
+      "question": "Write 10 in words.",
+      "steps": [
+        "Practise saying numbers from one to ten."
+      ],
+      "answer": "ten"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Write 8 in words.",
+      "answer": "eight",
+      "solution": "Answer: eight"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Write 10 in words.",
+      "answer": "ten",
+      "solution": "Answer: ten"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: three red ___ (ball or balls).",
+      "answer": "balls",
+      "solution": "Answer: balls"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What colour are many oranges?",
+      "answer": "orange",
+      "solution": "Answer: orange"
+    }
+  ],
+  "summary": "Number words tell how many. Colour words describe objects.",
+  "relatedTopics": [
+    "primary-1-introductions"
+  ]
+}

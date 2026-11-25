@@ -1,0 +1,81 @@
+{
+  "id": "primary-1-punctuation",
+  "title": "Capital Letters and Full Stops",
+  "level": "primary-1",
+  "category": "Writing",
+  "introduction": "Practise capital letters and full stops with familiar words and short sentences.",
+  "definition": "Start a sentence and a person's name with a capital letter. End a statement with a full stop; a direct question ends with a question mark.",
+  "rules": [
+    "Always write the pronoun I as a capital letter.",
+    "Check the beginning and end of your sentence."
+  ],
+  "grammar": [
+    {
+      "expression": "Capital letter",
+      "description": "Ali has a bag."
+    },
+    {
+      "expression": "Full stop",
+      "description": "I like rice."
+    },
+    {
+      "expression": "Question mark",
+      "description": "What is this?"
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Correct: i am happy.",
+      "steps": [
+        "Always write the pronoun I as a capital letter."
+      ],
+      "answer": "I am happy."
+    },
+    {
+      "question": "Correct: ali is here.",
+      "steps": [
+        "Check the beginning and end of your sentence."
+      ],
+      "answer": "Ali is here."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Correct: i am happy.",
+      "answer": "I am happy.",
+      "solution": "Answer: I am happy.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Correct: ali is here.",
+      "answer": "Ali is here.",
+      "solution": "Answer: Ali is here.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Add punctuation: It is red",
+      "answer": "It is red.",
+      "solution": "Answer: It is red.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Add punctuation: What is this",
+      "answer": "What is this?",
+      "solution": "Answer: What is this?",
+      "caseSensitive": true
+    }
+  ],
+  "summary": "Start a sentence and a person's name with a capital letter. End a statement with a full stop; a direct question ends with a question mark.",
+  "relatedTopics": [
+    "primary-1-writing-letters"
+  ]
+}

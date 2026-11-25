@@ -1,0 +1,65 @@
+{
+  "id": "primary-1-rhymes",
+  "title": "Chants, Rhymes and Action Songs",
+  "level": "primary-1",
+  "category": "Language Arts",
+  "introduction": "Practise chants, rhymes and action songs with familiar words and short sentences.",
+  "definition": "Rhymes repeat ending sounds and chants use rhythm. Actions help us enjoy and remember words.",
+  "rules": [
+    "Say this original chant: Clap your hands, tap your feet. Say hello to friends you meet.",
+    "Clap a steady beat as you say the words.",
+    "Make up an action for each line."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Which word rhymes with feet in the chant?",
+      "steps": [
+        "Say this original chant: Clap your hands, tap your feet. Say hello to friends you meet."
+      ],
+      "answer": "meet"
+    },
+    {
+      "question": "What do you clap?",
+      "steps": [
+        "Clap a steady beat as you say the words."
+      ],
+      "answer": "hands"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which word rhymes with feet in the chant?",
+      "answer": "meet",
+      "solution": "Answer: meet"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What do you clap?",
+      "answer": "hands",
+      "solution": "Answer: hands"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What do you tap?",
+      "answer": "feet",
+      "solution": "Answer: feet"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which rhymes with cat: hat or pen?",
+      "answer": "hat",
+      "solution": "Answer: hat"
+    }
+  ],
+  "summary": "Rhymes repeat ending sounds and chants use rhythm. Actions help us enjoy and remember words.",
+  "relatedTopics": [
+    "primary-1-writing-sentences"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "primary-1-sounds",
+  "title": "Beginning, Middle and Ending Sounds",
+  "level": "primary-1",
+  "category": "Phonics",
+  "introduction": "Practise beginning, middle and ending sounds with familiar words and short sentences.",
+  "definition": "Words are made of sounds. Listen for the first, middle and last sounds in short words.",
+  "rules": [
+    "Say cat slowly: /k/ /a/ /t/.",
+    "Change one sound to make a new word: cat, cap, map."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "First letter in fish?",
+      "steps": [
+        "Say cat slowly: /k/ /a/ /t/."
+      ],
+      "answer": "f"
+    },
+    {
+      "question": "Middle letter in cat?",
+      "steps": [
+        "Change one sound to make a new word: cat, cap, map."
+      ],
+      "answer": "a"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "First letter in fish?",
+      "answer": "f",
+      "solution": "Answer: f"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Middle letter in cat?",
+      "answer": "a",
+      "solution": "Answer: a"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Last letter in sun?",
+      "answer": "n",
+      "solution": "Answer: n"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Change the last letter of cat to p.",
+      "answer": "cap",
+      "solution": "Answer: cap"
+    }
+  ],
+  "summary": "Words are made of sounds. Listen for the first, middle and last sounds in short words.",
+  "relatedTopics": []
+}

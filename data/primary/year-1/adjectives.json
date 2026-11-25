@@ -1,0 +1,86 @@
+{
+  "id": "primary-1-adjectives",
+  "title": "Describing Words",
+  "level": "primary-1",
+  "category": "Grammar",
+  "introduction": "Practise describing words with familiar words and short sentences.",
+  "definition": "Describing words tell us what something is like, for example its colour or size.",
+  "rules": [
+    "Put a describing word before a noun: a small cat.",
+    "You can also use it after is: The cat is small."
+  ],
+  "grammar": [
+    {
+      "expression": "adjective + noun",
+      "description": "a red ball, a big bag"
+    }
+  ],
+  "vocabulary": [
+    {
+      "expression": "big",
+      "description": "Large in size."
+    },
+    {
+      "expression": "small",
+      "description": "Little in size."
+    },
+    {
+      "expression": "long",
+      "description": "Having a great length."
+    },
+    {
+      "expression": "short",
+      "description": "Not long."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A ___ ball (red or run).",
+      "steps": [
+        "Put a describing word before a noun: a small cat."
+      ],
+      "answer": "red"
+    },
+    {
+      "question": "Opposite of big?",
+      "steps": [
+        "You can also use it after is: The cat is small."
+      ],
+      "answer": "small"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "A ___ ball (red or run).",
+      "answer": "red",
+      "solution": "Answer: red"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Opposite of big?",
+      "answer": "small",
+      "solution": "Answer: small"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Opposite of long?",
+      "answer": "short",
+      "solution": "Answer: short"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Find the describing word: The bag is blue.",
+      "answer": "blue",
+      "solution": "Answer: blue"
+    }
+  ],
+  "summary": "Describing words tell us what something is like, for example its colour or size.",
+  "relatedTopics": [
+    "primary-1-this-that"
+  ]
+}

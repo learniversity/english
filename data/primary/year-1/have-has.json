@@ -1,0 +1,73 @@
+{
+  "id": "primary-1-have-has",
+  "title": "Have and Has",
+  "level": "primary-1",
+  "category": "Grammar",
+  "introduction": "Practise have and has with familiar words and short sentences.",
+  "definition": "Have and has help us talk about possessions and features.",
+  "rules": [
+    "Use have with I, you, we and they.",
+    "Use has with he, she and it."
+  ],
+  "grammar": [
+    {
+      "expression": "I have a bag.",
+      "description": "Say what you own."
+    },
+    {
+      "expression": "It has a tail.",
+      "description": "Describe an animal."
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "I ___ a pencil.",
+      "steps": [
+        "Use have with I, you, we and they."
+      ],
+      "answer": "have"
+    },
+    {
+      "question": "A cat ___ a tail.",
+      "steps": [
+        "Use has with he, she and it."
+      ],
+      "answer": "has"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "I ___ a pencil.",
+      "answer": "have",
+      "solution": "Answer: have"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "A cat ___ a tail.",
+      "answer": "has",
+      "solution": "Answer: has"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "They ___ books.",
+      "answer": "have",
+      "solution": "Answer: have"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "She ___ a kite.",
+      "answer": "has",
+      "solution": "Answer: has"
+    }
+  ],
+  "summary": "Have and has help us talk about possessions and features.",
+  "relatedTopics": [
+    "primary-1-can"
+  ]
+}

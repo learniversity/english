@@ -1,0 +1,90 @@
+{
+  "id": "primary-1-toys",
+  "title": "Toys and Belongings",
+  "level": "primary-1",
+  "category": "Vocabulary",
+  "introduction": "Practise toys and belongings with familiar words and short sentences.",
+  "definition": "We can name toys and say who owns them.",
+  "rules": [
+    "Point to toys and describe them.",
+    "Use my for something that belongs to you."
+  ],
+  "grammar": [
+    {
+      "expression": "My kite",
+      "description": "A kite that belongs to me."
+    },
+    {
+      "expression": "Your ball",
+      "description": "A ball that belongs to the person I am speaking to."
+    }
+  ],
+  "vocabulary": [
+    {
+      "expression": "kite",
+      "description": "A toy flown in the wind."
+    },
+    {
+      "expression": "doll",
+      "description": "A toy shaped like a person."
+    },
+    {
+      "expression": "train",
+      "description": "A vehicle that travels on rails."
+    },
+    {
+      "expression": "teddy bear",
+      "description": "A soft toy bear."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A toy that flies on a string is a ___.",
+      "steps": [
+        "Point to toys and describe them."
+      ],
+      "answer": "kite"
+    },
+    {
+      "question": "A soft toy bear is a teddy ___.",
+      "steps": [
+        "Use my for something that belongs to you."
+      ],
+      "answer": "bear"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "A toy that flies on a string is a ___.",
+      "answer": "kite",
+      "solution": "Answer: kite"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "A soft toy bear is a teddy ___.",
+      "answer": "bear",
+      "solution": "Answer: bear"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "This is ___ toy. It belongs to me.",
+      "answer": "my",
+      "solution": "Answer: my"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "This is ___ bag. It belongs to you.",
+      "answer": "your",
+      "solution": "Answer: your"
+    }
+  ],
+  "summary": "We can name toys and say who owns them.",
+  "relatedTopics": [
+    "primary-1-school"
+  ]
+}

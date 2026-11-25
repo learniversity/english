@@ -153,6 +153,209 @@
       "title": "Stories and Picture Talk",
       "path": "data/preschool/stories.json",
       "category": "Language Arts"
+    },
+    {
+      "id": "primary-1-sounds",
+      "level": "primary-1",
+      "title": "Beginning, Middle and Ending Sounds",
+      "path": "data/primary/year-1/sounds.json",
+      "category": "Phonics"
+    },
+    {
+      "id": "primary-1-blending",
+      "level": "primary-1",
+      "title": "Blending and Segmenting Sounds",
+      "path": "data/primary/year-1/blending.json",
+      "category": "Phonics"
+    },
+    {
+      "id": "primary-1-letter-patterns",
+      "level": "primary-1",
+      "title": "Common Letter Patterns",
+      "path": "data/primary/year-1/letter-patterns.json",
+      "category": "Phonics"
+    },
+    {
+      "id": "primary-1-introductions",
+      "level": "primary-1",
+      "title": "Introducing Yourself",
+      "path": "data/primary/year-1/introductions.json",
+      "category": "Speaking"
+    },
+    {
+      "id": "primary-1-numbers-colours",
+      "level": "primary-1",
+      "title": "Numbers and Colours in English",
+      "path": "data/primary/year-1/numbers-colours.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-1-school",
+      "level": "primary-1",
+      "title": "At School",
+      "path": "data/primary/year-1/school.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-1-toys",
+      "level": "primary-1",
+      "title": "Toys and Belongings",
+      "path": "data/primary/year-1/toys.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-1-animals",
+      "level": "primary-1",
+      "title": "Animals and Their Features",
+      "path": "data/primary/year-1/animals.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-1-food",
+      "level": "primary-1",
+      "title": "Food and Drinks",
+      "path": "data/primary/year-1/food.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-1-naming-words",
+      "level": "primary-1",
+      "title": "Naming Words (Nouns)",
+      "path": "data/primary/year-1/naming-words.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-1-articles",
+      "level": "primary-1",
+      "title": "A and An",
+      "path": "data/primary/year-1/articles.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-1-plurals",
+      "level": "primary-1",
+      "title": "One and Many",
+      "path": "data/primary/year-1/plurals.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-1-pronouns",
+      "level": "primary-1",
+      "title": "I, You, He, She and It",
+      "path": "data/primary/year-1/pronouns.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-1-be",
+      "level": "primary-1",
+      "title": "Am, Is and Are",
+      "path": "data/primary/year-1/be.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-1-this-that",
+      "level": "primary-1",
+      "title": "This and That",
+      "path": "data/primary/year-1/this-that.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-1-adjectives",
+      "level": "primary-1",
+      "title": "Describing Words",
+      "path": "data/primary/year-1/adjectives.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-1-can",
+      "level": "primary-1",
+      "title": "Can and Cannot",
+      "path": "data/primary/year-1/can.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-1-have-has",
+      "level": "primary-1",
+      "title": "Have and Has",
+      "path": "data/primary/year-1/have-has.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-1-location",
+      "level": "primary-1",
+      "title": "In, On and Under",
+      "path": "data/primary/year-1/location.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-1-questions",
+      "level": "primary-1",
+      "title": "Simple Questions and Answers",
+      "path": "data/primary/year-1/questions.json",
+      "category": "Speaking"
+    },
+    {
+      "id": "primary-1-instructions",
+      "level": "primary-1",
+      "title": "Listening to Instructions and Questions",
+      "path": "data/primary/year-1/instructions.json",
+      "category": "Listening"
+    },
+    {
+      "id": "primary-1-listening-details",
+      "level": "primary-1",
+      "title": "Listening for Meaning",
+      "path": "data/primary/year-1/listening-details.json",
+      "category": "Listening"
+    },
+    {
+      "id": "primary-1-reading-words",
+      "level": "primary-1",
+      "title": "Reading Common Words and Labels",
+      "path": "data/primary/year-1/reading-words.json",
+      "category": "Reading"
+    },
+    {
+      "id": "primary-1-reading-comprehension",
+      "level": "primary-1",
+      "title": "Reading Short Sentences and Stories",
+      "path": "data/primary/year-1/reading-comprehension.json",
+      "category": "Reading"
+    },
+    {
+      "id": "primary-1-writing-letters",
+      "level": "primary-1",
+      "title": "Handwriting and Word Spacing",
+      "path": "data/primary/year-1/writing-letters.json",
+      "category": "Writing"
+    },
+    {
+      "id": "primary-1-punctuation",
+      "level": "primary-1",
+      "title": "Capital Letters and Full Stops",
+      "path": "data/primary/year-1/punctuation.json",
+      "category": "Writing"
+    },
+    {
+      "id": "primary-1-writing-sentences",
+      "level": "primary-1",
+      "title": "Writing Simple Sentences",
+      "path": "data/primary/year-1/writing-sentences.json",
+      "category": "Writing"
+    },
+    {
+      "id": "primary-1-rhymes",
+      "level": "primary-1",
+      "title": "Chants, Rhymes and Action Songs",
+      "path": "data/primary/year-1/rhymes.json",
+      "category": "Language Arts"
+    },
+    {
+      "id": "primary-1-story-art",
+      "level": "primary-1",
+      "title": "Stories and Creative Responses",
+      "path": "data/primary/year-1/story-art.json",
+      "category": "Language Arts"
     }
   ]
 }

@@ -1,0 +1,77 @@
+{
+  "id": "primary-1-can",
+  "title": "Can and Cannot",
+  "level": "primary-1",
+  "category": "Grammar",
+  "introduction": "Practise can and cannot with familiar words and short sentences.",
+  "definition": "Use can to say what someone is able to do and cannot to say what they are not able to do.",
+  "rules": [
+    "Use the action word without adding s after can.",
+    "Ask Can you ...? to find out about an ability."
+  ],
+  "grammar": [
+    {
+      "expression": "can + action",
+      "description": "A bird can fly."
+    },
+    {
+      "expression": "cannot + action",
+      "description": "A fish cannot walk on legs."
+    },
+    {
+      "expression": "Can you swim?",
+      "description": "Ask about an ability."
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "A fish can ___ (swim or swims).",
+      "steps": [
+        "Use the action word without adding s after can."
+      ],
+      "answer": "swim"
+    },
+    {
+      "question": "A cat ___ read a book. (can or cannot)",
+      "steps": [
+        "Ask Can you ...? to find out about an ability."
+      ],
+      "answer": "cannot"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "A fish can ___ (swim or swims).",
+      "answer": "swim",
+      "solution": "Answer: swim"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "A cat ___ read a book. (can or cannot)",
+      "answer": "cannot",
+      "solution": "Answer: cannot"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "___ you jump?",
+      "answer": "Can",
+      "solution": "Answer: Can"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "A bird can ___ (fly or flies).",
+      "answer": "fly",
+      "solution": "Answer: fly"
+    }
+  ],
+  "summary": "Use can to say what someone is able to do and cannot to say what they are not able to do.",
+  "relatedTopics": [
+    "primary-1-adjectives"
+  ]
+}

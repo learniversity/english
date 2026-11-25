@@ -1,0 +1,73 @@
+{
+  "id": "primary-1-plurals",
+  "title": "One and Many",
+  "level": "primary-1",
+  "category": "Grammar",
+  "introduction": "Practise one and many with familiar words and short sentences.",
+  "definition": "Singular words name one thing. Plural words name more than one.",
+  "rules": [
+    "Many plural nouns end in s: book, books.",
+    "Some end in es: box, boxes."
+  ],
+  "grammar": [
+    {
+      "expression": "one book / two books",
+      "description": "Add s to many nouns."
+    },
+    {
+      "expression": "one box / two boxes",
+      "description": "Add es to words such as box."
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Two ___ (cat).",
+      "steps": [
+        "Many plural nouns end in s: book, books."
+      ],
+      "answer": "cats"
+    },
+    {
+      "question": "Three ___ (box).",
+      "steps": [
+        "Some end in es: box, boxes."
+      ],
+      "answer": "boxes"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Two ___ (cat).",
+      "answer": "cats",
+      "solution": "Answer: cats"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Three ___ (box).",
+      "answer": "boxes",
+      "solution": "Answer: boxes"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "One ___ (pens).",
+      "answer": "pen",
+      "solution": "Answer: pen"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Four ___ (book).",
+      "answer": "books",
+      "solution": "Answer: books"
+    }
+  ],
+  "summary": "Singular words name one thing. Plural words name more than one.",
+  "relatedTopics": [
+    "primary-1-articles"
+  ]
+}

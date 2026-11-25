@@ -1,0 +1,64 @@
+{
+  "id": "primary-1-letter-patterns",
+  "title": "Common Letter Patterns",
+  "level": "primary-1",
+  "category": "Phonics",
+  "introduction": "Practise common letter patterns with familiar words and short sentences.",
+  "definition": "Two letters can work together to represent one sound, such as sh in ship.",
+  "rules": [
+    "Read ship, shop, chin, chat and thin aloud.",
+    "Do not pronounce the two letters separately when they represent one sound."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Complete: __ip (a boat; sh or ch).",
+      "steps": [
+        "Read ship, shop, chin, chat and thin aloud."
+      ],
+      "answer": "sh"
+    },
+    {
+      "question": "Complete: __air (a seat; sh or ch).",
+      "steps": [
+        "Do not pronounce the two letters separately when they represent one sound."
+      ],
+      "answer": "ch"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete: __ip (a boat; sh or ch).",
+      "answer": "sh",
+      "solution": "Answer: sh"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: __air (a seat; sh or ch).",
+      "answer": "ch",
+      "solution": "Answer: ch"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: __in (not thick; th or sh).",
+      "answer": "th",
+      "solution": "Answer: th"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which word begins with the same sound as shop: ship or cat?",
+      "answer": "ship",
+      "solution": "Answer: ship"
+    }
+  ],
+  "summary": "Two letters can work together to represent one sound, such as sh in ship.",
+  "relatedTopics": [
+    "primary-1-blending"
+  ]
+}

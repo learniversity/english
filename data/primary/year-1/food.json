@@ -1,0 +1,94 @@
+{
+  "id": "primary-1-food",
+  "title": "Food and Drinks",
+  "level": "primary-1",
+  "category": "Vocabulary",
+  "introduction": "Practise food and drinks with familiar words and short sentences.",
+  "definition": "Use English to name food and drinks and express likes and dislikes.",
+  "rules": [
+    "Practise asking what someone likes.",
+    "Use polite words when asking for food."
+  ],
+  "grammar": [
+    {
+      "expression": "I like rice.",
+      "description": "Express a preference."
+    },
+    {
+      "expression": "I do not like tea.",
+      "description": "Express a negative preference."
+    },
+    {
+      "expression": "Do you like milk?",
+      "description": "Ask about a preference."
+    }
+  ],
+  "vocabulary": [
+    {
+      "expression": "rice",
+      "description": "A grain often eaten with meals."
+    },
+    {
+      "expression": "bread",
+      "description": "Food made from dough and baked."
+    },
+    {
+      "expression": "milk",
+      "description": "A drink produced by mammals or made from plants."
+    },
+    {
+      "expression": "banana",
+      "description": "A long fruit with a peel."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Complete: I ___ apples. (like or likes)",
+      "steps": [
+        "Practise asking what someone likes."
+      ],
+      "answer": "like"
+    },
+    {
+      "question": "Complete: Do you ___ milk?",
+      "steps": [
+        "Use polite words when asking for food."
+      ],
+      "answer": "like"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete: I ___ apples. (like or likes)",
+      "answer": "like",
+      "solution": "Answer: like"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: Do you ___ milk?",
+      "answer": "like",
+      "solution": "Answer: like"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which is a drink: milk or rice?",
+      "answer": "milk",
+      "solution": "Answer: milk"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: I do ___ like tea.",
+      "answer": "not",
+      "solution": "Answer: not"
+    }
+  ],
+  "summary": "Use English to name food and drinks and express likes and dislikes.",
+  "relatedTopics": [
+    "primary-1-animals"
+  ]
+}

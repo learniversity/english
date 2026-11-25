@@ -1,0 +1,73 @@
+{
+  "id": "primary-1-pronouns",
+  "title": "I, You, He, She and It",
+  "level": "primary-1",
+  "category": "Grammar",
+  "introduction": "Practise i, you, he, she and it with familiar words and short sentences.",
+  "definition": "These words can replace names when we know who or what we mean.",
+  "rules": [
+    "Use I for yourself and you for the person you address.",
+    "Use he or she for a person who uses that pronoun; it can refer to a thing."
+  ],
+  "grammar": [
+    {
+      "expression": "I / you",
+      "description": "I am here. You are here."
+    },
+    {
+      "expression": "he / she / it",
+      "description": "He is seven. She is seven. It is red."
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "___ am happy.",
+      "steps": [
+        "Use I for yourself and you for the person you address."
+      ],
+      "answer": "I"
+    },
+    {
+      "question": "___ are my friend. (You or I)",
+      "steps": [
+        "Use he or she for a person who uses that pronoun; it can refer to a thing."
+      ],
+      "answer": "You"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "___ am happy.",
+      "answer": "I",
+      "solution": "Answer: I"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "___ are my friend. (You or I)",
+      "answer": "You",
+      "solution": "Answer: You"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "The ball is red. ___ is red.",
+      "answer": "It",
+      "solution": "Answer: It"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Maya says she is happy. ___ is happy.",
+      "answer": "She",
+      "solution": "Answer: She"
+    }
+  ],
+  "summary": "These words can replace names when we know who or what we mean.",
+  "relatedTopics": [
+    "primary-1-plurals"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "primary-1-blending",
+  "title": "Blending and Segmenting Sounds",
+  "level": "primary-1",
+  "category": "Phonics",
+  "introduction": "Practise blending and segmenting sounds with familiar words and short sentences.",
+  "definition": "Blending joins sounds to read a word. Segmenting separates a word into sounds to help spell it.",
+  "rules": [
+    "Blend /s/ /i/ /t/ to read sit.",
+    "Say stop slowly: /s/ /t/ /o/ /p/. Each sound matters."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Join c-a-p.",
+      "steps": [
+        "Blend /s/ /i/ /t/ to read sit."
+      ],
+      "answer": "cap"
+    },
+    {
+      "question": "Join s-t-o-p.",
+      "steps": [
+        "Say stop slowly: /s/ /t/ /o/ /p/. Each sound matters."
+      ],
+      "answer": "stop"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Join c-a-p.",
+      "answer": "cap",
+      "solution": "Answer: cap"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Join s-t-o-p.",
+      "answer": "stop",
+      "solution": "Answer: stop"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Join f-l-a-g.",
+      "answer": "flag",
+      "solution": "Answer: flag"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Write the first two letters in slip.",
+      "answer": "sl",
+      "solution": "Answer: sl"
+    }
+  ],
+  "summary": "Blending joins sounds to read a word. Segmenting separates a word into sounds to help spell it.",
+  "relatedTopics": [
+    "primary-1-sounds"
+  ]
+}

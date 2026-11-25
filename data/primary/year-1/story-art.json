@@ -1,0 +1,65 @@
+{
+  "id": "primary-1-story-art",
+  "title": "Stories and Creative Responses",
+  "level": "primary-1",
+  "category": "Language Arts",
+  "introduction": "Practise stories and creative responses with familiar words and short sentences.",
+  "definition": "Stories can inspire us to draw, talk and make things. Think about the people, places and events in a story.",
+  "rules": [
+    "Read: Mei finds a little bird near a tree. She calls her father. They watch the bird fly away.",
+    "Draw a picture of the tree and the bird.",
+    "Tell a partner what you drew and why you liked that part."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Who finds the bird?",
+      "steps": [
+        "Read: Mei finds a little bird near a tree. She calls her father. They watch the bird fly away."
+      ],
+      "answer": "Mei"
+    },
+    {
+      "question": "Where is the bird? Near a ___.",
+      "steps": [
+        "Draw a picture of the tree and the bird."
+      ],
+      "answer": "tree"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Who finds the bird?",
+      "answer": "Mei",
+      "solution": "Answer: Mei"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Where is the bird? Near a ___.",
+      "answer": "tree",
+      "solution": "Answer: tree"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Who does Mei call? Her ___.",
+      "answer": "father",
+      "solution": "Answer: father"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What does the bird do? It flies ___.",
+      "answer": "away",
+      "solution": "Answer: away"
+    }
+  ],
+  "summary": "Stories can inspire us to draw, talk and make things. Think about the people, places and events in a story.",
+  "relatedTopics": [
+    "primary-1-rhymes"
+  ]
+}

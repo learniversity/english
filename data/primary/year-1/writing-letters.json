@@ -1,0 +1,68 @@
+{
+  "id": "primary-1-writing-letters",
+  "title": "Handwriting and Word Spacing",
+  "level": "primary-1",
+  "category": "Writing",
+  "introduction": "Practise handwriting and word spacing with familiar words and short sentences.",
+  "definition": "Write letters with clear shapes and leave spaces between words.",
+  "rules": [
+    "Practise uppercase and lowercase letters on lined paper.",
+    "Write from left to right.",
+    "Copy a short phrase, then check the spaces."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Copy exactly: red bag.",
+      "steps": [
+        "Practise uppercase and lowercase letters on lined paper."
+      ],
+      "answer": "red bag"
+    },
+    {
+      "question": "Add spaces: IamSam.",
+      "steps": [
+        "Write from left to right."
+      ],
+      "answer": "I am Sam."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Copy exactly: red bag.",
+      "answer": "red bag",
+      "solution": "Answer: red bag",
+      "caseSensitive": true
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Add spaces: IamSam.",
+      "answer": "I am Sam.",
+      "solution": "Answer: I am Sam.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Copy exactly: a small cat.",
+      "answer": "a small cat",
+      "solution": "Answer: a small cat",
+      "caseSensitive": true
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Add a space: bluepen",
+      "answer": "blue pen",
+      "solution": "Answer: blue pen"
+    }
+  ],
+  "summary": "Write letters with clear shapes and leave spaces between words.",
+  "relatedTopics": [
+    "primary-1-reading-comprehension"
+  ]
+}

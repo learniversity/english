@@ -1,0 +1,90 @@
+{
+  "id": "primary-1-school",
+  "title": "At School",
+  "level": "primary-1",
+  "category": "Vocabulary",
+  "introduction": "Practise at school with familiar words and short sentences.",
+  "definition": "Use classroom words to name, identify and describe objects at school.",
+  "rules": [
+    "Ask a partner what an object is.",
+    "Describe its colour or size."
+  ],
+  "grammar": [
+    {
+      "expression": "What is this?",
+      "description": "Ask about a nearby object."
+    },
+    {
+      "expression": "It is a pencil.",
+      "description": "Name an object."
+    }
+  ],
+  "vocabulary": [
+    {
+      "expression": "ruler",
+      "description": "A tool for measuring or drawing straight lines."
+    },
+    {
+      "expression": "rubber",
+      "description": "A tool for removing pencil marks."
+    },
+    {
+      "expression": "desk",
+      "description": "A table used for work."
+    },
+    {
+      "expression": "schoolbag",
+      "description": "A bag for school materials."
+    }
+  ],
+  "examples": [
+    {
+      "question": "What measures length: ruler or book?",
+      "steps": [
+        "Ask a partner what an object is."
+      ],
+      "answer": "ruler"
+    },
+    {
+      "question": "What removes pencil marks?",
+      "steps": [
+        "Describe its colour or size."
+      ],
+      "answer": "rubber"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "What measures length: ruler or book?",
+      "answer": "ruler",
+      "solution": "Answer: ruler"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What removes pencil marks?",
+      "answer": "rubber",
+      "solution": "Answer: rubber"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "It ___ a desk.",
+      "answer": "is",
+      "solution": "Answer: is"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What is ___? (this or am)",
+      "answer": "this",
+      "solution": "Answer: this"
+    }
+  ],
+  "summary": "Use classroom words to name, identify and describe objects at school.",
+  "relatedTopics": [
+    "primary-1-numbers-colours"
+  ]
+}

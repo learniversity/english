@@ -1,0 +1,65 @@
+{
+  "id": "primary-1-instructions",
+  "title": "Listening to Instructions and Questions",
+  "level": "primary-1",
+  "category": "Listening",
+  "introduction": "Practise listening to instructions and questions with familiar words and short sentences.",
+  "definition": "Listen to short instructions and questions about familiar things.",
+  "rules": [
+    "Ask a partner to read aloud: Open your book. Point to the door. Close your book.",
+    "Follow each instruction before checking the text.",
+    "Try asking your partner to repeat an instruction if needed."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Complete the instruction: Open your ___. (book or run)",
+      "steps": [
+        "Ask a partner to read aloud: Open your book. Point to the door. Close your book."
+      ],
+      "answer": "book"
+    },
+    {
+      "question": "Complete: Point ___ the door.",
+      "steps": [
+        "Follow each instruction before checking the text."
+      ],
+      "answer": "to"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete the instruction: Open your ___. (book or run)",
+      "answer": "book",
+      "solution": "Answer: book"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: Point ___ the door.",
+      "answer": "to",
+      "solution": "Answer: to"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which instruction means stop reading: close your book or open your book?",
+      "answer": "close your book",
+      "solution": "Answer: close your book"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete the polite request: Say it again, ___.",
+      "answer": "please",
+      "solution": "Answer: please"
+    }
+  ],
+  "summary": "Listen to short instructions and questions about familiar things.",
+  "relatedTopics": [
+    "primary-1-questions"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "primary-1-animals",
+  "title": "Animals and Their Features",
+  "level": "primary-1",
+  "category": "Vocabulary",
+  "introduction": "Practise animals and their features with familiar words and short sentences.",
+  "definition": "Describe animals using names, colours, body parts and simple actions.",
+  "rules": [
+    "Say what an animal can do.",
+    "Describe one feature at a time."
+  ],
+  "grammar": [
+    {
+      "expression": "A bird can fly.",
+      "description": "Can expresses ability."
+    },
+    {
+      "expression": "A fish has fins.",
+      "description": "Has describes a feature."
+    }
+  ],
+  "vocabulary": [
+    {
+      "expression": "tail",
+      "description": "A body part at the back of many animals."
+    },
+    {
+      "expression": "wing",
+      "description": "A body part used by many animals to fly."
+    },
+    {
+      "expression": "fin",
+      "description": "A body part that helps a fish move in water."
+    },
+    {
+      "expression": "frog",
+      "description": "An animal that can jump and lives near water."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A fish can ___.",
+      "steps": [
+        "Say what an animal can do."
+      ],
+      "answer": "swim"
+    },
+    {
+      "question": "A bird has two ___.",
+      "steps": [
+        "Describe one feature at a time."
+      ],
+      "answer": "wings"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "A fish can ___.",
+      "answer": "swim",
+      "solution": "Answer: swim"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "A bird has two ___.",
+      "answer": "wings",
+      "solution": "Answer: wings"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "A frog can ___ (jump or read).",
+      "answer": "jump",
+      "solution": "Answer: jump"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "A cat has a ___. (tail or fin)",
+      "answer": "tail",
+      "solution": "Answer: tail"
+    }
+  ],
+  "summary": "Describe animals using names, colours, body parts and simple actions.",
+  "relatedTopics": [
+    "primary-1-toys"
+  ]
+}

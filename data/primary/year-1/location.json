@@ -1,0 +1,77 @@
+{
+  "id": "primary-1-location",
+  "title": "In, On and Under",
+  "level": "primary-1",
+  "category": "Grammar",
+  "introduction": "Practise in, on and under with familiar words and short sentences.",
+  "definition": "These words show where something is.",
+  "rules": [
+    "Place a toy in a box, on a box and under a box.",
+    "Ask Where is the toy?"
+  ],
+  "grammar": [
+    {
+      "expression": "in",
+      "description": "Inside something."
+    },
+    {
+      "expression": "on",
+      "description": "Resting on a surface."
+    },
+    {
+      "expression": "under",
+      "description": "Below something."
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "A pencil inside a bag is ___ the bag.",
+      "steps": [
+        "Place a toy in a box, on a box and under a box."
+      ],
+      "answer": "in"
+    },
+    {
+      "question": "A book resting on a desk is ___ the desk.",
+      "steps": [
+        "Ask Where is the toy?"
+      ],
+      "answer": "on"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "A pencil inside a bag is ___ the bag.",
+      "answer": "in",
+      "solution": "Answer: in"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "A book resting on a desk is ___ the desk.",
+      "answer": "on",
+      "solution": "Answer: on"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "A shoe below a bed is ___ the bed.",
+      "answer": "under",
+      "solution": "Answer: under"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "___ is the ball? (Where or Who)",
+      "answer": "Where",
+      "solution": "Answer: Where"
+    }
+  ],
+  "summary": "These words show where something is.",
+  "relatedTopics": [
+    "primary-1-have-has"
+  ]
+}

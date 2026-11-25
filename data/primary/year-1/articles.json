@@ -1,0 +1,73 @@
+{
+  "id": "primary-1-articles",
+  "title": "A and An",
+  "level": "primary-1",
+  "category": "Grammar",
+  "introduction": "Practise a and an with familiar words and short sentences.",
+  "definition": "Use a or an before a single countable thing when it is not already identified. Choose by the next sound.",
+  "rules": [
+    "Use a before a consonant sound: a book.",
+    "Use an before a vowel sound: an apple."
+  ],
+  "grammar": [
+    {
+      "expression": "a + consonant sound",
+      "description": "a pen, a bag"
+    },
+    {
+      "expression": "an + vowel sound",
+      "description": "an egg, an orange"
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "___ apple",
+      "steps": [
+        "Use a before a consonant sound: a book."
+      ],
+      "answer": "an"
+    },
+    {
+      "question": "___ pencil",
+      "steps": [
+        "Use an before a vowel sound: an apple."
+      ],
+      "answer": "a"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "___ apple",
+      "answer": "an",
+      "solution": "Answer: an"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "___ pencil",
+      "answer": "a",
+      "solution": "Answer: a"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "___ egg",
+      "answer": "an",
+      "solution": "Answer: an"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "___ kite",
+      "answer": "a",
+      "solution": "Answer: a"
+    }
+  ],
+  "summary": "Use a or an before a single countable thing when it is not already identified. Choose by the next sound.",
+  "relatedTopics": [
+    "primary-1-naming-words"
+  ]
+}

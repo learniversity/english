@@ -1,0 +1,64 @@
+{
+  "id": "primary-1-reading-comprehension",
+  "title": "Reading Short Sentences and Stories",
+  "level": "primary-1",
+  "category": "Reading",
+  "introduction": "Practise reading short sentences and stories with familiar words and short sentences.",
+  "definition": "Read for the main idea and small details. Read again if you forget something.",
+  "rules": [
+    "Read: Ben has a small dog. The dog is brown. It likes to run. Ben plays with it in the garden.",
+    "Think about who the text is about and what happens."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Who has a dog?",
+      "steps": [
+        "Read: Ben has a small dog. The dog is brown. It likes to run. Ben plays with it in the garden."
+      ],
+      "answer": "Ben"
+    },
+    {
+      "question": "What colour is the dog?",
+      "steps": [
+        "Think about who the text is about and what happens."
+      ],
+      "answer": "brown"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Who has a dog?",
+      "answer": "Ben",
+      "solution": "Answer: Ben"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What colour is the dog?",
+      "answer": "brown",
+      "solution": "Answer: brown"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What does the dog like to do?",
+      "answer": "run",
+      "solution": "Answer: run"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Where do they play?",
+      "answer": "garden",
+      "solution": "Answer: garden"
+    }
+  ],
+  "summary": "Read for the main idea and small details. Read again if you forget something.",
+  "relatedTopics": [
+    "primary-1-reading-words"
+  ]
+}

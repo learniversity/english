@@ -1,0 +1,76 @@
+{
+  "id": "primary-1-be",
+  "title": "Am, Is and Are",
+  "level": "primary-1",
+  "category": "Grammar",
+  "introduction": "Practise am, is and are with familiar words and short sentences.",
+  "definition": "Am, is and are help us say what someone or something is like.",
+  "rules": [
+    "Use am with I, is with he, she or it, and are with you, we or they."
+  ],
+  "grammar": [
+    {
+      "expression": "I am",
+      "description": "I am ready."
+    },
+    {
+      "expression": "He / she / it is",
+      "description": "It is small."
+    },
+    {
+      "expression": "You / we / they are",
+      "description": "They are happy."
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "I ___ ready.",
+      "steps": [
+        "Use am with I, is with he, she or it, and are with you, we or they."
+      ],
+      "answer": "am"
+    },
+    {
+      "question": "It ___ blue.",
+      "steps": [
+        "Use am with I, is with he, she or it, and are with you, we or they."
+      ],
+      "answer": "is"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "I ___ ready.",
+      "answer": "am",
+      "solution": "Answer: am"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "It ___ blue.",
+      "answer": "is",
+      "solution": "Answer: is"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "You ___ kind.",
+      "answer": "are",
+      "solution": "Answer: are"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "They ___ here.",
+      "answer": "are",
+      "solution": "Answer: are"
+    }
+  ],
+  "summary": "Am, is and are help us say what someone or something is like.",
+  "relatedTopics": [
+    "primary-1-pronouns"
+  ]
+}

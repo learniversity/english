@@ -1,0 +1,73 @@
+{
+  "id": "primary-1-introductions",
+  "title": "Introducing Yourself",
+  "level": "primary-1",
+  "category": "Speaking",
+  "introduction": "Practise introducing yourself with familiar words and short sentences.",
+  "definition": "Use short sentences to tell someone your name, age and how you feel.",
+  "rules": [
+    "Practise asking and answering with a partner.",
+    "Use a friendly voice and take turns."
+  ],
+  "grammar": [
+    {
+      "expression": "What is your name?",
+      "description": "Ask someone their name."
+    },
+    {
+      "expression": "I am seven.",
+      "description": "Tell someone your age."
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "My ___ is Ali.",
+      "steps": [
+        "Practise asking and answering with a partner."
+      ],
+      "answer": "name"
+    },
+    {
+      "question": "I ___ seven.",
+      "steps": [
+        "Use a friendly voice and take turns."
+      ],
+      "answer": "am"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "My ___ is Ali.",
+      "answer": "name",
+      "solution": "Answer: name"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "I ___ seven.",
+      "answer": "am",
+      "solution": "Answer: am"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "How ___ you?",
+      "answer": "are",
+      "solution": "Answer: are"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "I am fine, thank ___.",
+      "answer": "you",
+      "solution": "Answer: you"
+    }
+  ],
+  "summary": "Use short sentences to tell someone your name, age and how you feel.",
+  "relatedTopics": [
+    "primary-1-letter-patterns"
+  ]
+}

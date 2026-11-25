@@ -1,0 +1,65 @@
+{
+  "id": "primary-1-listening-details",
+  "title": "Listening for Meaning",
+  "level": "primary-1",
+  "category": "Listening",
+  "introduction": "Practise listening for meaning with familiar words and short sentences.",
+  "definition": "Listen for who, what and where. A short spoken message may contain several details.",
+  "rules": [
+    "Ask a partner to read this twice: Lina has a red bag. She puts it on the chair. Her book is in the bag.",
+    "Look away from the text while listening.",
+    "Answer the questions from what you heard."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Who has a bag?",
+      "steps": [
+        "Ask a partner to read this twice: Lina has a red bag. She puts it on the chair. Her book is in the bag."
+      ],
+      "answer": "Lina"
+    },
+    {
+      "question": "What colour is the bag?",
+      "steps": [
+        "Look away from the text while listening."
+      ],
+      "answer": "red"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Who has a bag?",
+      "answer": "Lina",
+      "solution": "Answer: Lina"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What colour is the bag?",
+      "answer": "red",
+      "solution": "Answer: red"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Where is the bag? (chair or table)",
+      "answer": "chair",
+      "solution": "Answer: chair"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What is inside the bag?",
+      "answer": "book",
+      "solution": "Answer: book"
+    }
+  ],
+  "summary": "Listen for who, what and where. A short spoken message may contain several details.",
+  "relatedTopics": [
+    "primary-1-instructions"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "primary-1-naming-words",
+  "title": "Naming Words (Nouns)",
+  "level": "primary-1",
+  "category": "Grammar",
+  "introduction": "Practise naming words (nouns) with familiar words and short sentences.",
+  "definition": "Naming words identify people, animals, places and things.",
+  "rules": [
+    "Find naming words in a simple sentence.",
+    "Use familiar names of things before learning detailed grammar."
+  ],
+  "grammar": [
+    {
+      "expression": "Nouns",
+      "description": "Words such as teacher, cat, school and bag name things or people."
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Which is a naming word: run or cat?",
+      "steps": [
+        "Find naming words in a simple sentence."
+      ],
+      "answer": "cat"
+    },
+    {
+      "question": "Which names a place: school or jump?",
+      "steps": [
+        "Use familiar names of things before learning detailed grammar."
+      ],
+      "answer": "school"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which is a naming word: run or cat?",
+      "answer": "cat",
+      "solution": "Answer: cat"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which names a place: school or jump?",
+      "answer": "school",
+      "solution": "Answer: school"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which names a person: teacher or red?",
+      "answer": "teacher",
+      "solution": "Answer: teacher"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Find the naming word: The dog runs.",
+      "answer": "dog",
+      "solution": "Answer: dog"
+    }
+  ],
+  "summary": "Naming words identify people, animals, places and things.",
+  "relatedTopics": [
+    "primary-1-food"
+  ]
+}

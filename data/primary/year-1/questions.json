@@ -1,0 +1,77 @@
+{
+  "id": "primary-1-questions",
+  "title": "Simple Questions and Answers",
+  "level": "primary-1",
+  "category": "Speaking",
+  "introduction": "Practise simple questions and answers with familiar words and short sentences.",
+  "definition": "Questions help us find out information. Answer using a short phrase or sentence.",
+  "rules": [
+    "Use what for things, who for people and where for places.",
+    "Ask a question with a partner and listen to the answer."
+  ],
+  "grammar": [
+    {
+      "expression": "What is this?",
+      "description": "It is a book."
+    },
+    {
+      "expression": "Who is that?",
+      "description": "That is my teacher."
+    },
+    {
+      "expression": "Where is the bag?",
+      "description": "It is on the desk."
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "___ is your name?",
+      "steps": [
+        "Use what for things, who for people and where for places."
+      ],
+      "answer": "What"
+    },
+    {
+      "question": "___ is that person?",
+      "steps": [
+        "Ask a question with a partner and listen to the answer."
+      ],
+      "answer": "Who"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "___ is your name?",
+      "answer": "What",
+      "solution": "Answer: What"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "___ is that person?",
+      "answer": "Who",
+      "solution": "Answer: Who"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "___ is the ball?",
+      "answer": "Where",
+      "solution": "Answer: Where"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Is it red? Yes, it ___.",
+      "answer": "is",
+      "solution": "Answer: is"
+    }
+  ],
+  "summary": "Questions help us find out information. Answer using a short phrase or sentence.",
+  "relatedTopics": [
+    "primary-1-location"
+  ]
+}
