@@ -1,0 +1,62 @@
+{
+  "id": "preschool-classroom",
+  "title": "Classroom Words",
+  "level": "preschool",
+  "category": "Vocabulary",
+  "introduction": "Learn about classroom words through simple examples and practice.",
+  "definition": "Classroom words name things we use when learning.",
+  "rules": [
+    "Point to an object and say its name."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "book",
+      "description": "Something with pages to read."
+    },
+    {
+      "expression": "chair",
+      "description": "A seat for one person."
+    },
+    {
+      "expression": "pencil",
+      "description": "A tool for writing or drawing."
+    }
+  ],
+  "examples": [
+    {
+      "question": "What do you read: a book or a chair?",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "book"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "What do you read: a book or a chair?",
+      "answer": "book",
+      "solution": "Answer: book"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What do you sit on: a chair or a pencil?",
+      "answer": "chair",
+      "solution": "Answer: chair"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What do you write with: a pencil or a bag?",
+      "answer": "pencil",
+      "solution": "Answer: pencil"
+    }
+  ],
+  "summary": "Classroom words name things we use when learning.",
+  "relatedTopics": [
+    "preschool-family"
+  ]
+}

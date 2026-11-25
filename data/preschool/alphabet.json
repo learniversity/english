@@ -1,0 +1,48 @@
+{
+  "id": "preschool-alphabet",
+  "title": "The Alphabet",
+  "level": "preschool",
+  "category": "Phonics",
+  "introduction": "Learn about the alphabet through simple examples and practice.",
+  "definition": "English has 26 letters. Each letter has an uppercase and a lowercase form.",
+  "rules": [
+    "Say the letters in order.",
+    "Match capital letters to small letters."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Which letter comes after A?",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "B"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which letter comes after A?",
+      "answer": "B",
+      "solution": "Answer: B"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Write the lowercase form of M.",
+      "answer": "m",
+      "solution": "Answer: m"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which letter comes before D?",
+      "answer": "C",
+      "solution": "Answer: C"
+    }
+  ],
+  "summary": "English has 26 letters. Each letter has an uppercase and a lowercase form.",
+  "relatedTopics": []
+}

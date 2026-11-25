@@ -1,0 +1,66 @@
+{
+  "id": "preschool-colours",
+  "title": "Colours",
+  "level": "preschool",
+  "category": "Vocabulary",
+  "introduction": "Learn about colours through simple examples and practice.",
+  "definition": "Colour words describe how things look.",
+  "rules": [
+    "Look at objects around you and name their colours."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "red",
+      "description": "The colour of many ripe strawberries."
+    },
+    {
+      "expression": "blue",
+      "description": "The colour of a clear daytime sky."
+    },
+    {
+      "expression": "green",
+      "description": "The colour of many leaves."
+    },
+    {
+      "expression": "yellow",
+      "description": "The colour of a ripe banana."
+    }
+  ],
+  "examples": [
+    {
+      "question": "What colour is fresh grass usually?",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "green"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "What colour is fresh grass usually?",
+      "answer": "green",
+      "solution": "Answer: green"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What colour is a ripe banana usually?",
+      "answer": "yellow",
+      "solution": "Answer: yellow"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What colour is snow usually?",
+      "answer": "white",
+      "solution": "Answer: white"
+    }
+  ],
+  "summary": "Colour words describe how things look.",
+  "relatedTopics": [
+    "preschool-greetings"
+  ]
+}

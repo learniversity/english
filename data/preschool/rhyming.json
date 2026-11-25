@@ -1,0 +1,50 @@
+{
+  "id": "preschool-rhyming",
+  "title": "Rhyming Words",
+  "level": "preschool",
+  "category": "Phonics",
+  "introduction": "Learn about rhyming words through simple examples and practice.",
+  "definition": "Rhyming words have matching ending sounds, like cat and hat.",
+  "rules": [
+    "Say both words aloud.",
+    "Listen to the ending sounds."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Which rhymes with cat: hat or dog?",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "hat"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which rhymes with cat: hat or dog?",
+      "answer": "hat",
+      "solution": "Answer: hat"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which rhymes with pen: hen or cup?",
+      "answer": "hen",
+      "solution": "Answer: hen"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which rhymes with sun: run or bed?",
+      "answer": "run",
+      "solution": "Answer: run"
+    }
+  ],
+  "summary": "Rhyming words have matching ending sounds, like cat and hat.",
+  "relatedTopics": [
+    "preschool-letter-sounds"
+  ]
+}

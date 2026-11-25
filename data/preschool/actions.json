@@ -1,0 +1,62 @@
+{
+  "id": "preschool-actions",
+  "title": "Action Words",
+  "level": "preschool",
+  "category": "Vocabulary",
+  "introduction": "Learn about action words through simple examples and practice.",
+  "definition": "Action words tell us what someone or something does.",
+  "rules": [
+    "Act out the words as you say them."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "run",
+      "description": "Move quickly on foot."
+    },
+    {
+      "expression": "jump",
+      "description": "Push yourself up from the ground."
+    },
+    {
+      "expression": "read",
+      "description": "Understand written words."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Complete: I ___ water (drink or jump).",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "drink"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete: I ___ water (drink or jump).",
+      "answer": "drink",
+      "solution": "Answer: drink"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: I ___ a book (read or swim).",
+      "answer": "read",
+      "solution": "Answer: read"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: I ___ a song (sing or sit).",
+      "answer": "sing",
+      "solution": "Answer: sing"
+    }
+  ],
+  "summary": "Action words tell us what someone or something does.",
+  "relatedTopics": [
+    "preschool-classroom"
+  ]
+}

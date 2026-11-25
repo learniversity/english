@@ -1,0 +1,63 @@
+{
+  "id": "preschool-simple-words",
+  "title": "Reading Simple Words",
+  "level": "preschool",
+  "category": "Reading",
+  "introduction": "Learn about reading simple words through simple examples and practice.",
+  "definition": "Join the sounds in short words to read them. For example, c-a-t makes cat.",
+  "rules": [
+    "Say each sound slowly, then blend them together.",
+    "Practise with a grown-up."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "cat",
+      "description": "A small animal often kept as a pet."
+    },
+    {
+      "expression": "pen",
+      "description": "Something used to write."
+    },
+    {
+      "expression": "sun",
+      "description": "The star that gives Earth light."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Join c-a-t.",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "cat"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Join c-a-t.",
+      "answer": "cat",
+      "solution": "Answer: cat"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Join p-e-n.",
+      "answer": "pen",
+      "solution": "Answer: pen"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Join s-u-n.",
+      "answer": "sun",
+      "solution": "Answer: sun"
+    }
+  ],
+  "summary": "Join the sounds in short words to read them. For example, c-a-t makes cat.",
+  "relatedTopics": [
+    "preschool-rhyming"
+  ]
+}

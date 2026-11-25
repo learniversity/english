@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": "preschool",
+      "title": "Preschool"
+    },
+    {
+      "id": "primary-1",
+      "title": "Primary 1"
+    },
+    {
+      "id": "primary-2",
+      "title": "Primary 2"
+    },
+    {
+      "id": "primary-3",
+      "title": "Primary 3"
+    },
+    {
+      "id": "primary-4",
+      "title": "Primary 4"
+    },
+    {
+      "id": "primary-5",
+      "title": "Primary 5"
+    },
+    {
+      "id": "primary-6",
+      "title": "Primary 6"
+    },
+    {
+      "id": "secondary-1",
+      "title": "Secondary 1"
+    },
+    {
+      "id": "secondary-2",
+      "title": "Secondary 2"
+    },
+    {
+      "id": "secondary-3",
+      "title": "Secondary 3"
+    },
+    {
+      "id": "secondary-4",
+      "title": "Secondary 4"
+    },
+    {
+      "id": "secondary-5",
+      "title": "Secondary 5"
+    },
+    {
+      "id": "pre-university",
+      "title": "Pre-University"
+    },
+    {
+      "id": "university",
+      "title": "University"
+    },
+    {
+      "id": "advanced",
+      "title": "Advanced English"
+    }
+  ],
+  "topics": [
+    {
+      "id": "preschool-alphabet",
+      "level": "preschool",
+      "title": "The Alphabet",
+      "path": "data/preschool/alphabet.json",
+      "category": "Phonics"
+    },
+    {
+      "id": "preschool-letter-sounds",
+      "level": "preschool",
+      "title": "Letter Sounds",
+      "path": "data/preschool/letter-sounds.json",
+      "category": "Phonics"
+    },
+    {
+      "id": "preschool-rhyming",
+      "level": "preschool",
+      "title": "Rhyming Words",
+      "path": "data/preschool/rhyming.json",
+      "category": "Phonics"
+    },
+    {
+      "id": "preschool-simple-words",
+      "level": "preschool",
+      "title": "Reading Simple Words",
+      "path": "data/preschool/simple-words.json",
+      "category": "Reading"
+    },
+    {
+      "id": "preschool-greetings",
+      "level": "preschool",
+      "title": "Greetings and Polite Words",
+      "path": "data/preschool/greetings.json",
+      "category": "Speaking"
+    },
+    {
+      "id": "preschool-colours",
+      "level": "preschool",
+      "title": "Colours",
+      "path": "data/preschool/colours.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-family",
+      "level": "preschool",
+      "title": "My Family",
+      "path": "data/preschool/family.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-classroom",
+      "level": "preschool",
+      "title": "Classroom Words",
+      "path": "data/preschool/classroom.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-actions",
+      "level": "preschool",
+      "title": "Action Words",
+      "path": "data/preschool/actions.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-instructions",
+      "level": "preschool",
+      "title": "Listening and Following Instructions",
+      "path": "data/preschool/instructions.json",
+      "category": "Listening"
+    },
+    {
+      "id": "preschool-simple-sentences",
+      "level": "preschool",
+      "title": "Simple Spoken Sentences",
+      "path": "data/preschool/simple-sentences.json",
+      "category": "Speaking"
+    },
+    {
+      "id": "preschool-early-writing",
+      "level": "preschool",
+      "title": "Early Writing",
+      "path": "data/preschool/early-writing.json",
+      "category": "Writing"
+    },
+    {
+      "id": "preschool-stories",
+      "level": "preschool",
+      "title": "Stories and Picture Talk",
+      "path": "data/preschool/stories.json",
+      "category": "Language Arts"
+    }
+  ]
+}

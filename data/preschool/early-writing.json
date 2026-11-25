@@ -1,0 +1,50 @@
+{
+  "id": "preschool-early-writing",
+  "title": "Early Writing",
+  "level": "preschool",
+  "category": "Writing",
+  "introduction": "Learn about early writing through simple examples and practice.",
+  "definition": "Writing letters and short words helps us share ideas. Practise drawing lines, tracing letters and copying words.",
+  "rules": [
+    "Use a pencil and paper to trace letters.",
+    "Leave a space between words."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Copy the word cat.",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "cat"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Copy the word cat.",
+      "answer": "cat",
+      "solution": "Answer: cat"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Copy the word sun.",
+      "answer": "sun",
+      "solution": "Answer: sun"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Copy the word book.",
+      "answer": "book",
+      "solution": "Answer: book"
+    }
+  ],
+  "summary": "Writing letters and short words helps us share ideas. Practise drawing lines, tracing letters and copying words.",
+  "relatedTopics": [
+    "preschool-simple-sentences"
+  ]
+}

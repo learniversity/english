@@ -1,0 +1,50 @@
+{
+  "id": "preschool-stories",
+  "title": "Stories and Picture Talk",
+  "level": "preschool",
+  "category": "Language Arts",
+  "introduction": "Learn about stories and picture talk through simple examples and practice.",
+  "definition": "Stories tell us about people, animals or events. Listen, look at pictures and talk about what happens.",
+  "rules": [
+    "Read with an adult: A cat sees a ball. The cat pushes the ball. The ball rolls away.",
+    "Talk about who is in the story and what happens."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Which animal is in the story?",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "cat"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which animal is in the story?",
+      "answer": "cat",
+      "solution": "Answer: cat"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What does the cat push?",
+      "answer": "ball",
+      "solution": "Answer: ball"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What rolls away?",
+      "answer": "ball",
+      "solution": "Answer: ball"
+    }
+  ],
+  "summary": "Stories tell us about people, animals or events. Listen, look at pictures and talk about what happens.",
+  "relatedTopics": [
+    "preschool-early-writing"
+  ]
+}

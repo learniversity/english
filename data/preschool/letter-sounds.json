@@ -1,0 +1,59 @@
+{
+  "id": "preschool-letter-sounds",
+  "title": "Letter Sounds",
+  "level": "preschool",
+  "category": "Phonics",
+  "introduction": "Learn about letter sounds through simple examples and practice.",
+  "definition": "Letters represent sounds. In simple words, m often represents /m/ and s often represents /s/.",
+  "rules": [
+    "Say the first sound in a word, not just the letter name.",
+    "Listen to a grown-up say the words slowly."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "sun",
+      "description": "The bright object in the daytime sky."
+    },
+    {
+      "expression": "map",
+      "description": "A picture showing where places are."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Which letter begins sun?",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "s"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which letter begins sun?",
+      "answer": "s",
+      "solution": "Answer: s"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which letter begins map?",
+      "answer": "m",
+      "solution": "Answer: m"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which letter begins dog?",
+      "answer": "d",
+      "solution": "Answer: d"
+    }
+  ],
+  "summary": "Letters represent sounds. In simple words, m often represents /m/ and s often represents /s/.",
+  "relatedTopics": [
+    "preschool-alphabet"
+  ]
+}

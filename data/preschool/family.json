@@ -1,0 +1,66 @@
+{
+  "id": "preschool-family",
+  "title": "My Family",
+  "level": "preschool",
+  "category": "Vocabulary",
+  "introduction": "Learn about my family through simple examples and practice.",
+  "definition": "Family words help us talk about people in our families.",
+  "rules": [
+    "Families can be different from one another."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "mother",
+      "description": "A female parent."
+    },
+    {
+      "expression": "father",
+      "description": "A male parent."
+    },
+    {
+      "expression": "sister",
+      "description": "A female sibling."
+    },
+    {
+      "expression": "brother",
+      "description": "A male sibling."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Complete the word: moth_r.",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "e"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete the word: moth_r.",
+      "answer": "e",
+      "solution": "Answer: e"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete the word: broth_r.",
+      "answer": "e",
+      "solution": "Answer: e"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete the word: sist_r.",
+      "answer": "e",
+      "solution": "Answer: e"
+    }
+  ],
+  "summary": "Family words help us talk about people in our families.",
+  "relatedTopics": [
+    "preschool-colours"
+  ]
+}

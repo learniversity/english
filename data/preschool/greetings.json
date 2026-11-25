@@ -1,0 +1,59 @@
+{
+  "id": "preschool-greetings",
+  "title": "Greetings and Polite Words",
+  "level": "preschool",
+  "category": "Speaking",
+  "introduction": "Learn about greetings and polite words through simple examples and practice.",
+  "definition": "Greetings help us start conversations. Polite words help us show kindness.",
+  "rules": [
+    "Say hello when meeting someone.",
+    "Say thank you when someone helps you."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "hello",
+      "description": "A greeting."
+    },
+    {
+      "expression": "please",
+      "description": "A polite word used when asking for something."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Complete: Good ___ (a greeting early in the day).",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "morning"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete: Good ___ (a greeting early in the day).",
+      "answer": "morning",
+      "solution": "Answer: morning"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: Thank ___.",
+      "answer": "you",
+      "solution": "Answer: you"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: ___ me (when asking for attention).",
+      "answer": "excuse",
+      "solution": "Answer: excuse"
+    }
+  ],
+  "summary": "Greetings help us start conversations. Polite words help us show kindness.",
+  "relatedTopics": [
+    "preschool-simple-words"
+  ]
+}

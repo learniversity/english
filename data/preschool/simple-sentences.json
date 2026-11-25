@@ -1,0 +1,50 @@
+{
+  "id": "preschool-simple-sentences",
+  "title": "Simple Spoken Sentences",
+  "level": "preschool",
+  "category": "Speaking",
+  "introduction": "Learn about simple spoken sentences through simple examples and practice.",
+  "definition": "A sentence can express a complete idea. Say short sentences about yourself and the world around you.",
+  "rules": [
+    "Use I am to introduce yourself.",
+    "Use I like to talk about things you enjoy."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Complete: I ___ happy (am or is).",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "am"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete: I ___ happy (am or is).",
+      "answer": "am",
+      "solution": "Answer: am"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: I ___ apples (like or likes).",
+      "answer": "like",
+      "solution": "Answer: like"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: This ___ a cat (is or am).",
+      "answer": "is",
+      "solution": "Answer: is"
+    }
+  ],
+  "summary": "A sentence can express a complete idea. Say short sentences about yourself and the world around you.",
+  "relatedTopics": [
+    "preschool-instructions"
+  ]
+}

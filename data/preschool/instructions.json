@@ -1,0 +1,50 @@
+{
+  "id": "preschool-instructions",
+  "title": "Listening and Following Instructions",
+  "level": "preschool",
+  "category": "Listening",
+  "introduction": "Learn about listening and following instructions through simple examples and practice.",
+  "definition": "An instruction tells us what to do. Listen carefully before acting.",
+  "rules": [
+    "Ask a grown-up to read: Stand up. Sit down. Clap your hands.",
+    "Listen and do each action in order."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Complete: Sit ___.",
+      "steps": [
+        "Read or listen to the question. Think about what you have learnt."
+      ],
+      "answer": "down"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete: Sit ___.",
+      "answer": "down",
+      "solution": "Answer: down"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: Stand ___.",
+      "answer": "up",
+      "solution": "Answer: up"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: Clap your ___.",
+      "answer": "hands",
+      "solution": "Answer: hands"
+    }
+  ],
+  "summary": "An instruction tells us what to do. Listen carefully before acting.",
+  "relatedTopics": [
+    "preschool-actions"
+  ]
+}
