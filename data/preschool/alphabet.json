@@ -7,7 +7,9 @@
   "definition": "English has 26 letters. Each letter has an uppercase and a lowercase form.",
   "rules": [
     "Say the letters in order.",
-    "Match capital letters to small letters."
+    "Match capital letters to small letters.",
+    "Uppercase: ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "Lowercase: abcdefghijklmnopqrstuvwxyz"
   ],
   "grammar": [],
   "vocabulary": [],
@@ -33,7 +35,8 @@
       "type": "text",
       "question": "Write the lowercase form of M.",
       "answer": "m",
-      "solution": "Answer: m"
+      "solution": "The lowercase form is m, not M.",
+      "caseSensitive": true
     },
     {
       "id": "q3",
