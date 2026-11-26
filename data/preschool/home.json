@@ -1,0 +1,153 @@
+{
+  "id": "preschool-home",
+  "level": "preschool",
+  "title": "At Home",
+  "category": "Vocabulary",
+  "introduction": "Learn the names of rooms and familiar household things.",
+  "definition": "Learn the names of rooms and familiar household things.",
+  "rules": [
+    "Say each word aloud. Look for examples in everyday life.",
+    "Practise the sentences with a partner."
+  ],
+  "vocabulary": [
+    {
+      "expression": "house",
+      "description": "A building people live in."
+    },
+    {
+      "expression": "room",
+      "description": "A space inside a building."
+    },
+    {
+      "expression": "bedroom",
+      "description": "A room for sleeping."
+    },
+    {
+      "expression": "kitchen",
+      "description": "A room for preparing food."
+    },
+    {
+      "expression": "bathroom",
+      "description": "A room for washing."
+    },
+    {
+      "expression": "living room",
+      "description": "A room for relaxing together."
+    },
+    {
+      "expression": "bed",
+      "description": "Furniture for sleeping."
+    },
+    {
+      "expression": "pillow",
+      "description": "A soft support for the head."
+    },
+    {
+      "expression": "blanket",
+      "description": "A cover to keep warm."
+    },
+    {
+      "expression": "sofa",
+      "description": "A soft seat for several people."
+    },
+    {
+      "expression": "cup",
+      "description": "A container for drinking."
+    },
+    {
+      "expression": "plate",
+      "description": "A flat dish for food."
+    },
+    {
+      "expression": "spoon",
+      "description": "A tool for eating or serving food."
+    },
+    {
+      "expression": "lamp",
+      "description": "A light."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I sleep in my bedroom."
+      ],
+      "answer": "I sleep in my bedroom."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "We eat from plates."
+      ],
+      "answer": "We eat from plates."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I drink from a cup."
+      ],
+      "answer": "I drink from a cup."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The sofa is in the living room."
+      ],
+      "answer": "The sofa is in the living room."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The lamp is on."
+      ],
+      "answer": "The lamp is on."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Where do we prepare food?",
+      "answer": "kitchen",
+      "solution": "Answer: kitchen"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What do we sleep on?",
+      "answer": "bed",
+      "solution": "Answer: bed"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What supports your head in bed?",
+      "answer": "pillow",
+      "solution": "Answer: pillow"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What can cover you to keep warm?",
+      "answer": "blanket",
+      "solution": "Answer: blanket"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "What do you drink from?",
+      "answer": "cup",
+      "solution": "Answer: cup"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "What gives light in a room?",
+      "answer": "lamp",
+      "solution": "Answer: lamp"
+    }
+  ],
+  "summary": "Learn the names of rooms and familiar household things.",
+  "relatedTopics": []
+}

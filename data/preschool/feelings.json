@@ -1,0 +1,137 @@
+{
+  "id": "preschool-feelings",
+  "level": "preschool",
+  "title": "Feelings",
+  "category": "Vocabulary",
+  "introduction": "Use words to tell others how you feel.",
+  "definition": "Use words to tell others how you feel.",
+  "rules": [
+    "Say each word aloud. Look for examples in everyday life.",
+    "Practise the sentences with a partner."
+  ],
+  "vocabulary": [
+    {
+      "expression": "happy",
+      "description": "Feeling pleased."
+    },
+    {
+      "expression": "sad",
+      "description": "Feeling unhappy."
+    },
+    {
+      "expression": "angry",
+      "description": "Feeling upset or cross."
+    },
+    {
+      "expression": "scared",
+      "description": "Feeling afraid."
+    },
+    {
+      "expression": "tired",
+      "description": "Needing rest."
+    },
+    {
+      "expression": "excited",
+      "description": "Feeling eager and happy."
+    },
+    {
+      "expression": "surprised",
+      "description": "Feeling something unexpected."
+    },
+    {
+      "expression": "calm",
+      "description": "Feeling peaceful."
+    },
+    {
+      "expression": "worried",
+      "description": "Thinking something might go wrong."
+    },
+    {
+      "expression": "proud",
+      "description": "Feeling pleased about something you did."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I am happy to see you."
+      ],
+      "answer": "I am happy to see you."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I feel tired after playing."
+      ],
+      "answer": "I feel tired after playing."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I am scared of the loud noise."
+      ],
+      "answer": "I am scared of the loud noise."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I feel calm now."
+      ],
+      "answer": "I feel calm now."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I am excited about my trip."
+      ],
+      "answer": "I am excited about my trip."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "How might you feel when you need sleep?",
+      "answer": "tired",
+      "solution": "Answer: tired"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What means feeling afraid?",
+      "answer": "scared",
+      "solution": "Answer: scared"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What means feeling peaceful?",
+      "answer": "calm",
+      "solution": "Answer: calm"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What means feeling pleased?",
+      "answer": "happy",
+      "solution": "Answer: happy"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "What means feeling unhappy?",
+      "answer": "sad",
+      "solution": "Answer: sad"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "What means feeling something unexpected?",
+      "answer": "surprised",
+      "solution": "Answer: surprised"
+    }
+  ],
+  "summary": "Use words to tell others how you feel.",
+  "relatedTopics": []
+}

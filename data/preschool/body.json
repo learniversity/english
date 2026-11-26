@@ -1,0 +1,153 @@
+{
+  "id": "preschool-body",
+  "level": "preschool",
+  "title": "My Body",
+  "category": "Vocabulary",
+  "introduction": "Learn the names of body parts and how we use them.",
+  "definition": "Learn the names of body parts and how we use them.",
+  "rules": [
+    "Say each word aloud. Look for examples in everyday life.",
+    "Practise the sentences with a partner."
+  ],
+  "vocabulary": [
+    {
+      "expression": "head",
+      "description": "The top part of the body."
+    },
+    {
+      "expression": "hair",
+      "description": "The strands growing on the head."
+    },
+    {
+      "expression": "eye",
+      "description": "We use it to see."
+    },
+    {
+      "expression": "ear",
+      "description": "We use it to hear."
+    },
+    {
+      "expression": "nose",
+      "description": "We use it to smell."
+    },
+    {
+      "expression": "mouth",
+      "description": "We use it to speak and eat."
+    },
+    {
+      "expression": "teeth",
+      "description": "We use them to bite and chew."
+    },
+    {
+      "expression": "tongue",
+      "description": "Helps us taste and speak."
+    },
+    {
+      "expression": "hand",
+      "description": "We use it to hold things."
+    },
+    {
+      "expression": "finger",
+      "description": "One of the parts of a hand."
+    },
+    {
+      "expression": "arm",
+      "description": "Connects the hand to the shoulder."
+    },
+    {
+      "expression": "leg",
+      "description": "Helps us stand and walk."
+    },
+    {
+      "expression": "foot",
+      "description": "The end of a leg."
+    },
+    {
+      "expression": "knee",
+      "description": "The joint in the middle of a leg."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I see with my eyes."
+      ],
+      "answer": "I see with my eyes."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I hear with my ears."
+      ],
+      "answer": "I hear with my ears."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I smell with my nose."
+      ],
+      "answer": "I smell with my nose."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I clap my hands."
+      ],
+      "answer": "I clap my hands."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I bend my knees."
+      ],
+      "answer": "I bend my knees."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "We hear with our ___. (ears or hands)",
+      "answer": "ears",
+      "solution": "Answer: ears"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "We smell with our ___.",
+      "answer": "nose",
+      "solution": "Answer: nose"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "We chew with our ___.",
+      "answer": "teeth",
+      "solution": "Answer: teeth"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "We see with our ___.",
+      "answer": "eyes",
+      "solution": "Answer: eyes"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "We clap our ___.",
+      "answer": "hands",
+      "solution": "Answer: hands"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "What joins the thigh and lower leg?",
+      "answer": "knee",
+      "solution": "Answer: knee"
+    }
+  ],
+  "summary": "Learn the names of body parts and how we use them.",
+  "relatedTopics": []
+}

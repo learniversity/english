@@ -155,6 +155,55 @@
       "category": "Language Arts"
     },
     {
+      "id": "preschool-body",
+      "level": "preschool",
+      "title": "My Body",
+      "path": "data/preschool/body.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-animals",
+      "level": "preschool",
+      "title": "Familiar Animals",
+      "path": "data/preschool/animals.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-food",
+      "level": "preschool",
+      "title": "Everyday Food and Drinks",
+      "path": "data/preschool/food.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-home",
+      "level": "preschool",
+      "title": "At Home",
+      "path": "data/preschool/home.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-clothes",
+      "level": "preschool",
+      "title": "Clothes and Shoes",
+      "path": "data/preschool/clothes.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-feelings",
+      "level": "preschool",
+      "title": "Feelings",
+      "path": "data/preschool/feelings.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-transport",
+      "level": "preschool",
+      "title": "Things That Move Us",
+      "path": "data/preschool/transport.json",
+      "category": "Vocabulary"
+    },
+    {
       "id": "primary-1-sounds",
       "level": "primary-1",
       "title": "Beginning, Middle and Ending Sounds",
@@ -356,6 +405,27 @@
       "title": "Stories and Creative Responses",
       "path": "data/primary/year-1/story-art.json",
       "category": "Language Arts"
+    },
+    {
+      "id": "primary-1-family",
+      "level": "primary-1",
+      "title": "My Family and Relatives",
+      "path": "data/primary/year-1/family.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-1-body",
+      "level": "primary-1",
+      "title": "Body Parts and Senses",
+      "path": "data/primary/year-1/body.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-1-weather",
+      "level": "primary-1",
+      "title": "Weather and the Sky",
+      "path": "data/primary/year-1/weather.json",
+      "category": "Vocabulary"
     }
   ]
 }

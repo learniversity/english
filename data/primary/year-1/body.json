@@ -1,0 +1,226 @@
+{
+  "id": "primary-1-body",
+  "level": "primary-1",
+  "title": "Body Parts and Senses",
+  "category": "Vocabulary",
+  "introduction": "Describe body parts and the five familiar senses.",
+  "definition": "Describe body parts and the five familiar senses.",
+  "rules": [
+    "Say each word aloud. Look for examples in everyday life.",
+    "Practise the sentences with a partner."
+  ],
+  "vocabulary": [
+    {
+      "expression": "face",
+      "description": "The front of the head."
+    },
+    {
+      "expression": "forehead",
+      "description": "The part above the eyes."
+    },
+    {
+      "expression": "eyebrow",
+      "description": "Hair above the eye."
+    },
+    {
+      "expression": "cheek",
+      "description": "The side of the face."
+    },
+    {
+      "expression": "chin",
+      "description": "The part below the mouth."
+    },
+    {
+      "expression": "neck",
+      "description": "Joins the head to the body."
+    },
+    {
+      "expression": "shoulder",
+      "description": "Joins the arm to the upper body."
+    },
+    {
+      "expression": "elbow",
+      "description": "The joint in the arm."
+    },
+    {
+      "expression": "wrist",
+      "description": "Joins the hand to the arm."
+    },
+    {
+      "expression": "thumb",
+      "description": "The short thick digit of the hand."
+    },
+    {
+      "expression": "chest",
+      "description": "The front of the upper body."
+    },
+    {
+      "expression": "back",
+      "description": "The rear of the body."
+    },
+    {
+      "expression": "stomach",
+      "description": "An organ that receives food."
+    },
+    {
+      "expression": "ankle",
+      "description": "The joint above the foot."
+    },
+    {
+      "expression": "toe",
+      "description": "A digit on the foot."
+    },
+    {
+      "expression": "sight",
+      "description": "The ability to see."
+    },
+    {
+      "expression": "hearing",
+      "description": "The ability to hear."
+    },
+    {
+      "expression": "smell",
+      "description": "The ability to detect odours."
+    },
+    {
+      "expression": "taste",
+      "description": "The ability to detect flavours."
+    },
+    {
+      "expression": "touch",
+      "description": "The ability to feel contact."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I see the rainbow with my eyes."
+      ],
+      "answer": "I see the rainbow with my eyes."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I hear the bell with my ears."
+      ],
+      "answer": "I hear the bell with my ears."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I smell the flowers."
+      ],
+      "answer": "I smell the flowers."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I taste the soup."
+      ],
+      "answer": "I taste the soup."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I feel the soft towel."
+      ],
+      "answer": "I feel the soft towel."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "Bend your elbow."
+      ],
+      "answer": "Bend your elbow."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "Move your toes."
+      ],
+      "answer": "Move your toes."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "Wash your face."
+      ],
+      "answer": "Wash your face."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which joint bends in the arm?",
+      "answer": "elbow",
+      "solution": "Answer: elbow"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which joint is above the foot?",
+      "answer": "ankle",
+      "solution": "Answer: ankle"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which sense helps us hear music?",
+      "answer": "hearing",
+      "solution": "Answer: hearing"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which sense helps us see colours?",
+      "answer": "sight",
+      "solution": "Answer: sight"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which sense helps us feel a soft blanket?",
+      "answer": "touch",
+      "solution": "Answer: touch"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which sense helps us detect a sweet flavour?",
+      "answer": "taste",
+      "solution": "Answer: taste"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "What joins the head to the body?",
+      "answer": "neck",
+      "solution": "Answer: neck"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "What is the short thick digit on the hand?",
+      "answer": "thumb",
+      "solution": "Answer: thumb"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "What is the front of the head?",
+      "answer": "face",
+      "solution": "Answer: face"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "What is a digit on the foot called?",
+      "answer": "toe",
+      "solution": "Answer: toe"
+    }
+  ],
+  "summary": "Describe body parts and the five familiar senses.",
+  "relatedTopics": []
+}

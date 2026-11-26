@@ -1,0 +1,141 @@
+{
+  "id": "preschool-transport",
+  "level": "preschool",
+  "title": "Things That Move Us",
+  "category": "Vocabulary",
+  "introduction": "Name familiar ways to travel.",
+  "definition": "Name familiar ways to travel.",
+  "rules": [
+    "Say each word aloud. Look for examples in everyday life.",
+    "Practise the sentences with a partner."
+  ],
+  "vocabulary": [
+    {
+      "expression": "car",
+      "description": "A road vehicle."
+    },
+    {
+      "expression": "bus",
+      "description": "A vehicle carrying many passengers."
+    },
+    {
+      "expression": "van",
+      "description": "A road vehicle carrying people or goods."
+    },
+    {
+      "expression": "lorry",
+      "description": "A large vehicle carrying goods."
+    },
+    {
+      "expression": "bicycle",
+      "description": "A vehicle with two wheels and pedals."
+    },
+    {
+      "expression": "motorcycle",
+      "description": "A motor-powered two-wheeled vehicle."
+    },
+    {
+      "expression": "train",
+      "description": "A vehicle that travels on rails."
+    },
+    {
+      "expression": "boat",
+      "description": "A small vessel travelling on water."
+    },
+    {
+      "expression": "ship",
+      "description": "A large vessel travelling on water."
+    },
+    {
+      "expression": "aeroplane",
+      "description": "A flying vehicle with wings."
+    },
+    {
+      "expression": "helicopter",
+      "description": "An aircraft with spinning rotor blades."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "We go to school by bus."
+      ],
+      "answer": "We go to school by bus."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A train runs on rails."
+      ],
+      "answer": "A train runs on rails."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A boat floats on water."
+      ],
+      "answer": "A boat floats on water."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "An aeroplane flies."
+      ],
+      "answer": "An aeroplane flies."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I ride a bicycle."
+      ],
+      "answer": "I ride a bicycle."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which vehicle travels on rails?",
+      "answer": "train",
+      "solution": "Answer: train"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which vehicle has pedals?",
+      "answer": "bicycle",
+      "solution": "Answer: bicycle"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which carries many passengers on roads?",
+      "answer": "bus",
+      "solution": "Answer: bus"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which is a large vessel on water?",
+      "answer": "ship",
+      "solution": "Answer: ship"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which aircraft has spinning rotor blades?",
+      "answer": "helicopter",
+      "solution": "Answer: helicopter"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which vehicle carries goods on roads? (lorry or boat)",
+      "answer": "lorry",
+      "solution": "Answer: lorry"
+    }
+  ],
+  "summary": "Name familiar ways to travel.",
+  "relatedTopics": []
+}

@@ -1,0 +1,145 @@
+{
+  "id": "preschool-animals",
+  "level": "preschool",
+  "title": "Familiar Animals",
+  "category": "Vocabulary",
+  "introduction": "Name animals we see at home, on farms and in nature.",
+  "definition": "Name animals we see at home, on farms and in nature.",
+  "rules": [
+    "Say each word aloud. Look for examples in everyday life.",
+    "Practise the sentences with a partner."
+  ],
+  "vocabulary": [
+    {
+      "expression": "cat",
+      "description": "A pet that often meows."
+    },
+    {
+      "expression": "dog",
+      "description": "A pet that often barks."
+    },
+    {
+      "expression": "rabbit",
+      "description": "An animal with long ears."
+    },
+    {
+      "expression": "bird",
+      "description": "An animal with feathers."
+    },
+    {
+      "expression": "fish",
+      "description": "An animal that lives in water."
+    },
+    {
+      "expression": "cow",
+      "description": "A large farm animal."
+    },
+    {
+      "expression": "goat",
+      "description": "A farm animal that often has horns."
+    },
+    {
+      "expression": "duck",
+      "description": "A bird that swims."
+    },
+    {
+      "expression": "chicken",
+      "description": "A common farm bird."
+    },
+    {
+      "expression": "horse",
+      "description": "A large animal that people may ride."
+    },
+    {
+      "expression": "butterfly",
+      "description": "An insect with wings."
+    },
+    {
+      "expression": "ant",
+      "description": "A small insect living in groups."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A dog barks."
+      ],
+      "answer": "A dog barks."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A fish swims."
+      ],
+      "answer": "A fish swims."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A bird flies."
+      ],
+      "answer": "A bird flies."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A rabbit hops."
+      ],
+      "answer": "A rabbit hops."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A cow eats grass."
+      ],
+      "answer": "A cow eats grass."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which animal barks?",
+      "answer": "dog",
+      "solution": "Answer: dog"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which animal lives in water? (fish or horse)",
+      "answer": "fish",
+      "solution": "Answer: fish"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which animal has long ears? (rabbit or ant)",
+      "answer": "rabbit",
+      "solution": "Answer: rabbit"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which farm animal has horns? (goat or duck)",
+      "answer": "goat",
+      "solution": "Answer: goat"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which insect has colourful wings?",
+      "answer": "butterfly",
+      "solution": "Answer: butterfly"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which bird swims? (duck or chicken)",
+      "answer": "duck",
+      "solution": "Answer: duck"
+    }
+  ],
+  "summary": "Name animals we see at home, on farms and in nature.",
+  "relatedTopics": []
+}

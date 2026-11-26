@@ -1,0 +1,214 @@
+{
+  "id": "primary-1-weather",
+  "level": "primary-1",
+  "title": "Weather and the Sky",
+  "category": "Vocabulary",
+  "introduction": "Use familiar words to describe daily weather.",
+  "definition": "Use familiar words to describe daily weather.",
+  "rules": [
+    "Say each word aloud. Look for examples in everyday life.",
+    "Practise the sentences with a partner."
+  ],
+  "vocabulary": [
+    {
+      "expression": "sunny",
+      "description": "With bright sunshine."
+    },
+    {
+      "expression": "cloudy",
+      "description": "With many clouds."
+    },
+    {
+      "expression": "rainy",
+      "description": "With rain falling."
+    },
+    {
+      "expression": "windy",
+      "description": "With moving air."
+    },
+    {
+      "expression": "stormy",
+      "description": "With a storm."
+    },
+    {
+      "expression": "hot",
+      "description": "Having a high temperature."
+    },
+    {
+      "expression": "warm",
+      "description": "A little hot."
+    },
+    {
+      "expression": "cool",
+      "description": "A little cold."
+    },
+    {
+      "expression": "cold",
+      "description": "Having a low temperature."
+    },
+    {
+      "expression": "wet",
+      "description": "Covered with water."
+    },
+    {
+      "expression": "dry",
+      "description": "Not wet."
+    },
+    {
+      "expression": "rainbow",
+      "description": "An arc of colours sometimes seen after rain."
+    },
+    {
+      "expression": "cloud",
+      "description": "Water droplets or ice crystals in the sky."
+    },
+    {
+      "expression": "thunder",
+      "description": "The sound of lightning."
+    },
+    {
+      "expression": "lightning",
+      "description": "A bright electrical flash."
+    },
+    {
+      "expression": "umbrella",
+      "description": "A cover held above the head."
+    },
+    {
+      "expression": "puddle",
+      "description": "A small pool of water."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "It is sunny today."
+      ],
+      "answer": "It is sunny today."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The sky is cloudy."
+      ],
+      "answer": "The sky is cloudy."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "Take an umbrella when it rains."
+      ],
+      "answer": "Take an umbrella when it rains."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The wind is strong."
+      ],
+      "answer": "The wind is strong."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I can hear thunder."
+      ],
+      "answer": "I can hear thunder."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The ground is wet."
+      ],
+      "answer": "The ground is wet."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I see a rainbow."
+      ],
+      "answer": "I see a rainbow."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The morning is cool."
+      ],
+      "answer": "The morning is cool."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "What weather has many clouds?",
+      "answer": "cloudy",
+      "solution": "Answer: cloudy"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What weather has falling rain?",
+      "answer": "rainy",
+      "solution": "Answer: rainy"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What is a small pool of water?",
+      "answer": "puddle",
+      "solution": "Answer: puddle"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What is a bright electrical flash in the sky?",
+      "answer": "lightning",
+      "solution": "Answer: lightning"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "What is the sound of lightning?",
+      "answer": "thunder",
+      "solution": "Answer: thunder"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "What is the opposite of wet?",
+      "answer": "dry",
+      "solution": "Answer: dry"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "What is the opposite of hot?",
+      "answer": "cold",
+      "solution": "Answer: cold"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "What can you hold above your head in the rain?",
+      "answer": "umbrella",
+      "solution": "Answer: umbrella"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "What is an arc of colours in the sky?",
+      "answer": "rainbow",
+      "solution": "Answer: rainbow"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "What weather has moving air?",
+      "answer": "windy",
+      "solution": "Answer: windy"
+    }
+  ],
+  "summary": "Use familiar words to describe daily weather.",
+  "relatedTopics": []
+}

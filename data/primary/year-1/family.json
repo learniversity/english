@@ -1,0 +1,222 @@
+{
+  "id": "primary-1-family",
+  "level": "primary-1",
+  "title": "My Family and Relatives",
+  "category": "Vocabulary",
+  "introduction": "Describe family members and familiar relationships.",
+  "definition": "Describe family members and familiar relationships.",
+  "rules": [
+    "Say each word aloud. Look for examples in everyday life.",
+    "Practise the sentences with a partner."
+  ],
+  "vocabulary": [
+    {
+      "expression": "family",
+      "description": "People connected through family relationships."
+    },
+    {
+      "expression": "parent",
+      "description": "A mother, father or other person in a parental role."
+    },
+    {
+      "expression": "parents",
+      "description": "More than one parent."
+    },
+    {
+      "expression": "grandparents",
+      "description": "A parent's parents."
+    },
+    {
+      "expression": "grandmother",
+      "description": "A parent's mother."
+    },
+    {
+      "expression": "grandfather",
+      "description": "A parent's father."
+    },
+    {
+      "expression": "child",
+      "description": "A young person or someone's son or daughter."
+    },
+    {
+      "expression": "children",
+      "description": "More than one child."
+    },
+    {
+      "expression": "son",
+      "description": "A male child in relation to a parent."
+    },
+    {
+      "expression": "daughter",
+      "description": "A female child in relation to a parent."
+    },
+    {
+      "expression": "brother",
+      "description": "A male sibling."
+    },
+    {
+      "expression": "sister",
+      "description": "A female sibling."
+    },
+    {
+      "expression": "siblings",
+      "description": "Brothers and sisters."
+    },
+    {
+      "expression": "uncle",
+      "description": "A parent's brother or a parent's sibling's husband."
+    },
+    {
+      "expression": "aunt",
+      "description": "A parent's sister or a parent's sibling's wife."
+    },
+    {
+      "expression": "cousin",
+      "description": "A child of a parent's sibling."
+    },
+    {
+      "expression": "relative",
+      "description": "A person related to you."
+    },
+    {
+      "expression": "older",
+      "description": "Having lived longer."
+    },
+    {
+      "expression": "younger",
+      "description": "Having lived for less time."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "This is my aunt."
+      ],
+      "answer": "This is my aunt."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My uncle has a daughter."
+      ],
+      "answer": "My uncle has a daughter."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My cousin likes cycling."
+      ],
+      "answer": "My cousin likes cycling."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I have an older brother."
+      ],
+      "answer": "I have an older brother."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My sister is younger than me."
+      ],
+      "answer": "My sister is younger than me."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "Our grandparents live nearby."
+      ],
+      "answer": "Our grandparents live nearby."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "We visit our relatives."
+      ],
+      "answer": "We visit our relatives."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My mother has two children."
+      ],
+      "answer": "My mother has two children."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Your mother's brother is your ___.",
+      "answer": "uncle",
+      "solution": "Answer: uncle"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Your father's sister is your ___.",
+      "answer": "aunt",
+      "solution": "Answer: aunt"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Your aunt's child is your ___.",
+      "answer": "cousin",
+      "solution": "Answer: cousin"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Brothers and sisters are called ___.",
+      "answer": "siblings",
+      "solution": "Answer: siblings"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "A female child in relation to her parent is a ___.",
+      "answer": "daughter",
+      "solution": "Answer: daughter"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "A male child in relation to his parent is a ___.",
+      "answer": "son",
+      "solution": "Answer: son"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Your parent's parents are your ___.",
+      "answer": "grandparents",
+      "solution": "Answer: grandparents"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "The plural of child is ___.",
+      "answer": "children",
+      "solution": "Answer: children"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "A person related to you is a ___.",
+      "answer": "relative",
+      "solution": "Answer: relative"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Someone who has lived longer than you is ___.",
+      "answer": "older",
+      "solution": "Answer: older"
+    }
+  ],
+  "summary": "Describe family members and familiar relationships.",
+  "relatedTopics": []
+}

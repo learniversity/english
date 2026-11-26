@@ -1,0 +1,145 @@
+{
+  "id": "preschool-clothes",
+  "level": "preschool",
+  "title": "Clothes and Shoes",
+  "category": "Vocabulary",
+  "introduction": "Name things we wear in different situations.",
+  "definition": "Name things we wear in different situations.",
+  "rules": [
+    "Say each word aloud. Look for examples in everyday life.",
+    "Practise the sentences with a partner."
+  ],
+  "vocabulary": [
+    {
+      "expression": "shirt",
+      "description": "Clothing for the upper body."
+    },
+    {
+      "expression": "T-shirt",
+      "description": "A casual top with short sleeves."
+    },
+    {
+      "expression": "shorts",
+      "description": "Short trousers."
+    },
+    {
+      "expression": "trousers",
+      "description": "Clothing covering both legs."
+    },
+    {
+      "expression": "dress",
+      "description": "A one-piece garment."
+    },
+    {
+      "expression": "skirt",
+      "description": "Clothing hanging from the waist."
+    },
+    {
+      "expression": "socks",
+      "description": "Clothing covering the feet."
+    },
+    {
+      "expression": "shoes",
+      "description": "Footwear for walking."
+    },
+    {
+      "expression": "sandals",
+      "description": "Open footwear."
+    },
+    {
+      "expression": "hat",
+      "description": "Something worn on the head."
+    },
+    {
+      "expression": "jacket",
+      "description": "Outer clothing for the upper body."
+    },
+    {
+      "expression": "raincoat",
+      "description": "A coat that helps keep rain off."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I wear shoes."
+      ],
+      "answer": "I wear shoes."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My shirt is blue."
+      ],
+      "answer": "My shirt is blue."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "She has a pink hat."
+      ],
+      "answer": "She has a pink hat."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I wear a raincoat when it rains."
+      ],
+      "answer": "I wear a raincoat when it rains."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "These are my socks."
+      ],
+      "answer": "These are my socks."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "What do we wear on our head? (hat or socks)",
+      "answer": "hat",
+      "solution": "Answer: hat"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What helps keep rain off?",
+      "answer": "raincoat",
+      "solution": "Answer: raincoat"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What covers the feet inside shoes?",
+      "answer": "socks",
+      "solution": "Answer: socks"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What is a casual top with short sleeves?",
+      "answer": "T-shirt",
+      "solution": "Answer: T-shirt"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "What is open footwear?",
+      "answer": "sandals",
+      "solution": "Answer: sandals"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "What are short trousers called?",
+      "answer": "shorts",
+      "solution": "Answer: shorts"
+    }
+  ],
+  "summary": "Name things we wear in different situations.",
+  "relatedTopics": []
+}

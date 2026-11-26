@@ -1,0 +1,145 @@
+{
+  "id": "preschool-food",
+  "level": "preschool",
+  "title": "Everyday Food and Drinks",
+  "category": "Vocabulary",
+  "introduction": "Recognise foods and drinks in everyday life.",
+  "definition": "Recognise foods and drinks in everyday life.",
+  "rules": [
+    "Say each word aloud. Look for examples in everyday life.",
+    "Practise the sentences with a partner."
+  ],
+  "vocabulary": [
+    {
+      "expression": "rice",
+      "description": "A grain eaten at meals."
+    },
+    {
+      "expression": "bread",
+      "description": "Food made from baked dough."
+    },
+    {
+      "expression": "egg",
+      "description": "Food often laid by a hen."
+    },
+    {
+      "expression": "noodles",
+      "description": "Long thin strips of food."
+    },
+    {
+      "expression": "soup",
+      "description": "A liquid dish."
+    },
+    {
+      "expression": "apple",
+      "description": "A round fruit."
+    },
+    {
+      "expression": "banana",
+      "description": "A long fruit."
+    },
+    {
+      "expression": "mango",
+      "description": "A sweet tropical fruit."
+    },
+    {
+      "expression": "carrot",
+      "description": "An orange root vegetable."
+    },
+    {
+      "expression": "milk",
+      "description": "A drink."
+    },
+    {
+      "expression": "water",
+      "description": "A clear liquid we drink."
+    },
+    {
+      "expression": "juice",
+      "description": "A drink made from fruit."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I eat rice."
+      ],
+      "answer": "I eat rice."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I drink water."
+      ],
+      "answer": "I drink water."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I like bananas."
+      ],
+      "answer": "I like bananas."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "This is an egg."
+      ],
+      "answer": "This is an egg."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The soup is warm."
+      ],
+      "answer": "The soup is warm."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which is a drink? (water or bread)",
+      "answer": "water",
+      "solution": "Answer: water"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which fruit is long and often yellow?",
+      "answer": "banana",
+      "solution": "Answer: banana"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which food is a grain? (rice or egg)",
+      "answer": "rice",
+      "solution": "Answer: rice"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which vegetable is often orange?",
+      "answer": "carrot",
+      "solution": "Answer: carrot"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which food is liquid and eaten with a spoon?",
+      "answer": "soup",
+      "solution": "Answer: soup"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which drink is made from fruit?",
+      "answer": "juice",
+      "solution": "Answer: juice"
+    }
+  ],
+  "summary": "Recognise foods and drinks in everyday life.",
+  "relatedTopics": []
+}
