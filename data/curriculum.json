@@ -106,6 +106,13 @@
       "category": "Vocabulary"
     },
     {
+      "id": "preschool-number-words",
+      "level": "preschool",
+      "title": "Numbers in English",
+      "path": "data/preschool/number-words.json",
+      "category": "Vocabulary"
+    },
+    {
       "id": "preschool-family",
       "level": "preschool",
       "title": "My Family",
@@ -113,10 +120,66 @@
       "category": "Vocabulary"
     },
     {
+      "id": "preschool-body",
+      "level": "preschool",
+      "title": "My Body",
+      "path": "data/preschool/body.json",
+      "category": "Vocabulary"
+    },
+    {
       "id": "preschool-classroom",
       "level": "preschool",
       "title": "Classroom Words",
       "path": "data/preschool/classroom.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-home",
+      "level": "preschool",
+      "title": "At Home",
+      "path": "data/preschool/home.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-clothes",
+      "level": "preschool",
+      "title": "Clothes and Shoes",
+      "path": "data/preschool/clothes.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-animals",
+      "level": "preschool",
+      "title": "Familiar Animals",
+      "path": "data/preschool/animals.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-food",
+      "level": "preschool",
+      "title": "Everyday Food and Drinks",
+      "path": "data/preschool/food.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-transport",
+      "level": "preschool",
+      "title": "Things That Move Us",
+      "path": "data/preschool/transport.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-shapes-sizes",
+      "level": "preschool",
+      "title": "Shapes and Sizes",
+      "path": "data/preschool/shapes-sizes.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "preschool-feelings",
+      "level": "preschool",
+      "title": "Feelings",
+      "path": "data/preschool/feelings.json",
       "category": "Vocabulary"
     },
     {
@@ -153,55 +216,6 @@
       "title": "Stories and Picture Talk",
       "path": "data/preschool/stories.json",
       "category": "Language Arts"
-    },
-    {
-      "id": "preschool-body",
-      "level": "preschool",
-      "title": "My Body",
-      "path": "data/preschool/body.json",
-      "category": "Vocabulary"
-    },
-    {
-      "id": "preschool-animals",
-      "level": "preschool",
-      "title": "Familiar Animals",
-      "path": "data/preschool/animals.json",
-      "category": "Vocabulary"
-    },
-    {
-      "id": "preschool-food",
-      "level": "preschool",
-      "title": "Everyday Food and Drinks",
-      "path": "data/preschool/food.json",
-      "category": "Vocabulary"
-    },
-    {
-      "id": "preschool-home",
-      "level": "preschool",
-      "title": "At Home",
-      "path": "data/preschool/home.json",
-      "category": "Vocabulary"
-    },
-    {
-      "id": "preschool-clothes",
-      "level": "preschool",
-      "title": "Clothes and Shoes",
-      "path": "data/preschool/clothes.json",
-      "category": "Vocabulary"
-    },
-    {
-      "id": "preschool-feelings",
-      "level": "preschool",
-      "title": "Feelings",
-      "path": "data/preschool/feelings.json",
-      "category": "Vocabulary"
-    },
-    {
-      "id": "preschool-transport",
-      "level": "preschool",
-      "title": "Things That Move Us",
-      "path": "data/preschool/transport.json",
-      "category": "Vocabulary"
     },
     {
       "id": "primary-1-sounds",
