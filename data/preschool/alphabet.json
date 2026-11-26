@@ -3,7 +3,7 @@
   "title": "The Alphabet",
   "level": "preschool",
   "category": "Phonics",
-  "introduction": "Explore all 26 letters from A to Z. Each card shows a capital letter, a small letter and three example words. Pictures are included where suitable.",
+  "introduction": "Explore all 26 letters from A to Z. Each card shows a capital letter, a small letter and three example words with familiar emojis or symbolic clues.",
   "definition": "English has 26 letters. Each letter has an uppercase and a lowercase form.",
   "rules": [
     "Read and name the first letter of each word. Letters have names and may represent more than one sound.",
@@ -272,13 +272,15 @@
     },
     {
       "label": "I i",
-      "alt": "I i: ice, igloo, insect",
+      "alt": "I i: ice, island, insect",
       "words": [
         {
-          "word": "ice"
+          "word": "ice",
+          "emoji": "❄️"
         },
         {
-          "word": "igloo"
+          "word": "island",
+          "emoji": "🏝️"
         },
         {
           "word": "insect",
@@ -288,16 +290,19 @@
     },
     {
       "label": "J j",
-      "alt": "J j: jam, jar, jellyfish",
+      "alt": "J j: juice, jacket, jeep",
       "words": [
         {
-          "word": "jam"
+          "word": "juice",
+          "emoji": "🍹"
         },
         {
-          "word": "jar"
+          "word": "jacket",
+          "emoji": "🧥"
         },
         {
-          "word": "jellyfish"
+          "word": "jeep",
+          "emoji": "🚙"
         }
       ]
     },
@@ -306,14 +311,16 @@
       "alt": "K k: kite, key, king",
       "words": [
         {
-          "word": "kite"
+          "word": "kite",
+          "emoji": "🪁"
         },
         {
           "word": "key",
           "emoji": "🔑"
         },
         {
-          "word": "king"
+          "word": "king",
+          "emoji": "👑"
         }
       ]
     },
@@ -337,7 +344,7 @@
     },
     {
       "label": "M m",
-      "alt": "M m: moon, monkey, mango",
+      "alt": "M m: moon, monkey, mouse",
       "words": [
         {
           "word": "moon",
@@ -348,16 +355,18 @@
           "emoji": "🐒"
         },
         {
-          "word": "mango"
+          "word": "mouse",
+          "emoji": "🐭"
         }
       ]
     },
     {
       "label": "N n",
-      "alt": "N n: nest, nose, nut",
+      "alt": "N n: noodles, nose, nut",
       "words": [
         {
-          "word": "nest"
+          "word": "noodles",
+          "emoji": "🍜"
         },
         {
           "word": "nose",
@@ -407,17 +416,19 @@
     },
     {
       "label": "Q q",
-      "alt": "Q q: queen, quilt, question",
+      "alt": "Q q: queen, question, quiet",
       "words": [
         {
-          "word": "queen"
-        },
-        {
-          "word": "quilt"
+          "word": "queen",
+          "emoji": "👑"
         },
         {
           "word": "question",
           "emoji": "❓"
+        },
+        {
+          "word": "quiet",
+          "emoji": "🤫"
         }
       ]
     },
@@ -430,7 +441,8 @@
           "emoji": "🐰"
         },
         {
-          "word": "rain"
+          "word": "rain",
+          "emoji": "☔"
         },
         {
           "word": "rose",
@@ -487,7 +499,8 @@
           "emoji": "🦄"
         },
         {
-          "word": "uniform"
+          "word": "uniform",
+          "emoji": "👕"
         }
       ]
     },
@@ -504,7 +517,8 @@
           "emoji": "🎻"
         },
         {
-          "word": "vase"
+          "word": "vase",
+          "emoji": "🏺"
         }
       ]
     },
@@ -528,47 +542,55 @@
     },
     {
       "label": "X x",
-      "alt": "X x: x-ray, xylophone, X-ray fish",
+      "alt": "X x: xylophone, X-ray, X-mark",
       "words": [
         {
-          "word": "x-ray"
+          "word": "xylophone",
+          "emoji": "🎵"
         },
         {
-          "word": "xylophone"
+          "word": "X-ray",
+          "emoji": "🦴"
         },
         {
-          "word": "X-ray fish"
+          "word": "X-mark",
+          "emoji": "❌"
         }
       ]
     },
     {
       "label": "Y y",
-      "alt": "Y y: yo-yo, yak, yacht",
+      "alt": "Y y: yacht, yellow, yarn",
       "words": [
         {
-          "word": "yo-yo"
+          "word": "yacht",
+          "emoji": "⛵"
         },
         {
-          "word": "yak"
+          "word": "yellow",
+          "emoji": "💛"
         },
         {
-          "word": "yacht"
+          "word": "yarn",
+          "emoji": "🧶"
         }
       ]
     },
     {
       "label": "Z z",
-      "alt": "Z z: zebra, zip, zoo",
+      "alt": "Z z: zebra, zoom, zoo",
       "words": [
         {
           "word": "zebra",
           "emoji": "🦓"
         },
         {
-          "word": "zip"
+          "word": "zoom",
+          "emoji": "🔍"
         },
         {
-          "word": "zoo"
+          "word": "zoo",
+          "emoji": "🐘🦒"
         }
       ]
     }
