@@ -7,7 +7,15 @@
   "definition": "Use classroom words to name, identify and describe objects at school.",
   "rules": [
     "Ask a partner what an object is.",
-    "Describe its colour or size."
+    "Describe its colour or size.",
+    "Say: Our teacher is kind.",
+    "Say: I sit at my desk.",
+    "Say: We read in the library.",
+    "Say: My classmate has a ruler.",
+    "Say: I put my notebook in my schoolbag.",
+    "Say: The pupils eat in the canteen.",
+    "Say: We play in the playground.",
+    "Say: The timetable is on the board."
   ],
   "grammar": [
     {
@@ -21,70 +29,278 @@
   ],
   "vocabulary": [
     {
+      "expression": "teacher",
+      "description": "A person who teaches."
+    },
+    {
+      "expression": "pupil",
+      "description": "A child who attends school."
+    },
+    {
+      "expression": "classmate",
+      "description": "Someone in the same class."
+    },
+    {
+      "expression": "classroom",
+      "description": "A room where pupils learn."
+    },
+    {
+      "expression": "library",
+      "description": "A place with books to read or borrow."
+    },
+    {
+      "expression": "canteen",
+      "description": "A place to buy or eat meals at school."
+    },
+    {
+      "expression": "playground",
+      "description": "A place to play."
+    },
+    {
+      "expression": "hall",
+      "description": "A large room for gatherings."
+    },
+    {
+      "expression": "desk",
+      "description": "A table for working."
+    },
+    {
+      "expression": "whiteboard",
+      "description": "A smooth board for writing."
+    },
+    {
+      "expression": "notebook",
+      "description": "A book for writing notes."
+    },
+    {
+      "expression": "textbook",
+      "description": "A book used to study a subject."
+    },
+    {
+      "expression": "workbook",
+      "description": "A book containing exercises."
+    },
+    {
+      "expression": "schoolbag",
+      "description": "A bag for school materials."
+    },
+    {
+      "expression": "pencil case",
+      "description": "A container for pens and pencils."
+    },
+    {
       "expression": "ruler",
-      "description": "A tool for measuring or drawing straight lines."
+      "description": "A tool for measuring length."
     },
     {
       "expression": "rubber",
       "description": "A tool for removing pencil marks."
     },
     {
-      "expression": "desk",
-      "description": "A table used for work."
+      "expression": "sharpener",
+      "description": "A tool that sharpens pencils."
     },
     {
-      "expression": "schoolbag",
-      "description": "A bag for school materials."
+      "expression": "marker",
+      "description": "A pen for making clear marks."
+    },
+    {
+      "expression": "dictionary",
+      "description": "A book or resource explaining words."
+    },
+    {
+      "expression": "timetable",
+      "description": "A list showing when lessons happen."
+    },
+    {
+      "expression": "assembly",
+      "description": "A gathering of pupils and teachers."
     }
   ],
   "examples": [
     {
-      "question": "What measures length: ruler or book?",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Ask a partner what an object is."
+        "Our teacher is kind."
       ],
-      "answer": "ruler"
+      "answer": "Our teacher is kind."
     },
     {
-      "question": "What removes pencil marks?",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Describe its colour or size."
+        "I sit at my desk."
       ],
-      "answer": "rubber"
+      "answer": "I sit at my desk."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "We read in the library."
+      ],
+      "answer": "We read in the library."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My classmate has a ruler."
+      ],
+      "answer": "My classmate has a ruler."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I put my notebook in my schoolbag."
+      ],
+      "answer": "I put my notebook in my schoolbag."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The pupils eat in the canteen."
+      ],
+      "answer": "The pupils eat in the canteen."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "We play in the playground."
+      ],
+      "answer": "We play in the playground."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The timetable is on the board."
+      ],
+      "answer": "The timetable is on the board."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "What measures length: ruler or book?",
-      "answer": "ruler",
-      "solution": "Answer: ruler"
+      "question": "Where can you borrow books?",
+      "answer": "library",
+      "solution": "Answer: library"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "What removes pencil marks?",
-      "answer": "rubber",
-      "solution": "Answer: rubber"
+      "question": "Where can pupils buy lunch?",
+      "answer": "canteen",
+      "solution": "Answer: canteen"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "It ___ a desk.",
-      "answer": "is",
-      "solution": "Answer: is"
+      "question": "Who teaches a class?",
+      "answer": "teacher",
+      "solution": "Answer: teacher"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "What is ___? (this or am)",
-      "answer": "this",
-      "solution": "Answer: this"
+      "question": "What shows lesson times?",
+      "answer": "timetable",
+      "solution": "Answer: timetable"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "What sharpens pencils?",
+      "answer": "sharpener",
+      "solution": "Answer: sharpener"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "What explains word meanings?",
+      "answer": "dictionary",
+      "solution": "Answer: dictionary"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "What holds pens and pencils?",
+      "answer": "pencil case",
+      "solution": "Answer: pencil case"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "What is a book of exercises?",
+      "answer": "workbook",
+      "solution": "Answer: workbook"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Where can children play at school?",
+      "answer": "playground",
+      "solution": "Answer: playground"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Complete: This ___ my notebook.",
+      "answer": "is",
+      "solution": "Answer: is"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Complete: There are two ___. (desks or desk)",
+      "answer": "desks",
+      "solution": "Answer: desks"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "What is a person in your class called?",
+      "answer": "classmate",
+      "solution": "Answer: classmate"
     }
   ],
   "summary": "Use classroom words to name, identify and describe objects at school.",
   "relatedTopics": [
     "primary-1-numbers-colours"
+  ],
+  "visuals": [
+    {
+      "label": "schoolbag",
+      "description": "",
+      "alt": "schoolbag",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🎒"
+        }
+      ]
+    },
+    {
+      "label": "ruler",
+      "description": "",
+      "alt": "ruler",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "📏"
+        }
+      ]
+    }
   ]
 }

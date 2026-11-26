@@ -7,7 +7,19 @@
   "definition": "Use English to name food and drinks and express likes and dislikes.",
   "rules": [
     "Practise asking what someone likes.",
-    "Use polite words when asking for food."
+    "Use polite words when asking for food.",
+    "Say: I like mangoes.",
+    "Say: I do not like onions.",
+    "Say: I have a sandwich.",
+    "Say: I want some water.",
+    "Say: This is a carrot.",
+    "Say: Do you like bananas?",
+    "Say: May I have some milk, please?",
+    "Say: The soup is hot.",
+    "Say: These grapes are sweet.",
+    "Say: We eat rice and tofu.",
+    "Say: My brother likes noodles.",
+    "Say: She drinks juice."
   ],
   "grammar": [
     {
@@ -25,70 +37,890 @@
   ],
   "vocabulary": [
     {
-      "expression": "rice",
-      "description": "A grain often eaten with meals."
-    },
-    {
-      "expression": "bread",
-      "description": "Food made from dough and baked."
-    },
-    {
-      "expression": "milk",
-      "description": "A drink produced by mammals or made from plants."
+      "expression": "apple",
+      "description": "A round fruit."
     },
     {
       "expression": "banana",
       "description": "A long fruit with a peel."
+    },
+    {
+      "expression": "orange",
+      "description": "A round citrus fruit."
+    },
+    {
+      "expression": "grapes",
+      "description": "Small fruits growing in bunches."
+    },
+    {
+      "expression": "mango",
+      "description": "A sweet tropical fruit."
+    },
+    {
+      "expression": "watermelon",
+      "description": "A large juicy fruit."
+    },
+    {
+      "expression": "pineapple",
+      "description": "A tropical fruit with rough skin."
+    },
+    {
+      "expression": "papaya",
+      "description": "A tropical fruit with soft orange flesh."
+    },
+    {
+      "expression": "carrot",
+      "description": "An orange root vegetable."
+    },
+    {
+      "expression": "potato",
+      "description": "A vegetable that grows underground."
+    },
+    {
+      "expression": "tomato",
+      "description": "A juicy fruit often used as a vegetable."
+    },
+    {
+      "expression": "cucumber",
+      "description": "A long green vegetable."
+    },
+    {
+      "expression": "cabbage",
+      "description": "A leafy vegetable."
+    },
+    {
+      "expression": "corn",
+      "description": "A plant with rows of edible kernels."
+    },
+    {
+      "expression": "onion",
+      "description": "A vegetable with layers."
+    },
+    {
+      "expression": "rice",
+      "description": "A grain commonly eaten at meals."
+    },
+    {
+      "expression": "bread",
+      "description": "Food made from baked dough."
+    },
+    {
+      "expression": "noodles",
+      "description": "Long thin strips of food made from dough."
+    },
+    {
+      "expression": "egg",
+      "description": "Food often laid by a hen."
+    },
+    {
+      "expression": "fish",
+      "description": "An animal that lives in water, also eaten as food."
+    },
+    {
+      "expression": "chicken",
+      "description": "A bird, or its meat used as food."
+    },
+    {
+      "expression": "soup",
+      "description": "A liquid dish."
+    },
+    {
+      "expression": "sandwich",
+      "description": "Filling between pieces of bread."
+    },
+    {
+      "expression": "tofu",
+      "description": "Food made from soya beans."
+    },
+    {
+      "expression": "water",
+      "description": "A clear liquid we need to drink."
+    },
+    {
+      "expression": "milk",
+      "description": "A drink from mammals or a plant-based alternative."
+    },
+    {
+      "expression": "juice",
+      "description": "A drink made from fruit or vegetables."
+    },
+    {
+      "expression": "tea",
+      "description": "A drink made by steeping tea leaves."
+    },
+    {
+      "expression": "coffee",
+      "description": "A drink made from roasted coffee beans."
+    },
+    {
+      "expression": "cake",
+      "description": "A sweet baked food."
+    },
+    {
+      "expression": "biscuit",
+      "description": "A small baked snack."
+    },
+    {
+      "expression": "ice cream",
+      "description": "A cold frozen dessert."
+    },
+    {
+      "expression": "chocolate",
+      "description": "A sweet food made with cocoa."
+    },
+    {
+      "expression": "popcorn",
+      "description": "Corn kernels that have puffed up."
     }
   ],
   "examples": [
     {
-      "question": "Complete: I ___ apples. (like or likes)",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Practise asking what someone likes."
+        "I like mangoes."
       ],
-      "answer": "like"
+      "answer": "I like mangoes."
     },
     {
-      "question": "Complete: Do you ___ milk?",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Use polite words when asking for food."
+        "I do not like onions."
       ],
-      "answer": "like"
+      "answer": "I do not like onions."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I have a sandwich."
+      ],
+      "answer": "I have a sandwich."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I want some water."
+      ],
+      "answer": "I want some water."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "This is a carrot."
+      ],
+      "answer": "This is a carrot."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "Do you like bananas?"
+      ],
+      "answer": "Do you like bananas?"
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "May I have some milk, please?"
+      ],
+      "answer": "May I have some milk, please?"
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The soup is hot."
+      ],
+      "answer": "The soup is hot."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "These grapes are sweet."
+      ],
+      "answer": "These grapes are sweet."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "We eat rice and tofu."
+      ],
+      "answer": "We eat rice and tofu."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My brother likes noodles."
+      ],
+      "answer": "My brother likes noodles."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "She drinks juice."
+      ],
+      "answer": "She drinks juice."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Complete: I ___ apples. (like or likes)",
-      "answer": "like",
-      "solution": "Answer: like"
+      "question": "Which fruit grows in bunches?",
+      "answer": "grapes",
+      "solution": "Answer: grapes"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Complete: Do you ___ milk?",
-      "answer": "like",
-      "solution": "Answer: like"
+      "question": "Which vegetable has layers?",
+      "answer": "onion",
+      "solution": "Answer: onion"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Which is a drink: milk or rice?",
-      "answer": "milk",
-      "solution": "Answer: milk"
+      "question": "Which food is made from soya beans?",
+      "answer": "tofu",
+      "solution": "Answer: tofu"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Complete: I do ___ like tea.",
-      "answer": "not",
-      "solution": "Answer: not"
+      "question": "Which drink is made from fruit?",
+      "answer": "juice",
+      "solution": "Answer: juice"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which snack is made from puffed corn?",
+      "answer": "popcorn",
+      "solution": "Answer: popcorn"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Complete: I ___ like cabbage. (do not or does not)",
+      "answer": "do not",
+      "solution": "Answer: do not"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Complete: May I have ___ water, please? (some or a)",
+      "answer": "some",
+      "solution": "Answer: some"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Complete: This is ___ egg.",
+      "answer": "an",
+      "solution": "Answer: an"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Complete: These are two ___. (mangoes or mango)",
+      "answer": "mangoes",
+      "solution": "Answer: mangoes"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Which is a frozen dessert?",
+      "answer": "ice cream",
+      "solution": "Answer: ice cream"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Which vegetable is often orange and grows underground?",
+      "answer": "carrot",
+      "solution": "Answer: carrot"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "Which food has filling between slices of bread?",
+      "answer": "sandwich",
+      "solution": "Answer: sandwich"
+    },
+    {
+      "id": "q13",
+      "type": "text",
+      "question": "Complete: Do you ___ noodles?",
+      "answer": "like",
+      "solution": "Answer: like"
+    },
+    {
+      "id": "q14",
+      "type": "text",
+      "question": "Which fruit has a rough skin and is tropical? (pineapple or grape)",
+      "answer": "pineapple",
+      "solution": "Answer: pineapple"
     }
   ],
   "summary": "Use English to name food and drinks and express likes and dislikes.",
   "relatedTopics": [
     "primary-1-animals"
+  ],
+  "visuals": [
+    {
+      "label": "apple",
+      "description": "",
+      "alt": "apple",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍎"
+        }
+      ]
+    },
+    {
+      "label": "banana",
+      "description": "",
+      "alt": "banana",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍌"
+        }
+      ]
+    },
+    {
+      "label": "orange",
+      "description": "",
+      "alt": "orange",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍊"
+        }
+      ]
+    },
+    {
+      "label": "grapes",
+      "description": "",
+      "alt": "grapes",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍇"
+        }
+      ]
+    },
+    {
+      "label": "mango",
+      "description": "",
+      "alt": "mango",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥭"
+        }
+      ]
+    },
+    {
+      "label": "watermelon",
+      "description": "",
+      "alt": "watermelon",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍉"
+        }
+      ]
+    },
+    {
+      "label": "pineapple",
+      "description": "",
+      "alt": "pineapple",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍍"
+        }
+      ]
+    },
+    {
+      "label": "carrot",
+      "description": "",
+      "alt": "carrot",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥕"
+        }
+      ]
+    },
+    {
+      "label": "potato",
+      "description": "",
+      "alt": "potato",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥔"
+        }
+      ]
+    },
+    {
+      "label": "tomato",
+      "description": "",
+      "alt": "tomato",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍅"
+        }
+      ]
+    },
+    {
+      "label": "cucumber",
+      "description": "",
+      "alt": "cucumber",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥒"
+        }
+      ]
+    },
+    {
+      "label": "cabbage",
+      "description": "",
+      "alt": "cabbage",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥬"
+        }
+      ]
+    },
+    {
+      "label": "corn",
+      "description": "",
+      "alt": "corn",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🌽"
+        }
+      ]
+    },
+    {
+      "label": "onion",
+      "description": "",
+      "alt": "onion",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🧅"
+        }
+      ]
+    },
+    {
+      "label": "rice",
+      "description": "",
+      "alt": "rice",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍚"
+        }
+      ]
+    },
+    {
+      "label": "bread",
+      "description": "",
+      "alt": "bread",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍞"
+        }
+      ]
+    },
+    {
+      "label": "noodles",
+      "description": "",
+      "alt": "noodles",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍜"
+        }
+      ]
+    },
+    {
+      "label": "egg",
+      "description": "",
+      "alt": "egg",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥚"
+        }
+      ]
+    },
+    {
+      "label": "fish",
+      "description": "",
+      "alt": "fish",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐟"
+        }
+      ]
+    },
+    {
+      "label": "soup",
+      "description": "",
+      "alt": "soup",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍲"
+        }
+      ]
+    },
+    {
+      "label": "sandwich",
+      "description": "",
+      "alt": "sandwich",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥪"
+        }
+      ]
+    },
+    {
+      "label": "water",
+      "description": "",
+      "alt": "water",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "💧"
+        }
+      ]
+    },
+    {
+      "label": "milk",
+      "description": "",
+      "alt": "milk",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥛"
+        }
+      ]
+    },
+    {
+      "label": "juice",
+      "description": "",
+      "alt": "juice",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🧃"
+        }
+      ]
+    },
+    {
+      "label": "tea",
+      "description": "",
+      "alt": "tea",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍵"
+        }
+      ]
+    },
+    {
+      "label": "coffee",
+      "description": "",
+      "alt": "coffee",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "☕"
+        }
+      ]
+    },
+    {
+      "label": "cake",
+      "description": "",
+      "alt": "cake",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍰"
+        }
+      ]
+    },
+    {
+      "label": "biscuit",
+      "description": "",
+      "alt": "biscuit",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍪"
+        }
+      ]
+    },
+    {
+      "label": "ice cream",
+      "description": "",
+      "alt": "ice cream",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍦"
+        }
+      ]
+    },
+    {
+      "label": "chocolate",
+      "description": "",
+      "alt": "chocolate",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍫"
+        }
+      ]
+    },
+    {
+      "label": "popcorn",
+      "description": "",
+      "alt": "popcorn",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍿"
+        }
+      ]
+    }
   ]
 }

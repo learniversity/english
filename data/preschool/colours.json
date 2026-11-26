@@ -4,63 +4,468 @@
   "level": "preschool",
   "category": "Vocabulary",
   "introduction": "Learn about colours through simple examples and practice.",
-  "definition": "Colour words describe how things look.",
+  "definition": "Colours describe how things look. The traditional seven rainbow colours are red, orange, yellow, green, blue, indigo and violet. We also use everyday colour names such as pink, brown, black, white and grey.",
   "rules": [
-    "Look at objects around you and name their colours."
+    "Rainbow order: red, orange, yellow, green, blue, indigo, violet.",
+    "Look at objects around you and name their colours.",
+    "Say: The strawberry is red.",
+    "Say: The carrot is orange.",
+    "Say: The lemon is yellow.",
+    "Say: The leaf is green.",
+    "Say: The butterfly is blue.",
+    "Say: The grapes are purple.",
+    "Say: The cloud is grey.",
+    "Say: The snow is white."
   ],
   "grammar": [],
   "vocabulary": [
     {
       "expression": "red",
-      "description": "The colour of many ripe strawberries."
+      "description": "The colour of many strawberries."
     },
     {
-      "expression": "blue",
-      "description": "The colour of a clear daytime sky."
+      "expression": "orange",
+      "description": "The colour of a ripe orange."
+    },
+    {
+      "expression": "yellow",
+      "description": "The colour of a lemon."
     },
     {
       "expression": "green",
       "description": "The colour of many leaves."
     },
     {
-      "expression": "yellow",
-      "description": "The colour of a ripe banana."
+      "expression": "blue",
+      "description": "The colour of a clear daytime sky."
+    },
+    {
+      "expression": "indigo",
+      "description": "A deep blue-violet colour."
+    },
+    {
+      "expression": "violet",
+      "description": "A purple colour at the end of the rainbow."
+    },
+    {
+      "expression": "purple",
+      "description": "The colour of many grapes."
+    },
+    {
+      "expression": "pink",
+      "description": "The colour of many roses."
+    },
+    {
+      "expression": "brown",
+      "description": "The colour of many tree trunks."
+    },
+    {
+      "expression": "black",
+      "description": "A very dark colour."
+    },
+    {
+      "expression": "white",
+      "description": "The colour of fresh snow."
+    },
+    {
+      "expression": "grey",
+      "description": "The colour of many clouds."
     }
   ],
   "examples": [
     {
-      "question": "What colour is fresh grass usually?",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "The strawberry is red."
       ],
-      "answer": "green"
+      "answer": "The strawberry is red."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The carrot is orange."
+      ],
+      "answer": "The carrot is orange."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The lemon is yellow."
+      ],
+      "answer": "The lemon is yellow."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The leaf is green."
+      ],
+      "answer": "The leaf is green."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The butterfly is blue."
+      ],
+      "answer": "The butterfly is blue."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The grapes are purple."
+      ],
+      "answer": "The grapes are purple."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The cloud is grey."
+      ],
+      "answer": "The cloud is grey."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The snow is white."
+      ],
+      "answer": "The snow is white."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "What colour is fresh grass usually?",
-      "answer": "green",
-      "solution": "Answer: green"
+      "question": "Name the colour of a ripe strawberry.",
+      "answer": "red",
+      "solution": "Answer: red"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "What colour is a ripe banana usually?",
+      "question": "Name the colour of a lemon.",
       "answer": "yellow",
       "solution": "Answer: yellow"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "What colour is snow usually?",
+      "question": "Name the colour of many leaves.",
+      "answer": "green",
+      "solution": "Answer: green"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Name the colour of a clear daytime sky.",
+      "answer": "blue",
+      "solution": "Answer: blue"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Name the colour of a ripe orange.",
+      "answer": "orange",
+      "solution": "Answer: orange"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which rainbow colour comes between blue and violet in the traditional seven-colour list?",
+      "answer": "indigo",
+      "solution": "Answer: indigo"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Name the colour of fresh snow.",
       "answer": "white",
       "solution": "Answer: white"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Name the colour of many tree trunks.",
+      "answer": "brown",
+      "solution": "Answer: brown"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Which colour is darker: black or white?",
+      "answer": "black",
+      "solution": "Answer: black"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Name the colour between red and yellow in the rainbow.",
+      "answer": "orange",
+      "solution": "Answer: orange"
     }
   ],
-  "summary": "Colour words describe how things look.",
+  "summary": "Practise all seven rainbow colours and familiar everyday colours.",
   "relatedTopics": [
     "preschool-greetings"
+  ],
+  "visuals": [
+    {
+      "label": "red",
+      "description": "",
+      "alt": "red",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#dc2626",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "orange",
+      "description": "",
+      "alt": "orange",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#f97316",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "yellow",
+      "description": "",
+      "alt": "yellow",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#eab308",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "green",
+      "description": "",
+      "alt": "green",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#16a34a",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "blue",
+      "description": "",
+      "alt": "blue",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#2563eb",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "indigo",
+      "description": "",
+      "alt": "indigo",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#4338ca",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "violet",
+      "description": "",
+      "alt": "violet",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#8b5cf6",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "purple",
+      "description": "",
+      "alt": "purple",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#9333ea",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "pink",
+      "description": "",
+      "alt": "pink",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#ec4899",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "brown",
+      "description": "",
+      "alt": "brown",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#92400e",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "black",
+      "description": "",
+      "alt": "black",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#111111",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "white",
+      "description": "",
+      "alt": "white",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#ffffff",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    },
+    {
+      "label": "grey",
+      "description": "",
+      "alt": "grey",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 36,
+            "y": 18,
+            "width": 88,
+            "height": 64,
+            "rx": 8,
+            "fill": "#9ca3af",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        }
+      ]
+    }
   ]
 }

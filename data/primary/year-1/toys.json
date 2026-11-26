@@ -7,7 +7,15 @@
   "definition": "We can name toys and say who owns them.",
   "rules": [
     "Point to toys and describe them.",
-    "Use my for something that belongs to you."
+    "Use my for something that belongs to you.",
+    "Say: I fly my kite.",
+    "Say: She has a dollhouse.",
+    "Say: He rides his bicycle.",
+    "Say: We play a board game.",
+    "Say: My robot is silver.",
+    "Say: Your puzzle has many pieces.",
+    "Say: The teddy bear is soft.",
+    "Say: They jump with a skipping rope."
   ],
   "grammar": [
     {
@@ -21,70 +29,424 @@
   ],
   "vocabulary": [
     {
-      "expression": "kite",
-      "description": "A toy flown in the wind."
+      "expression": "ball",
+      "description": "A round object used for play."
     },
     {
       "expression": "doll",
       "description": "A toy shaped like a person."
     },
     {
-      "expression": "train",
-      "description": "A vehicle that travels on rails."
+      "expression": "kite",
+      "description": "A toy flown on a string."
     },
     {
       "expression": "teddy bear",
       "description": "A soft toy bear."
+    },
+    {
+      "expression": "toy car",
+      "description": "A small model car."
+    },
+    {
+      "expression": "toy train",
+      "description": "A model train."
+    },
+    {
+      "expression": "robot",
+      "description": "A machine or a toy shaped like one."
+    },
+    {
+      "expression": "puzzle",
+      "description": "A game in which pieces or clues must fit together."
+    },
+    {
+      "expression": "blocks",
+      "description": "Pieces used for building."
+    },
+    {
+      "expression": "marbles",
+      "description": "Small round balls used in games."
+    },
+    {
+      "expression": "yo-yo",
+      "description": "A toy that moves up and down a string."
+    },
+    {
+      "expression": "skipping rope",
+      "description": "A rope used for jumping."
+    },
+    {
+      "expression": "bicycle",
+      "description": "A vehicle with two wheels."
+    },
+    {
+      "expression": "scooter",
+      "description": "A small vehicle ridden standing up."
+    },
+    {
+      "expression": "drum",
+      "description": "An instrument played by hitting it."
+    },
+    {
+      "expression": "dollhouse",
+      "description": "A small house for dolls."
+    },
+    {
+      "expression": "board game",
+      "description": "A game played on a board."
+    },
+    {
+      "expression": "storybook",
+      "description": "A book containing a story."
     }
   ],
   "examples": [
     {
-      "question": "A toy that flies on a string is a ___.",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Point to toys and describe them."
+        "I fly my kite."
       ],
-      "answer": "kite"
+      "answer": "I fly my kite."
     },
     {
-      "question": "A soft toy bear is a teddy ___.",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Use my for something that belongs to you."
+        "She has a dollhouse."
       ],
-      "answer": "bear"
+      "answer": "She has a dollhouse."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "He rides his bicycle."
+      ],
+      "answer": "He rides his bicycle."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "We play a board game."
+      ],
+      "answer": "We play a board game."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My robot is silver."
+      ],
+      "answer": "My robot is silver."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "Your puzzle has many pieces."
+      ],
+      "answer": "Your puzzle has many pieces."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The teddy bear is soft."
+      ],
+      "answer": "The teddy bear is soft."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "They jump with a skipping rope."
+      ],
+      "answer": "They jump with a skipping rope."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "A toy that flies on a string is a ___.",
+      "question": "Which toy flies on a string?",
       "answer": "kite",
       "solution": "Answer: kite"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "A soft toy bear is a teddy ___.",
-      "answer": "bear",
-      "solution": "Answer: bear"
+      "question": "Which toy goes up and down a string?",
+      "answer": "yo-yo",
+      "solution": "Answer: yo-yo"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "This is ___ toy. It belongs to me.",
-      "answer": "my",
-      "solution": "Answer: my"
+      "question": "Which toy has pieces that fit together?",
+      "answer": "puzzle",
+      "solution": "Answer: puzzle"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "This is ___ bag. It belongs to you.",
+      "question": "Which toy is a soft bear?",
+      "answer": "teddy bear",
+      "solution": "Answer: teddy bear"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which vehicle has two wheels and pedals?",
+      "answer": "bicycle",
+      "solution": "Answer: bicycle"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which toy is a model house?",
+      "answer": "dollhouse",
+      "solution": "Answer: dollhouse"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Which toy do you hit to make music?",
+      "answer": "drum",
+      "solution": "Answer: drum"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Complete: This is ___ robot. It belongs to me.",
+      "answer": "my",
+      "solution": "Answer: my"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Complete: That is ___ kite. It belongs to you.",
       "answer": "your",
       "solution": "Answer: your"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Complete: I have two ___. (balls or ball)",
+      "answer": "balls",
+      "solution": "Answer: balls"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Which game uses a board?",
+      "answer": "board game",
+      "solution": "Answer: board game"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "Which toy is made of small round balls? (marbles or blocks)",
+      "answer": "marbles",
+      "solution": "Answer: marbles"
     }
   ],
   "summary": "We can name toys and say who owns them.",
   "relatedTopics": [
     "primary-1-school"
+  ],
+  "visuals": [
+    {
+      "label": "ball",
+      "description": "",
+      "alt": "ball",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "⚽"
+        }
+      ]
+    },
+    {
+      "label": "kite",
+      "description": "",
+      "alt": "kite",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🪁"
+        }
+      ]
+    },
+    {
+      "label": "teddy bear",
+      "description": "",
+      "alt": "teddy bear",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🧸"
+        }
+      ]
+    },
+    {
+      "label": "toy car",
+      "description": "",
+      "alt": "toy car",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🚗"
+        }
+      ]
+    },
+    {
+      "label": "toy train",
+      "description": "",
+      "alt": "toy train",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🚂"
+        }
+      ]
+    },
+    {
+      "label": "robot",
+      "description": "",
+      "alt": "robot",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🤖"
+        }
+      ]
+    },
+    {
+      "label": "puzzle",
+      "description": "",
+      "alt": "puzzle",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🧩"
+        }
+      ]
+    },
+    {
+      "label": "yo-yo",
+      "description": "",
+      "alt": "yo-yo",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🪀"
+        }
+      ]
+    },
+    {
+      "label": "bicycle",
+      "description": "",
+      "alt": "bicycle",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🚲"
+        }
+      ]
+    },
+    {
+      "label": "scooter",
+      "description": "",
+      "alt": "scooter",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🛴"
+        }
+      ]
+    },
+    {
+      "label": "drum",
+      "description": "",
+      "alt": "drum",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥁"
+        }
+      ]
+    }
   ]
 }

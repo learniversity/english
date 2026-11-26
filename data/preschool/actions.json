@@ -6,57 +6,213 @@
   "introduction": "Learn about action words through simple examples and practice.",
   "definition": "Action words tell us what someone or something does.",
   "rules": [
-    "Act out the words as you say them."
+    "Act out the words as you say them.",
+    "Say: I walk to school.",
+    "Say: I drink milk.",
+    "Say: I draw a flower.",
+    "Say: I wash my hands.",
+    "Say: I read a story.",
+    "Say: I clap my hands.",
+    "Say: I dance to music.",
+    "Say: I close the door."
   ],
   "grammar": [],
   "vocabulary": [
+    {
+      "expression": "walk",
+      "description": "Move on foot."
+    },
     {
       "expression": "run",
       "description": "Move quickly on foot."
     },
     {
       "expression": "jump",
-      "description": "Push yourself up from the ground."
+      "description": "Push your body up from the ground."
+    },
+    {
+      "expression": "sit",
+      "description": "Rest on a seat."
+    },
+    {
+      "expression": "stand",
+      "description": "Be upright on your feet."
+    },
+    {
+      "expression": "eat",
+      "description": "Take food into your mouth."
+    },
+    {
+      "expression": "drink",
+      "description": "Swallow a liquid."
+    },
+    {
+      "expression": "sleep",
+      "description": "Rest with your eyes closed."
     },
     {
       "expression": "read",
       "description": "Understand written words."
+    },
+    {
+      "expression": "write",
+      "description": "Make letters or words."
+    },
+    {
+      "expression": "draw",
+      "description": "Make a picture."
+    },
+    {
+      "expression": "sing",
+      "description": "Make music with your voice."
+    },
+    {
+      "expression": "dance",
+      "description": "Move to music."
+    },
+    {
+      "expression": "clap",
+      "description": "Bring your hands together."
+    },
+    {
+      "expression": "wash",
+      "description": "Clean with water."
+    },
+    {
+      "expression": "open",
+      "description": "Move something so it is no longer closed."
+    },
+    {
+      "expression": "close",
+      "description": "Shut something."
     }
   ],
   "examples": [
     {
-      "question": "Complete: I ___ water (drink or jump).",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "I walk to school."
       ],
-      "answer": "drink"
+      "answer": "I walk to school."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I drink milk."
+      ],
+      "answer": "I drink milk."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I draw a flower."
+      ],
+      "answer": "I draw a flower."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I wash my hands."
+      ],
+      "answer": "I wash my hands."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I read a story."
+      ],
+      "answer": "I read a story."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I clap my hands."
+      ],
+      "answer": "I clap my hands."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I dance to music."
+      ],
+      "answer": "I dance to music."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I close the door."
+      ],
+      "answer": "I close the door."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Complete: I ___ water (drink or jump).",
-      "answer": "drink",
-      "solution": "Answer: drink"
+      "question": "I ___ a picture. (draw or sleep)",
+      "answer": "draw",
+      "solution": "Answer: draw"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Complete: I ___ a book (read or swim).",
-      "answer": "read",
-      "solution": "Answer: read"
+      "question": "I ___ water. (drink or sing)",
+      "answer": "drink",
+      "solution": "Answer: drink"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Complete: I ___ a song (sing or sit).",
+      "question": "I ___ my hands. (clap or read)",
+      "answer": "clap",
+      "solution": "Answer: clap"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "I ___ a book. (read or jump)",
+      "answer": "read",
+      "solution": "Answer: read"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "I ___ food. (eat or write)",
+      "answer": "eat",
+      "solution": "Answer: eat"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "I ___ my face. (wash or dance)",
+      "answer": "wash",
+      "solution": "Answer: wash"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "I ___ a song. (sing or sit)",
       "answer": "sing",
       "solution": "Answer: sing"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "I ___ on a chair. (sit or run)",
+      "answer": "sit",
+      "solution": "Answer: sit"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "I ___ the door to enter. (open or sleep)",
+      "answer": "open",
+      "solution": "Answer: open"
     }
   ],
   "summary": "Action words tell us what someone or something does.",
   "relatedTopics": [
     "preschool-classroom"
-  ]
+  ],
+  "visuals": []
 }

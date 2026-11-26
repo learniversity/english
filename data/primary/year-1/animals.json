@@ -7,7 +7,17 @@
   "definition": "Describe animals using names, colours, body parts and simple actions.",
   "rules": [
     "Say what an animal can do.",
-    "Describe one feature at a time."
+    "Describe one feature at a time.",
+    "Say: A goat has horns.",
+    "Say: A duck can swim.",
+    "Say: A butterfly has wings.",
+    "Say: An elephant has a trunk.",
+    "Say: A tiger has stripes.",
+    "Say: A sheep has wool.",
+    "Say: A crocodile has sharp teeth.",
+    "Say: An octopus has eight arms.",
+    "Say: A dolphin lives in the sea.",
+    "Say: An ant is small."
   ],
   "grammar": [
     {
@@ -21,6 +31,94 @@
   ],
   "vocabulary": [
     {
+      "expression": "cat",
+      "description": "A common pet with whiskers."
+    },
+    {
+      "expression": "dog",
+      "description": "A common pet that barks."
+    },
+    {
+      "expression": "rabbit",
+      "description": "An animal with long ears."
+    },
+    {
+      "expression": "hamster",
+      "description": "A small furry pet."
+    },
+    {
+      "expression": "cow",
+      "description": "A large farm animal."
+    },
+    {
+      "expression": "goat",
+      "description": "A farm animal that often has horns."
+    },
+    {
+      "expression": "sheep",
+      "description": "A farm animal with wool."
+    },
+    {
+      "expression": "horse",
+      "description": "A large animal with hooves."
+    },
+    {
+      "expression": "duck",
+      "description": "A bird that swims."
+    },
+    {
+      "expression": "hen",
+      "description": "An adult female chicken."
+    },
+    {
+      "expression": "tiger",
+      "description": "A large striped wild cat."
+    },
+    {
+      "expression": "elephant",
+      "description": "A large animal with a trunk."
+    },
+    {
+      "expression": "monkey",
+      "description": "An animal that often climbs trees."
+    },
+    {
+      "expression": "bear",
+      "description": "A large furry mammal."
+    },
+    {
+      "expression": "crocodile",
+      "description": "A reptile with a long snout."
+    },
+    {
+      "expression": "fish",
+      "description": "An animal that lives in water."
+    },
+    {
+      "expression": "dolphin",
+      "description": "A marine mammal."
+    },
+    {
+      "expression": "octopus",
+      "description": "A sea animal with eight arms."
+    },
+    {
+      "expression": "butterfly",
+      "description": "An insect with large wings."
+    },
+    {
+      "expression": "ant",
+      "description": "A small insect living in colonies."
+    },
+    {
+      "expression": "bee",
+      "description": "An insect that visits flowers."
+    },
+    {
+      "expression": "frog",
+      "description": "An amphibian that can jump."
+    },
+    {
       "expression": "tail",
       "description": "A body part at the back of many animals."
     },
@@ -30,61 +128,569 @@
     },
     {
       "expression": "fin",
-      "description": "A body part that helps a fish move in water."
+      "description": "A body part that helps fish move in water."
     },
     {
-      "expression": "frog",
-      "description": "An animal that can jump and lives near water."
+      "expression": "beak",
+      "description": "The hard mouth of a bird."
+    },
+    {
+      "expression": "fur",
+      "description": "Hair covering many animals."
+    },
+    {
+      "expression": "feathers",
+      "description": "The soft or firm coverings of birds."
+    },
+    {
+      "expression": "trunk",
+      "description": "The long nose of an elephant."
+    },
+    {
+      "expression": "claw",
+      "description": "A curved nail on an animal's foot."
     }
   ],
   "examples": [
     {
-      "question": "A fish can ___.",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Say what an animal can do."
+        "A goat has horns."
       ],
-      "answer": "swim"
+      "answer": "A goat has horns."
     },
     {
-      "question": "A bird has two ___.",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Describe one feature at a time."
+        "A duck can swim."
       ],
-      "answer": "wings"
+      "answer": "A duck can swim."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A butterfly has wings."
+      ],
+      "answer": "A butterfly has wings."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "An elephant has a trunk."
+      ],
+      "answer": "An elephant has a trunk."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A tiger has stripes."
+      ],
+      "answer": "A tiger has stripes."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A sheep has wool."
+      ],
+      "answer": "A sheep has wool."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A crocodile has sharp teeth."
+      ],
+      "answer": "A crocodile has sharp teeth."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "An octopus has eight arms."
+      ],
+      "answer": "An octopus has eight arms."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "A dolphin lives in the sea."
+      ],
+      "answer": "A dolphin lives in the sea."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "An ant is small."
+      ],
+      "answer": "An ant is small."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "A fish can ___.",
-      "answer": "swim",
-      "solution": "Answer: swim"
+      "question": "Which animal has a trunk?",
+      "answer": "elephant",
+      "solution": "Answer: elephant"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "A bird has two ___.",
-      "answer": "wings",
-      "solution": "Answer: wings"
+      "question": "Which animal has black stripes and is a big cat?",
+      "answer": "tiger",
+      "solution": "Answer: tiger"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "A frog can ___ (jump or read).",
-      "answer": "jump",
-      "solution": "Answer: jump"
+      "question": "Which animal has eight arms?",
+      "answer": "octopus",
+      "solution": "Answer: octopus"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "A cat has a ___. (tail or fin)",
-      "answer": "tail",
-      "solution": "Answer: tail"
+      "question": "Which animal gives us wool?",
+      "answer": "sheep",
+      "solution": "Answer: sheep"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which animal has a beak? (duck or cat)",
+      "answer": "duck",
+      "solution": "Answer: duck"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which body part helps a fish swim?",
+      "answer": "fin",
+      "solution": "Answer: fin"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Which insect visits flowers? (bee or cow)",
+      "answer": "bee",
+      "solution": "Answer: bee"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Which animal is an amphibian?",
+      "answer": "frog",
+      "solution": "Answer: frog"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Which body covering do birds have?",
+      "answer": "feathers",
+      "solution": "Answer: feathers"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Complete: A rabbit ___ long ears. (has or have)",
+      "answer": "has",
+      "solution": "Answer: has"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Complete: A dolphin can ___.",
+      "answer": "swim",
+      "solution": "Answer: swim"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "Which animal is a reptile? (crocodile or horse)",
+      "answer": "crocodile",
+      "solution": "Answer: crocodile"
     }
   ],
   "summary": "Describe animals using names, colours, body parts and simple actions.",
   "relatedTopics": [
     "primary-1-toys"
+  ],
+  "visuals": [
+    {
+      "label": "cat",
+      "description": "",
+      "alt": "cat",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐈"
+        }
+      ]
+    },
+    {
+      "label": "dog",
+      "description": "",
+      "alt": "dog",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐕"
+        }
+      ]
+    },
+    {
+      "label": "rabbit",
+      "description": "",
+      "alt": "rabbit",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐇"
+        }
+      ]
+    },
+    {
+      "label": "hamster",
+      "description": "",
+      "alt": "hamster",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐹"
+        }
+      ]
+    },
+    {
+      "label": "cow",
+      "description": "",
+      "alt": "cow",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐄"
+        }
+      ]
+    },
+    {
+      "label": "goat",
+      "description": "",
+      "alt": "goat",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐐"
+        }
+      ]
+    },
+    {
+      "label": "sheep",
+      "description": "",
+      "alt": "sheep",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐑"
+        }
+      ]
+    },
+    {
+      "label": "horse",
+      "description": "",
+      "alt": "horse",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐎"
+        }
+      ]
+    },
+    {
+      "label": "duck",
+      "description": "",
+      "alt": "duck",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🦆"
+        }
+      ]
+    },
+    {
+      "label": "tiger",
+      "description": "",
+      "alt": "tiger",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐅"
+        }
+      ]
+    },
+    {
+      "label": "elephant",
+      "description": "",
+      "alt": "elephant",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐘"
+        }
+      ]
+    },
+    {
+      "label": "monkey",
+      "description": "",
+      "alt": "monkey",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐒"
+        }
+      ]
+    },
+    {
+      "label": "bear",
+      "description": "",
+      "alt": "bear",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐻"
+        }
+      ]
+    },
+    {
+      "label": "crocodile",
+      "description": "",
+      "alt": "crocodile",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐊"
+        }
+      ]
+    },
+    {
+      "label": "fish",
+      "description": "",
+      "alt": "fish",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐟"
+        }
+      ]
+    },
+    {
+      "label": "dolphin",
+      "description": "",
+      "alt": "dolphin",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐬"
+        }
+      ]
+    },
+    {
+      "label": "octopus",
+      "description": "",
+      "alt": "octopus",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐙"
+        }
+      ]
+    },
+    {
+      "label": "butterfly",
+      "description": "",
+      "alt": "butterfly",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🦋"
+        }
+      ]
+    },
+    {
+      "label": "ant",
+      "description": "",
+      "alt": "ant",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐜"
+        }
+      ]
+    },
+    {
+      "label": "bee",
+      "description": "",
+      "alt": "bee",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐝"
+        }
+      ]
+    },
+    {
+      "label": "frog",
+      "description": "",
+      "alt": "frog",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐸"
+        }
+      ]
+    }
   ]
 }

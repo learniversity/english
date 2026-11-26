@@ -6,57 +6,378 @@
   "introduction": "Learn about classroom words through simple examples and practice.",
   "definition": "Classroom words name things we use when learning.",
   "rules": [
-    "Point to an object and say its name."
+    "Point to an object and say its name.",
+    "Say: I have a pencil.",
+    "Say: The book is on the table.",
+    "Say: My bag is blue.",
+    "Say: I draw with a crayon.",
+    "Say: I cut paper with scissors.",
+    "Say: The window is open.",
+    "Say: I sit on a chair."
   ],
   "grammar": [],
   "vocabulary": [
     {
       "expression": "book",
-      "description": "Something with pages to read."
+      "description": "Pages we read."
+    },
+    {
+      "expression": "pencil",
+      "description": "A tool for writing or drawing."
+    },
+    {
+      "expression": "pen",
+      "description": "A tool that writes with ink."
+    },
+    {
+      "expression": "crayon",
+      "description": "A coloured stick for drawing."
+    },
+    {
+      "expression": "paper",
+      "description": "A sheet for writing or drawing."
     },
     {
       "expression": "chair",
       "description": "A seat for one person."
     },
     {
-      "expression": "pencil",
-      "description": "A tool for writing or drawing."
+      "expression": "table",
+      "description": "Furniture with a flat top."
+    },
+    {
+      "expression": "bag",
+      "description": "Something used to carry things."
+    },
+    {
+      "expression": "ruler",
+      "description": "A tool for measuring length."
+    },
+    {
+      "expression": "rubber",
+      "description": "Something that removes pencil marks."
+    },
+    {
+      "expression": "glue",
+      "description": "A substance that sticks things together."
+    },
+    {
+      "expression": "scissors",
+      "description": "A tool for cutting paper."
+    },
+    {
+      "expression": "board",
+      "description": "A surface for writing in class."
+    },
+    {
+      "expression": "door",
+      "description": "Something we open to enter a room."
+    },
+    {
+      "expression": "window",
+      "description": "An opening that lets light into a room."
     }
   ],
   "examples": [
     {
-      "question": "What do you read: a book or a chair?",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "I have a pencil."
       ],
-      "answer": "book"
+      "answer": "I have a pencil."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The book is on the table."
+      ],
+      "answer": "The book is on the table."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My bag is blue."
+      ],
+      "answer": "My bag is blue."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I draw with a crayon."
+      ],
+      "answer": "I draw with a crayon."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I cut paper with scissors."
+      ],
+      "answer": "I cut paper with scissors."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The window is open."
+      ],
+      "answer": "The window is open."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "I sit on a chair."
+      ],
+      "answer": "I sit on a chair."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "What do you read: a book or a chair?",
-      "answer": "book",
-      "solution": "Answer: book"
+      "question": "What do you use to measure a line?",
+      "answer": "ruler",
+      "solution": "Answer: ruler"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "What do you sit on: a chair or a pencil?",
-      "answer": "chair",
-      "solution": "Answer: chair"
+      "question": "What removes pencil marks?",
+      "answer": "rubber",
+      "solution": "Answer: rubber"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "What do you write with: a pencil or a bag?",
-      "answer": "pencil",
-      "solution": "Answer: pencil"
+      "question": "What do you sit on? (chair or paper)",
+      "answer": "chair",
+      "solution": "Answer: chair"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What do you use to cut paper?",
+      "answer": "scissors",
+      "solution": "Answer: scissors"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "What do you carry books in? (bag or glue)",
+      "answer": "bag",
+      "solution": "Answer: bag"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "What sticks paper together?",
+      "answer": "glue",
+      "solution": "Answer: glue"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "What can you read? (book or chair)",
+      "answer": "book",
+      "solution": "Answer: book"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "What lets light into a room?",
+      "answer": "window",
+      "solution": "Answer: window"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "What coloured stick can you draw with?",
+      "answer": "crayon",
+      "solution": "Answer: crayon"
     }
   ],
   "summary": "Classroom words name things we use when learning.",
   "relatedTopics": [
     "preschool-family"
+  ],
+  "visuals": [
+    {
+      "label": "book",
+      "description": "",
+      "alt": "book",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "📖"
+        }
+      ]
+    },
+    {
+      "label": "pencil",
+      "description": "",
+      "alt": "pencil",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "✏️"
+        }
+      ]
+    },
+    {
+      "label": "pen",
+      "description": "",
+      "alt": "pen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🖊️"
+        }
+      ]
+    },
+    {
+      "label": "crayon",
+      "description": "",
+      "alt": "crayon",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🖍️"
+        }
+      ]
+    },
+    {
+      "label": "chair",
+      "description": "",
+      "alt": "chair",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🪑"
+        }
+      ]
+    },
+    {
+      "label": "bag",
+      "description": "",
+      "alt": "bag",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🎒"
+        }
+      ]
+    },
+    {
+      "label": "ruler",
+      "description": "",
+      "alt": "ruler",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "📏"
+        }
+      ]
+    },
+    {
+      "label": "scissors",
+      "description": "",
+      "alt": "scissors",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "✂️"
+        }
+      ]
+    },
+    {
+      "label": "door",
+      "description": "",
+      "alt": "door",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🚪"
+        }
+      ]
+    },
+    {
+      "label": "window",
+      "description": "",
+      "alt": "window",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🪟"
+        }
+      ]
+    }
   ]
 }

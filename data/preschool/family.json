@@ -6,10 +6,22 @@
   "introduction": "Learn about my family through simple examples and practice.",
   "definition": "Family words help us talk about people in our families.",
   "rules": [
-    "Families can be different from one another."
+    "Families can be different from one another.",
+    "Say: This is my mother.",
+    "Say: My father is here.",
+    "Say: My grandmother reads a book.",
+    "Say: My grandfather wears a hat.",
+    "Say: My brother plays with blocks.",
+    "Say: My sister draws a picture.",
+    "Say: The baby is sleeping.",
+    "Say: We are a family."
   ],
   "grammar": [],
   "vocabulary": [
+    {
+      "expression": "family",
+      "description": "People connected through family relationships."
+    },
     {
       "expression": "mother",
       "description": "A female parent."
@@ -19,48 +31,205 @@
       "description": "A male parent."
     },
     {
-      "expression": "sister",
-      "description": "A female sibling."
+      "expression": "parents",
+      "description": "A person's parent or parents considered together."
     },
     {
       "expression": "brother",
       "description": "A male sibling."
+    },
+    {
+      "expression": "sister",
+      "description": "A female sibling."
+    },
+    {
+      "expression": "baby",
+      "description": "A very young child."
+    },
+    {
+      "expression": "child",
+      "description": "A young person."
+    },
+    {
+      "expression": "grandmother",
+      "description": "The mother of a parent."
+    },
+    {
+      "expression": "grandfather",
+      "description": "The father of a parent."
+    },
+    {
+      "expression": "grandparents",
+      "description": "A parent's parents."
+    },
+    {
+      "expression": "grandchild",
+      "description": "The child of someone's son or daughter."
     }
   ],
   "examples": [
     {
-      "question": "Complete the word: moth_r.",
+      "question": "Read and say this sentence.",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "This is my mother."
       ],
-      "answer": "e"
+      "answer": "This is my mother."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My father is here."
+      ],
+      "answer": "My father is here."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My grandmother reads a book."
+      ],
+      "answer": "My grandmother reads a book."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My grandfather wears a hat."
+      ],
+      "answer": "My grandfather wears a hat."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My brother plays with blocks."
+      ],
+      "answer": "My brother plays with blocks."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "My sister draws a picture."
+      ],
+      "answer": "My sister draws a picture."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "The baby is sleeping."
+      ],
+      "answer": "The baby is sleeping."
+    },
+    {
+      "question": "Read and say this sentence.",
+      "steps": [
+        "We are a family."
+      ],
+      "answer": "We are a family."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Complete the word: moth_r.",
-      "answer": "e",
-      "solution": "Answer: e"
+      "question": "A female parent is a ___.",
+      "answer": "mother",
+      "solution": "Answer: mother"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Complete the word: broth_r.",
-      "answer": "e",
-      "solution": "Answer: e"
+      "question": "A male parent is a ___.",
+      "answer": "father",
+      "solution": "Answer: father"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Complete the word: sist_r.",
-      "answer": "e",
-      "solution": "Answer: e"
+      "question": "Your mother's mother is your ___.",
+      "answer": "grandmother",
+      "solution": "Answer: grandmother"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Your father's father is your ___.",
+      "answer": "grandfather",
+      "solution": "Answer: grandfather"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "A male sibling is a ___.",
+      "answer": "brother",
+      "solution": "Answer: brother"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "A female sibling is a ___.",
+      "answer": "sister",
+      "solution": "Answer: sister"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "A very young child is a ___.",
+      "answer": "baby",
+      "solution": "Answer: baby"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Mother and father can be called ___.",
+      "answer": "parents",
+      "solution": "Answer: parents"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "A parent's parents are your ___.",
+      "answer": "grandparents",
+      "solution": "Answer: grandparents"
     }
   ],
   "summary": "Family words help us talk about people in our families.",
   "relatedTopics": [
     "preschool-colours"
+  ],
+  "visuals": [
+    {
+      "label": "baby",
+      "description": "",
+      "alt": "baby",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "👶"
+        }
+      ]
+    },
+    {
+      "label": "child",
+      "description": "",
+      "alt": "child",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 68,
+            "font-size": 54,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🧒"
+        }
+      ]
+    }
   ]
 }
