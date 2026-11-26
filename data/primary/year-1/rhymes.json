@@ -6,56 +6,114 @@
   "introduction": "Practise chants, rhymes and action songs with familiar words and short sentences.",
   "definition": "Rhymes repeat ending sounds and chants use rhythm. Actions help us enjoy and remember words.",
   "rules": [
-    "Say this original chant: Clap your hands, tap your feet. Say hello to friends you meet.",
-    "Clap a steady beat as you say the words.",
-    "Make up an action for each line."
+    "Say the original chants aloud. Tap or clap to the beat and listen for rhyming words.",
+    "Chant 1: Rain on the ground, puddles all around. Put on your boots, hear the splashing sound.",
+    "Chant 2: Fly your kite, high and bright. Watch it dance in morning light.",
+    "Chant 3: One red ball, rolling down the hall. Catch it gently, do not let it fall.",
+    "Make up a new line using a word that rhymes."
   ],
   "grammar": [],
   "vocabulary": [],
   "examples": [
     {
-      "question": "Which word rhymes with feet in the chant?",
+      "question": "Which rhymes with ground in Chant 1?",
       "steps": [
-        "Say this original chant: Clap your hands, tap your feet. Say hello to friends you meet."
+        "Listen to the matching ending sound."
       ],
-      "answer": "meet"
+      "answer": "around"
     },
     {
-      "question": "What do you clap?",
+      "question": "Which rhymes with kite in Chant 2?",
       "steps": [
-        "Clap a steady beat as you say the words."
+        "Kite and bright have the same ending sound."
       ],
-      "answer": "hands"
+      "answer": "bright"
+    },
+    {
+      "question": "Which rhymes with ball in Chant 3?",
+      "steps": [
+        "Ball and hall rhyme."
+      ],
+      "answer": "hall"
+    },
+    {
+      "question": "Find another word that rhymes with light.",
+      "steps": [
+        "Light and night share the ending sound."
+      ],
+      "answer": "night"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Which word rhymes with feet in the chant?",
-      "answer": "meet",
-      "solution": "Answer: meet"
+      "question": "Which rhymes with rain: train or leaf?",
+      "answer": "train",
+      "solution": "Answer: train"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "What do you clap?",
-      "answer": "hands",
-      "solution": "Answer: hands"
+      "question": "Which rhymes with day: play or dog?",
+      "answer": "play",
+      "solution": "Answer: play"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "What do you tap?",
-      "answer": "feet",
-      "solution": "Answer: feet"
+      "question": "Which rhymes with cake: lake or cup?",
+      "answer": "lake",
+      "solution": "Answer: lake"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Which rhymes with cat: hat or pen?",
-      "answer": "hat",
-      "solution": "Answer: hat"
+      "question": "Which rhymes with bright: night or bird?",
+      "answer": "night",
+      "solution": "Answer: night"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which rhymes with hall: fall or hat?",
+      "answer": "fall",
+      "solution": "Answer: fall"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which rhymes with sound: ground or green?",
+      "answer": "ground",
+      "solution": "Answer: ground"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Which rhymes with boots: roots or bed?",
+      "answer": "roots",
+      "solution": "Answer: roots"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Which rhymes with tree: bee or toy?",
+      "answer": "bee",
+      "solution": "Answer: bee"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Which rhymes with red: bed or road?",
+      "answer": "bed",
+      "solution": "Answer: bed"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Which rhymes with fish: dish or desk?",
+      "answer": "dish",
+      "solution": "Answer: dish"
     }
   ],
   "summary": "Rhymes repeat ending sounds and chants use rhythm. Actions help us enjoy and remember words.",

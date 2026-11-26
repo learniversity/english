@@ -6,48 +6,117 @@
   "introduction": "Practise reading common words and labels with familiar words and short sentences.",
   "definition": "Labels identify things. Common words help us understand short phrases and signs.",
   "rules": [
-    "Read familiar labels aloud.",
-    "Use pictures and known letter patterns to help identify new words.",
-    "Make a small picture dictionary with words grouped by topic."
+    "Read familiar signs, labels and short phrases in context.",
+    "Look for pictures and known letter patterns when reading an unfamiliar word.",
+    "Practise matching signs to their meanings."
   ],
   "grammar": [],
   "vocabulary": [
-    {
-      "expression": "door",
-      "description": "An opening with a movable panel."
-    },
     {
       "expression": "exit",
       "description": "A way out."
     },
     {
+      "expression": "entrance",
+      "description": "A way in."
+    },
+    {
       "expression": "stop",
       "description": "Do not go farther."
+    },
+    {
+      "expression": "open",
+      "description": "Not closed; ready for people to enter."
+    },
+    {
+      "expression": "closed",
+      "description": "Not open."
+    },
+    {
+      "expression": "push",
+      "description": "Move something away from yourself."
+    },
+    {
+      "expression": "pull",
+      "description": "Move something towards yourself."
+    },
+    {
+      "expression": "toilet",
+      "description": "A place with facilities for using the toilet."
+    },
+    {
+      "expression": "library",
+      "description": "A place with books."
+    },
+    {
+      "expression": "quiet",
+      "description": "With little or no noise."
+    },
+    {
+      "expression": "danger",
+      "description": "A warning of possible harm."
+    },
+    {
+      "expression": "wet floor",
+      "description": "A warning that the floor is wet."
+    },
+    {
+      "expression": "no entry",
+      "description": "Do not enter."
+    },
+    {
+      "expression": "help",
+      "description": "Assistance."
+    },
+    {
+      "expression": "school",
+      "description": "A place where pupils learn."
     }
   ],
   "examples": [
     {
-      "question": "Which sign tells you not to continue?",
+      "question": "A door has the label PUSH. What do you do?",
       "steps": [
-        "Read familiar labels aloud."
+        "Move the door away from you."
       ],
-      "answer": "stop"
+      "answer": "Push the door."
     },
     {
-      "question": "Which word means a way out?",
+      "question": "A sign says EXIT. What does it mean?",
       "steps": [
-        "Use pictures and known letter patterns to help identify new words."
+        "Exit identifies a route out."
       ],
-      "answer": "exit"
+      "answer": "A way out."
+    },
+    {
+      "question": "A library has a QUIET sign. What should you do?",
+      "steps": [
+        "Quiet means little or no noise."
+      ],
+      "answer": "Speak softly."
+    },
+    {
+      "question": "A sign reads WET FLOOR. What does it warn about?",
+      "steps": [
+        "Walk carefully because the surface may be slippery."
+      ],
+      "answer": "A wet floor."
+    },
+    {
+      "question": "A shop sign reads CLOSED. Can you enter to shop now?",
+      "steps": [
+        "The shop is not open to customers."
+      ],
+      "answer": "No."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Which sign tells you not to continue?",
-      "answer": "stop",
-      "solution": "Answer: stop"
+      "question": "Which word means a way in?",
+      "answer": "entrance",
+      "solution": "Answer: entrance"
     },
     {
       "id": "q2",
@@ -59,16 +128,58 @@
     {
       "id": "q3",
       "type": "text",
-      "question": "Complete: a red ___. (bag or jump)",
-      "answer": "bag",
-      "solution": "Answer: bag"
+      "question": "Which word means move towards you?",
+      "answer": "pull",
+      "solution": "Answer: pull"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Which is a classroom object: desk or swim?",
-      "answer": "desk",
-      "solution": "Answer: desk"
+      "question": "Which word means move away from you?",
+      "answer": "push",
+      "solution": "Answer: push"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which sign tells you not to enter?",
+      "answer": "no entry",
+      "solution": "Answer: no entry"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which word means little or no noise?",
+      "answer": "quiet",
+      "solution": "Answer: quiet"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Which sign warns about a slippery wet surface?",
+      "answer": "wet floor",
+      "solution": "Answer: wet floor"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Which word means assistance?",
+      "answer": "help",
+      "solution": "Answer: help"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Which word means not open?",
+      "answer": "closed",
+      "solution": "Answer: closed"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Which word means possible harm?",
+      "answer": "danger",
+      "solution": "Answer: danger"
     }
   ],
   "summary": "Labels identify things. Common words help us understand short phrases and signs.",

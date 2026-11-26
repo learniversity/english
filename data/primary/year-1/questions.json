@@ -6,38 +6,80 @@
   "introduction": "Practise simple questions and answers with familiar words and short sentences.",
   "definition": "Questions help us find out information. Answer using a short phrase or sentence.",
   "rules": [
-    "Use what for things, who for people and where for places.",
-    "Ask a question with a partner and listen to the answer."
+    "Use what to ask about things, who for people, where for places, when for time and how for ways or feelings.",
+    "Use how many to ask about numbers and how old for age.",
+    "Questions beginning with is, are, can or do can often be answered with yes or no."
   ],
   "grammar": [
     {
-      "expression": "What is this?",
-      "description": "It is a book."
+      "expression": "What?",
+      "description": "What is this?"
     },
     {
-      "expression": "Who is that?",
-      "description": "That is my teacher."
+      "expression": "Who?",
+      "description": "Who is your teacher?"
     },
     {
-      "expression": "Where is the bag?",
-      "description": "It is on the desk."
+      "expression": "Where?",
+      "description": "Where is your bag?"
+    },
+    {
+      "expression": "When?",
+      "description": "When is your birthday?"
+    },
+    {
+      "expression": "How?",
+      "description": "How are you?"
+    },
+    {
+      "expression": "How many?",
+      "description": "How many books are there?"
+    },
+    {
+      "expression": "How old?",
+      "description": "How old are you?"
+    },
+    {
+      "expression": "Yes/no questions",
+      "description": "Is it blue? Can you swim?"
     }
   ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "___ is your name?",
+      "question": "Ask for the name of an object.",
       "steps": [
-        "Use what for things, who for people and where for places."
+        "Use what for a thing."
       ],
-      "answer": "What"
+      "answer": "What is this?"
     },
     {
-      "question": "___ is that person?",
+      "question": "Ask about a person's identity.",
       "steps": [
-        "Ask a question with a partner and listen to the answer."
+        "Use who for a person."
       ],
-      "answer": "Who"
+      "answer": "Who is that?"
+    },
+    {
+      "question": "Ask for the place of the schoolbag.",
+      "steps": [
+        "Use where for a place."
+      ],
+      "answer": "Where is the schoolbag?"
+    },
+    {
+      "question": "Ask about the number of pencils.",
+      "steps": [
+        "Use how many for a quantity."
+      ],
+      "answer": "How many pencils are there?"
+    },
+    {
+      "question": "Answer 'Is the door open?' if it is.",
+      "steps": [
+        "Use a short affirmative answer."
+      ],
+      "answer": "Yes, it is."
     }
   ],
   "exercises": [
@@ -51,23 +93,79 @@
     {
       "id": "q2",
       "type": "text",
-      "question": "___ is that person?",
+      "question": "___ is your teacher?",
       "answer": "Who",
       "solution": "Answer: Who"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "___ is the ball?",
+      "question": "___ is the library?",
       "answer": "Where",
       "solution": "Answer: Where"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Is it red? Yes, it ___.",
+      "question": "___ is your birthday?",
+      "answer": "When",
+      "solution": "Answer: When"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "___ are you today?",
+      "answer": "How",
+      "solution": "Answer: How"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "How ___ apples are there?",
+      "answer": "many",
+      "solution": "Answer: many"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "How ___ are you?",
+      "answer": "old",
+      "solution": "Answer: old"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "___ you swim? (Can or Where)",
+      "answer": "Can",
+      "solution": "Answer: Can"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Is it green? Yes, it ___.",
       "answer": "is",
       "solution": "Answer: is"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Are they ready? Yes, they ___.",
+      "answer": "are",
+      "solution": "Answer: are"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "___ is your favourite food?",
+      "answer": "What",
+      "solution": "Answer: What"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "___ is that girl? (Who or Where)",
+      "answer": "Who",
+      "solution": "Answer: Who"
     }
   ],
   "summary": "Questions help us find out information. Answer using a short phrase or sentence.",

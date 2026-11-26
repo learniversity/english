@@ -6,56 +6,160 @@
   "introduction": "Practise listening to instructions and questions with familiar words and short sentences.",
   "definition": "Listen to short instructions and questions about familiar things.",
   "rules": [
-    "Ask a partner to read aloud: Open your book. Point to the door. Close your book.",
-    "Follow each instruction before checking the text.",
-    "Try asking your partner to repeat an instruction if needed."
+    "Ask a partner to read these classroom instructions aloud. Listen and act before reading the words.",
+    "Practise sequences of two or three instructions, such as 'Take your ruler. Draw a line. Put the ruler down.'",
+    "Request repetition politely: Please say it again."
   ],
   "grammar": [],
-  "vocabulary": [],
-  "examples": [
+  "vocabulary": [
     {
-      "question": "Complete the instruction: Open your ___. (book or run)",
-      "steps": [
-        "Ask a partner to read aloud: Open your book. Point to the door. Close your book."
-      ],
-      "answer": "book"
+      "expression": "underline",
+      "description": "Draw a line beneath a word."
     },
     {
-      "question": "Complete: Point ___ the door.",
+      "expression": "circle",
+      "description": "Draw a round line around something."
+    },
+    {
+      "expression": "tick",
+      "description": "Make a check mark."
+    },
+    {
+      "expression": "cross out",
+      "description": "Draw a line through something."
+    },
+    {
+      "expression": "copy",
+      "description": "Write the same letters or words."
+    },
+    {
+      "expression": "match",
+      "description": "Put related things together."
+    },
+    {
+      "expression": "choose",
+      "description": "Select one or more things."
+    },
+    {
+      "expression": "repeat",
+      "description": "Say or do something again."
+    },
+    {
+      "expression": "turn",
+      "description": "Move to face another direction or move a page."
+    },
+    {
+      "expression": "line up",
+      "description": "Stand in a line."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A partner says: Circle the word frog. What should you do?",
       "steps": [
-        "Follow each instruction before checking the text."
+        "Circle means draw around the word."
       ],
-      "answer": "to"
+      "answer": "Draw a circle around frog."
+    },
+    {
+      "question": "A partner says: Underline your name. What should you do?",
+      "steps": [
+        "Underline means draw beneath."
+      ],
+      "answer": "Draw a line below your name."
+    },
+    {
+      "question": "A partner says: Pick up your book, then open it. What is first?",
+      "steps": [
+        "Listen to the order."
+      ],
+      "answer": "Pick up the book."
+    },
+    {
+      "question": "You did not hear the instruction. What can you say?",
+      "steps": [
+        "Politely ask for repetition."
+      ],
+      "answer": "Please say it again."
+    },
+    {
+      "question": "A partner says: Close the door, then sit down. What is last?",
+      "steps": [
+        "The second instruction comes last."
+      ],
+      "answer": "Sit down."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Complete the instruction: Open your ___. (book or run)",
-      "answer": "book",
-      "solution": "Answer: book"
+      "question": "Complete: Turn ___ page. (the or many)",
+      "answer": "the",
+      "solution": "Answer: the"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Complete: Point ___ the door.",
-      "answer": "to",
-      "solution": "Answer: to"
+      "question": "Complete: Draw a ___ under your name. (line or chair)",
+      "answer": "line",
+      "solution": "Answer: line"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Which instruction means stop reading: close your book or open your book?",
-      "answer": "close your book",
-      "solution": "Answer: close your book"
+      "question": "Which instruction means draw around a word: circle or underline?",
+      "answer": "circle",
+      "solution": "Answer: circle"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Complete the polite request: Say it again, ___.",
+      "question": "Which instruction means write the same word: copy or erase?",
+      "answer": "copy",
+      "solution": "Answer: copy"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which instruction means stand in a line?",
+      "answer": "line up",
+      "solution": "Answer: line up"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which means select an answer: choose or close?",
+      "answer": "choose",
+      "solution": "Answer: choose"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "In 'Open your book, then read', what comes last?",
+      "answer": "read",
+      "solution": "Answer: read"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "In 'Pick up the pencil, then write', what comes first? (pick up or write)",
+      "answer": "pick up",
+      "solution": "Answer: pick up"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Complete: Say it again, ___.",
       "answer": "please",
       "solution": "Answer: please"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Which means say something again: repeat or match?",
+      "answer": "repeat",
+      "solution": "Answer: repeat"
     }
   ],
   "summary": "Listen to short instructions and questions about familiar things.",

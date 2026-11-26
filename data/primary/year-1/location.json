@@ -4,73 +4,149 @@
   "level": "primary-1",
   "category": "Grammar",
   "introduction": "Practise in, on and under with familiar words and short sentences.",
-  "definition": "These words show where something is.",
+  "definition": "Position words such as in, on, under, next to, behind and in front of tell us where something is.",
   "rules": [
-    "Place a toy in a box, on a box and under a box.",
-    "Ask Where is the toy?"
+    "Use in for inside, on for resting on a surface, and under for below.",
+    "Also practise next to, behind and in front of.",
+    "Describe positions by placing toys, books or other objects around a room."
   ],
   "grammar": [
     {
       "expression": "in",
-      "description": "Inside something."
+      "description": "The pencil is in the bag."
     },
     {
       "expression": "on",
-      "description": "Resting on a surface."
+      "description": "The cup is on the table."
     },
     {
       "expression": "under",
-      "description": "Below something."
+      "description": "The shoes are under the bed."
+    },
+    {
+      "expression": "next to",
+      "description": "The lamp is next to the sofa."
+    },
+    {
+      "expression": "behind",
+      "description": "The bicycle is behind the house."
+    },
+    {
+      "expression": "in front of",
+      "description": "The bus is in front of the school."
     }
   ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "A pencil inside a bag is ___ the bag.",
+      "question": "A key is inside a drawer. Where is it?",
       "steps": [
-        "Place a toy in a box, on a box and under a box."
+        "In describes an inside position."
       ],
-      "answer": "in"
+      "answer": "In the drawer."
     },
     {
-      "question": "A book resting on a desk is ___ the desk.",
+      "question": "A book rests on a desk. Where is it?",
       "steps": [
-        "Ask Where is the toy?"
+        "On describes contact with a surface."
       ],
-      "answer": "on"
+      "answer": "On the desk."
+    },
+    {
+      "question": "A dog sits below a bench. Where is it?",
+      "steps": [
+        "Under means below."
+      ],
+      "answer": "Under the bench."
+    },
+    {
+      "question": "A chair is beside a window. Where is it?",
+      "steps": [
+        "Next to means beside."
+      ],
+      "answer": "Next to the window."
+    },
+    {
+      "question": "The car is at the back of the bus. Where is it?",
+      "steps": [
+        "Behind describes the position at the back."
+      ],
+      "answer": "Behind the bus."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "A pencil inside a bag is ___ the bag.",
+      "question": "The milk is inside the fridge. It is ___ the fridge.",
       "answer": "in",
       "solution": "Answer: in"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "A book resting on a desk is ___ the desk.",
+      "question": "The picture rests against the wall surface. It is ___ the wall.",
       "answer": "on",
       "solution": "Answer: on"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "A shoe below a bed is ___ the bed.",
+      "question": "The ball is below the table. It is ___ the table.",
       "answer": "under",
       "solution": "Answer: under"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "___ is the ball? (Where or Who)",
+      "question": "The shop is beside the bank. It is ___ the bank. (next to or under)",
+      "answer": "next to",
+      "solution": "Answer: next to"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "The tree is at the back of the house. It is ___ the house.",
+      "answer": "behind",
+      "solution": "Answer: behind"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "The teacher stands ahead of the class. She is ___ the class.",
+      "answer": "in front of",
+      "solution": "Answer: in front of"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "The shoes are inside the box. They are ___ the box.",
+      "answer": "in",
+      "solution": "Answer: in"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "The plate rests on the counter. It is ___ the counter.",
+      "answer": "on",
+      "solution": "Answer: on"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "The bag is below the chair. It is ___ the chair.",
+      "answer": "under",
+      "solution": "Answer: under"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "___ is the ruler? (Where or Who)",
       "answer": "Where",
       "solution": "Answer: Where"
     }
   ],
-  "summary": "These words show where something is.",
+  "summary": "Use position words to describe where people and things are.",
   "relatedTopics": [
     "primary-1-have-has"
   ]

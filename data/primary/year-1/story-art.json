@@ -6,56 +6,114 @@
   "introduction": "Practise stories and creative responses with familiar words and short sentences.",
   "definition": "Stories can inspire us to draw, talk and make things. Think about the people, places and events in a story.",
   "rules": [
-    "Read: Mei finds a little bird near a tree. She calls her father. They watch the bird fly away.",
-    "Draw a picture of the tree and the bird.",
-    "Tell a partner what you drew and why you liked that part."
+    "Read or listen to a story, then describe the characters, place and events.",
+    "Story 1: Sara finds a tiny kitten beside a shop. She asks an adult for help. They find its owner.",
+    "Story 2: Ravi plants a bean in a pot. He waters it each day. A little green shoot appears.",
+    "Story 3: Mei makes a paper boat. She places it on a puddle. The wind gently moves the boat.",
+    "Draw a favourite scene, describe the picture or act out one event with a partner."
   ],
   "grammar": [],
   "vocabulary": [],
   "examples": [
     {
-      "question": "Who finds the bird?",
+      "question": "Who helps the kitten in Story 1?",
       "steps": [
-        "Read: Mei finds a little bird near a tree. She calls her father. They watch the bird fly away."
+        "Sara asks an adult for help."
       ],
-      "answer": "Mei"
+      "answer": "Sara and an adult."
     },
     {
-      "question": "Where is the bird? Near a ___.",
+      "question": "What grows in Story 2?",
       "steps": [
-        "Draw a picture of the tree and the bird."
+        "Ravi plants a bean and waters it."
       ],
-      "answer": "tree"
+      "answer": "A bean plant."
+    },
+    {
+      "question": "What does Mei make in Story 3?",
+      "steps": [
+        "This is the first event in the story."
+      ],
+      "answer": "A paper boat."
+    },
+    {
+      "question": "What can you draw to show Story 2?",
+      "steps": [
+        "Draw the important event or a favourite scene."
+      ],
+      "answer": "A pot with a green shoot."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Who finds the bird?",
-      "answer": "Mei",
-      "solution": "Answer: Mei"
+      "question": "Read: Sara finds a kitten by a shop. What animal does she find?",
+      "answer": "kitten",
+      "solution": "Answer: kitten"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Where is the bird? Near a ___.",
-      "answer": "tree",
-      "solution": "Answer: tree"
+      "question": "Read: Ravi plants a bean in a pot. What does he plant?",
+      "answer": "bean",
+      "solution": "Answer: bean"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Who does Mei call? Her ___.",
-      "answer": "father",
-      "solution": "Answer: father"
+      "question": "Read: Ravi waters his plant each day. What appears? (shoot or stone)",
+      "answer": "shoot",
+      "solution": "Answer: shoot"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "What does the bird do? It flies ___.",
-      "answer": "away",
-      "solution": "Answer: away"
+      "question": "Read: Mei folds paper into a boat. What does she make?",
+      "answer": "boat",
+      "solution": "Answer: boat"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Read: The wind moves Mei's boat on a puddle. What moves the boat?",
+      "answer": "wind",
+      "solution": "Answer: wind"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Read: Sara asks an adult for help. Who does she ask?",
+      "answer": "adult",
+      "solution": "Answer: adult"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Read: Aina draws a tiger in a forest. Which animal is in her drawing?",
+      "answer": "tiger",
+      "solution": "Answer: tiger"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Read: Ben makes a kite from paper and string. What does he make?",
+      "answer": "kite",
+      "solution": "Answer: kite"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Read: Lina acts like a rabbit in a play. Which animal does she act like?",
+      "answer": "rabbit",
+      "solution": "Answer: rabbit"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Read: Amir paints a picture of a cloudy sky. What does he paint? (sky or sea)",
+      "answer": "sky",
+      "solution": "Answer: sky"
     }
   ],
   "summary": "Stories can inspire us to draw, talk and make things. Think about the people, places and events in a story.",

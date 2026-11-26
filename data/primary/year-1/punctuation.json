@@ -6,71 +6,145 @@
   "introduction": "Practise capital letters and full stops with familiar words and short sentences.",
   "definition": "Start a sentence and a person's name with a capital letter. End a statement with a full stop; a direct question ends with a question mark.",
   "rules": [
-    "Always write the pronoun I as a capital letter.",
-    "Check the beginning and end of your sentence."
+    "Start a sentence, a person's name and the names of places with a capital letter.",
+    "Use a full stop for a statement and a question mark for a direct question.",
+    "An exclamation mark can show strong feeling. Always write the pronoun I as a capital letter."
   ],
   "grammar": [
     {
       "expression": "Capital letter",
-      "description": "Ali has a bag."
+      "description": "Mei lives in Malaysia."
     },
     {
       "expression": "Full stop",
-      "description": "I like rice."
+      "description": "The school is near my house."
     },
     {
       "expression": "Question mark",
-      "description": "What is this?"
+      "description": "Where is your bag?"
+    },
+    {
+      "expression": "Exclamation mark",
+      "description": "What a lovely flower!"
     }
   ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "Correct: i am happy.",
+      "question": "Correct: i like mangoes",
       "steps": [
-        "Always write the pronoun I as a capital letter."
+        "Capital I and a full stop."
       ],
-      "answer": "I am happy."
+      "answer": "I like mangoes."
     },
     {
-      "question": "Correct: ali is here.",
+      "question": "Correct: where is the library",
       "steps": [
-        "Check the beginning and end of your sentence."
+        "A question ends with a question mark."
       ],
-      "answer": "Ali is here."
+      "answer": "Where is the library?"
+    },
+    {
+      "question": "Correct: ali has a bicycle",
+      "steps": [
+        "Capitalise the name and add a full stop."
+      ],
+      "answer": "Ali has a bicycle."
+    },
+    {
+      "question": "Correct: she lives in malaysia",
+      "steps": [
+        "Capitalise the first word and place name."
+      ],
+      "answer": "She lives in Malaysia."
+    },
+    {
+      "question": "Choose punctuation for an excited sentence: Hooray",
+      "steps": [
+        "An exclamation mark expresses excitement."
+      ],
+      "answer": "Hooray!"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Correct: i am happy.",
-      "answer": "I am happy.",
-      "solution": "Answer: I am happy.",
+      "question": "Correct: i am tired.",
+      "answer": "I am tired.",
+      "solution": "Answer: I am tired.",
       "caseSensitive": true
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Correct: ali is here.",
-      "answer": "Ali is here.",
-      "solution": "Answer: Ali is here.",
+      "question": "Correct: ravi has a kite.",
+      "answer": "Ravi has a kite.",
+      "solution": "Answer: Ravi has a kite.",
       "caseSensitive": true
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Add punctuation: It is red",
-      "answer": "It is red.",
-      "solution": "Answer: It is red.",
+      "question": "Correct: we live in malaysia.",
+      "answer": "We live in Malaysia.",
+      "solution": "Answer: We live in Malaysia.",
       "caseSensitive": true
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Add punctuation: What is this",
-      "answer": "What is this?",
-      "solution": "Answer: What is this?",
+      "question": "Add punctuation: The bird can fly",
+      "answer": "The bird can fly.",
+      "solution": "Answer: The bird can fly.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Add punctuation: What is your name",
+      "answer": "What is your name?",
+      "solution": "Answer: What is your name?",
+      "caseSensitive": true
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Add punctuation: Where is my book",
+      "answer": "Where is my book?",
+      "solution": "Answer: Where is my book?",
+      "caseSensitive": true
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Add punctuation to show excitement: Hooray",
+      "answer": "Hooray!",
+      "solution": "Answer: Hooray!",
+      "caseSensitive": true
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Correct: mei likes oranges.",
+      "answer": "Mei likes oranges.",
+      "solution": "Answer: Mei likes oranges.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Correct: i have a red bag.",
+      "answer": "I have a red bag.",
+      "solution": "Answer: I have a red bag.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Add punctuation: Can you swim",
+      "answer": "Can you swim?",
+      "solution": "Answer: Can you swim?",
       "caseSensitive": true
     }
   ],

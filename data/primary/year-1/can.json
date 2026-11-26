@@ -6,38 +6,97 @@
   "introduction": "Practise can and cannot with familiar words and short sentences.",
   "definition": "Use can to say what someone is able to do and cannot to say what they are not able to do.",
   "rules": [
-    "Use the action word without adding s after can.",
-    "Ask Can you ...? to find out about an ability."
+    "Use can with the base form of an action word: can swim, can read, can ride.",
+    "Use cannot or can't to express inability.",
+    "Ask Can you ...? and answer Yes, I can or No, I cannot."
   ],
   "grammar": [
     {
-      "expression": "can + action",
-      "description": "A bird can fly."
+      "expression": "can + verb",
+      "description": "I can draw a picture."
     },
     {
-      "expression": "cannot + action",
-      "description": "A fish cannot walk on legs."
+      "expression": "cannot + verb",
+      "description": "A penguin cannot fly."
     },
     {
-      "expression": "Can you swim?",
-      "description": "Ask about an ability."
+      "expression": "Can + subject + verb?",
+      "description": "Can you ride a bicycle?"
+    },
+    {
+      "expression": "Short replies",
+      "description": "Yes, I can. No, I cannot."
     }
   ],
-  "vocabulary": [],
-  "examples": [
+  "vocabulary": [
     {
-      "question": "A fish can ___ (swim or swims).",
-      "steps": [
-        "Use the action word without adding s after can."
-      ],
-      "answer": "swim"
+      "expression": "climb",
+      "description": "Move upwards."
     },
     {
-      "question": "A cat ___ read a book. (can or cannot)",
+      "expression": "swim",
+      "description": "Move through water."
+    },
+    {
+      "expression": "ride",
+      "description": "Travel on or in something."
+    },
+    {
+      "expression": "paint",
+      "description": "Make a picture with paint."
+    },
+    {
+      "expression": "carry",
+      "description": "Move something while holding it."
+    },
+    {
+      "expression": "skip",
+      "description": "Jump lightly or use a skipping rope."
+    },
+    {
+      "expression": "catch",
+      "description": "Stop and hold a moving object."
+    },
+    {
+      "expression": "throw",
+      "description": "Send something through the air by hand."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Complete: A monkey can ___ a tree.",
       "steps": [
-        "Ask Can you ...? to find out about an ability."
+        "Use the base form of climb."
       ],
-      "answer": "cannot"
+      "answer": "climb"
+    },
+    {
+      "question": "Say that you are able to ride a bicycle.",
+      "steps": [
+        "Use can followed by ride."
+      ],
+      "answer": "I can ride a bicycle."
+    },
+    {
+      "question": "Say that penguins are not able to fly.",
+      "steps": [
+        "Cannot expresses inability."
+      ],
+      "answer": "Penguins cannot fly."
+    },
+    {
+      "question": "Ask about someone's ability to draw.",
+      "steps": [
+        "Start a question with can."
+      ],
+      "answer": "Can you draw?"
+    },
+    {
+      "question": "Answer 'Can you sing?' positively.",
+      "steps": [
+        "Use a short affirmative reply."
+      ],
+      "answer": "Yes, I can."
     }
   ],
   "exercises": [
@@ -51,23 +110,65 @@
     {
       "id": "q2",
       "type": "text",
-      "question": "A cat ___ read a book. (can or cannot)",
+      "question": "A penguin ___ fly. (can or cannot)",
       "answer": "cannot",
       "solution": "Answer: cannot"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "___ you jump?",
-      "answer": "Can",
-      "solution": "Answer: Can"
+      "question": "I can ___ a picture. (paint or paints)",
+      "answer": "paint",
+      "solution": "Answer: paint"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "A bird can ___ (fly or flies).",
+      "question": "___ you catch a ball?",
+      "answer": "Can",
+      "solution": "Answer: Can"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "A horse can ___. (run or runs)",
+      "answer": "run",
+      "solution": "Answer: run"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Complete: No, I ___. (cannot or does not)",
+      "answer": "cannot",
+      "solution": "Answer: cannot"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "A butterfly can ___ (fly or flies).",
       "answer": "fly",
       "solution": "Answer: fly"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "She can ___ a bicycle. (ride or rides)",
+      "answer": "ride",
+      "solution": "Answer: ride"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "A rabbit can ___. (hop or hops)",
+      "answer": "hop",
+      "solution": "Answer: hop"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Complete: Yes, I ___. (can or am)",
+      "answer": "can",
+      "solution": "Answer: can"
     }
   ],
   "summary": "Use can to say what someone is able to do and cannot to say what they are not able to do.",

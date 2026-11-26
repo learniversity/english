@@ -6,32 +6,58 @@
   "introduction": "Practise have and has with familiar words and short sentences.",
   "definition": "Have and has help us talk about possessions and features.",
   "rules": [
-    "Use have with I, you, we and they.",
-    "Use has with he, she and it."
+    "Use have with I, you, we and they. Use has with he, she, it and a single person or thing.",
+    "Use have and has for belongings, family relationships and animal features.",
+    "When asking with does, use have: Does she have a pencil?"
   ],
   "grammar": [
     {
-      "expression": "I have a bag.",
-      "description": "Say what you own."
+      "expression": "I / you / we / they have",
+      "description": "We have two umbrellas."
     },
     {
-      "expression": "It has a tail.",
-      "description": "Describe an animal."
+      "expression": "He / she / it has",
+      "description": "The elephant has a trunk."
+    },
+    {
+      "expression": "Questions",
+      "description": "Do you have a ruler? Does she have a book?"
     }
   ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "I ___ a pencil.",
+      "question": "Complete: We ___ a new ball.",
       "steps": [
-        "Use have with I, you, we and they."
+        "We takes have."
       ],
       "answer": "have"
     },
     {
-      "question": "A cat ___ a tail.",
+      "question": "Complete: The goat ___ horns.",
       "steps": [
-        "Use has with he, she and it."
+        "The goat is singular."
+      ],
+      "answer": "has"
+    },
+    {
+      "question": "Complete: My grandparents ___ a garden.",
+      "steps": [
+        "Grandparents is plural."
+      ],
+      "answer": "have"
+    },
+    {
+      "question": "Ask whether Ali owns a kite.",
+      "steps": [
+        "Use have after does."
+      ],
+      "answer": "Does Ali have a kite?"
+    },
+    {
+      "question": "Complete: My sister ___ a blue bag.",
+      "steps": [
+        "My sister is singular."
       ],
       "answer": "has"
     }
@@ -40,30 +66,86 @@
     {
       "id": "q1",
       "type": "text",
-      "question": "I ___ a pencil.",
+      "question": "I ___ a notebook.",
       "answer": "have",
       "solution": "Answer: have"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "A cat ___ a tail.",
+      "question": "She ___ a red scarf.",
       "answer": "has",
       "solution": "Answer: has"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "They ___ books.",
+      "question": "They ___ three toys.",
       "answer": "have",
       "solution": "Answer: have"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "She ___ a kite.",
+      "question": "A bird ___ wings.",
       "answer": "has",
       "solution": "Answer: has"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "We ___ a new teacher.",
+      "answer": "have",
+      "solution": "Answer: have"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "The cat ___ whiskers.",
+      "answer": "has",
+      "solution": "Answer: has"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "My cousins ___ bicycles.",
+      "answer": "have",
+      "solution": "Answer: have"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "You ___ a nice hat.",
+      "answer": "have",
+      "solution": "Answer: have"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Does he ___ a ruler?",
+      "answer": "have",
+      "solution": "Answer: have"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Do they ___ books?",
+      "answer": "have",
+      "solution": "Answer: have"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "The house ___ two doors.",
+      "answer": "has",
+      "solution": "Answer: has"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "Ali and Mei ___ lunch boxes.",
+      "answer": "have",
+      "solution": "Answer: have"
     }
   ],
   "summary": "Have and has help us talk about possessions and features.",

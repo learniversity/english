@@ -6,56 +6,119 @@
   "introduction": "Practise listening for meaning with familiar words and short sentences.",
   "definition": "Listen for who, what and where. A short spoken message may contain several details.",
   "rules": [
-    "Ask a partner to read this twice: Lina has a red bag. She puts it on the chair. Her book is in the bag.",
-    "Look away from the text while listening.",
-    "Answer the questions from what you heard."
+    "Have an adult or partner read each example aloud while the learner looks away. Then answer aloud or in writing.",
+    "Listen for the person, place, time, colour, number and action.",
+    "For independent reading practice, read the same messages and answer the questions."
   ],
   "grammar": [],
   "vocabulary": [],
   "examples": [
     {
-      "question": "Who has a bag?",
+      "question": "Listen: Sara takes two apples to school. What does she take?",
       "steps": [
-        "Ask a partner to read this twice: Lina has a red bag. She puts it on the chair. Her book is in the bag."
+        "Listen for the number and the food."
       ],
-      "answer": "Lina"
+      "answer": "Two apples."
     },
     {
-      "question": "What colour is the bag?",
+      "question": "Listen: Amir puts his green bag beside the desk. What colour is it?",
       "steps": [
-        "Look away from the text while listening."
+        "Listen for the colour."
       ],
-      "answer": "red"
+      "answer": "Green."
+    },
+    {
+      "question": "Listen: Mei visits the library after lunch. Where does she go?",
+      "steps": [
+        "Listen for the place."
+      ],
+      "answer": "The library."
+    },
+    {
+      "question": "Listen: Ben feeds his rabbit before dinner. Which animal does he feed?",
+      "steps": [
+        "Listen for the animal."
+      ],
+      "answer": "A rabbit."
+    },
+    {
+      "question": "Listen: A bus arrives at eight. When does it arrive?",
+      "steps": [
+        "Listen for the time."
+      ],
+      "answer": "At eight."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Who has a bag?",
-      "answer": "Lina",
-      "solution": "Answer: Lina"
+      "question": "Listen or read: Lina has a yellow hat. What colour is the hat?",
+      "answer": "yellow",
+      "solution": "Answer: yellow"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "What colour is the bag?",
-      "answer": "red",
-      "solution": "Answer: red"
+      "question": "Listen or read: Ravi buys three oranges. How many oranges? (write in words)",
+      "answer": "three",
+      "solution": "Answer: three"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Where is the bag? (chair or table)",
-      "answer": "chair",
-      "solution": "Answer: chair"
+      "question": "Listen or read: Anna puts a book on a shelf. What does she put on the shelf?",
+      "answer": "book",
+      "solution": "Answer: book"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "What is inside the bag?",
-      "answer": "book",
-      "solution": "Answer: book"
+      "question": "Listen or read: Sam visits the park on Sunday. Where does Sam go?",
+      "answer": "park",
+      "solution": "Answer: park"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Listen or read: Mei rides a bicycle to school. What does Mei ride?",
+      "answer": "bicycle",
+      "solution": "Answer: bicycle"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Listen or read: A cat sleeps under a chair. Which animal sleeps?",
+      "answer": "cat",
+      "solution": "Answer: cat"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Listen or read: Ali drinks milk after breakfast. What does Ali drink?",
+      "answer": "milk",
+      "solution": "Answer: milk"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Listen or read: Two ducks swim in a pond. How many ducks? (write in words)",
+      "answer": "two",
+      "solution": "Answer: two"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Listen or read: Aina opens the window. What does she open?",
+      "answer": "window",
+      "solution": "Answer: window"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Listen or read: Ben has a green pencil case. What colour is it?",
+      "answer": "green",
+      "solution": "Answer: green"
     }
   ],
   "summary": "Listen for who, what and where. A short spoken message may contain several details.",

@@ -6,40 +6,77 @@
   "introduction": "Practise writing simple sentences with familiar words and short sentences.",
   "definition": "A simple sentence can tell who or what it is about and what happens or what it is like.",
   "rules": [
-    "Start with a person or thing, then say something about it.",
-    "Use a capital letter, spaces and suitable punctuation.",
-    "Write two sentences about a favourite toy in your notebook."
+    "Build a simple sentence with a subject and a verb. Add an object or description when needed.",
+    "Use a capital letter at the beginning, spaces between words and punctuation at the end.",
+    "Practise writing about different themes: school, food, family, animals, hobbies and weather."
   ],
   "grammar": [
     {
-      "expression": "I like apples.",
-      "description": "A simple statement."
+      "expression": "Subject + verb",
+      "description": "Birds fly."
     },
     {
-      "expression": "The cat runs.",
-      "description": "A person or thing and an action."
+      "expression": "Subject + verb + object",
+      "description": "I read books."
+    },
+    {
+      "expression": "Subject + be + description",
+      "description": "The garden is green."
+    },
+    {
+      "expression": "Subject + can + verb",
+      "description": "We can swim."
     }
   ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "Put in order: like / I / rice",
+      "question": "Arrange: likes / Aina / mangoes.",
       "steps": [
-        "Start with a person or thing, then say something about it."
+        "Start with the person, then the action and object."
       ],
-      "answer": "I like rice."
+      "answer": "Aina likes mangoes."
     },
     {
-      "question": "Put in order: is / It / red",
+      "question": "Arrange: green / is / The leaf.",
       "steps": [
-        "Use a capital letter, spaces and suitable punctuation."
+        "Use is before the description."
       ],
-      "answer": "It is red."
+      "answer": "The leaf is green."
+    },
+    {
+      "question": "Arrange: a book / I / read.",
+      "steps": [
+        "Put the subject first."
+      ],
+      "answer": "I read a book."
+    },
+    {
+      "question": "Arrange: can / jump / Rabbits.",
+      "steps": [
+        "Use the base verb after can."
+      ],
+      "answer": "Rabbits can jump."
+    },
+    {
+      "question": "Write a sentence about your schoolbag using has.",
+      "steps": [
+        "Use has to describe a feature."
+      ],
+      "answer": "My schoolbag has two pockets."
     }
   ],
   "exercises": [
     {
       "id": "q1",
+      "type": "text",
+      "question": "Put in order: swim / Fish",
+      "answer": "Fish swim.",
+      "solution": "Answer: Fish swim.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q2",
       "type": "text",
       "question": "Put in order: like / I / rice",
       "answer": "I like rice.",
@@ -47,26 +84,67 @@
       "caseSensitive": true
     },
     {
-      "id": "q2",
-      "type": "text",
-      "question": "Put in order: is / It / red",
-      "answer": "It is red.",
-      "solution": "Answer: It is red.",
-      "caseSensitive": true
-    },
-    {
       "id": "q3",
       "type": "text",
-      "question": "Complete: I ___ a bag. (have or has)",
-      "answer": "have",
-      "solution": "Answer: have"
+      "question": "Put in order: is / The cup / blue",
+      "answer": "The cup is blue.",
+      "solution": "Answer: The cup is blue.",
+      "caseSensitive": true
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Put in order: can / jump / I",
-      "answer": "I can jump.",
-      "solution": "Answer: I can jump.",
+      "question": "Put in order: jump / can / We",
+      "answer": "We can jump.",
+      "solution": "Answer: We can jump.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Put in order: a kite / has / Ali",
+      "answer": "Ali has a kite.",
+      "solution": "Answer: Ali has a kite.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Put in order: are / The books / new",
+      "answer": "The books are new.",
+      "solution": "Answer: The books are new.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Put in order: my / This is / bag",
+      "answer": "This is my bag.",
+      "solution": "Answer: This is my bag.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Put in order: drinks / Mei / milk",
+      "answer": "Mei drinks milk.",
+      "solution": "Answer: Mei drinks milk.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Put in order: play / They / football",
+      "answer": "They play football.",
+      "solution": "Answer: They play football.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Put in order: The dog / under the table / sleeps",
+      "answer": "The dog sleeps under the table.",
+      "solution": "Answer: The dog sleeps under the table.",
       "caseSensitive": true
     }
   ],

@@ -6,59 +6,129 @@
   "introduction": "Practise handwriting and word spacing with familiar words and short sentences.",
   "definition": "Write letters with clear shapes and leave spaces between words.",
   "rules": [
-    "Practise uppercase and lowercase letters on lined paper.",
-    "Write from left to right.",
-    "Copy a short phrase, then check the spaces."
+    "Practise handwriting on paper, making clear capital and small letters.",
+    "Use spaces between words and write from left to right.",
+    "Copy varied words and short sentences. A typed answer checks spelling and spacing, not handwriting quality."
   ],
   "grammar": [],
   "vocabulary": [],
   "examples": [
     {
-      "question": "Copy exactly: red bag.",
+      "question": "Copy a word with tall letters.",
       "steps": [
-        "Practise uppercase and lowercase letters on lined paper."
+        "Form l and t clearly."
       ],
-      "answer": "red bag"
+      "answer": "little"
     },
     {
-      "question": "Add spaces: IamSam.",
+      "question": "Copy a phrase with a space.",
       "steps": [
-        "Write from left to right."
+        "Leave a gap between the words."
       ],
-      "answer": "I am Sam."
+      "answer": "green leaf"
+    },
+    {
+      "question": "Add spaces to 'Shehasabag.'",
+      "steps": [
+        "Separate each word."
+      ],
+      "answer": "She has a bag."
+    },
+    {
+      "question": "Copy the sentence correctly.",
+      "steps": [
+        "Use a capital letter and a full stop."
+      ],
+      "answer": "My dog is small."
+    },
+    {
+      "question": "Copy a person's name.",
+      "steps": [
+        "Start a name with a capital letter."
+      ],
+      "answer": "Aina"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Copy exactly: red bag.",
-      "answer": "red bag",
-      "solution": "Answer: red bag",
+      "question": "Copy exactly: flower",
+      "answer": "flower",
+      "solution": "Answer: flower",
       "caseSensitive": true
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Add spaces: IamSam.",
-      "answer": "I am Sam.",
-      "solution": "Answer: I am Sam.",
+      "question": "Copy exactly: butterfly",
+      "answer": "butterfly",
+      "solution": "Answer: butterfly",
       "caseSensitive": true
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Copy exactly: a small cat.",
-      "answer": "a small cat",
-      "solution": "Answer: a small cat",
+      "question": "Copy exactly: schoolbag",
+      "answer": "schoolbag",
+      "solution": "Answer: schoolbag",
       "caseSensitive": true
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Add a space: bluepen",
-      "answer": "blue pen",
-      "solution": "Answer: blue pen"
+      "question": "Copy exactly: yellow pencil",
+      "answer": "yellow pencil",
+      "solution": "Answer: yellow pencil",
+      "caseSensitive": true
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Add spaces: Thecatisblack.",
+      "answer": "The cat is black.",
+      "solution": "Answer: The cat is black.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Add spaces: Ireadabook.",
+      "answer": "I read a book.",
+      "solution": "Answer: I read a book.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Add spaces: Wecanjump.",
+      "answer": "We can jump.",
+      "solution": "Answer: We can jump.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Copy exactly: My name is Mei.",
+      "answer": "My name is Mei.",
+      "solution": "Answer: My name is Mei.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Copy exactly: This is a green leaf.",
+      "answer": "This is a green leaf.",
+      "solution": "Answer: This is a green leaf.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Copy exactly: Ali has two cups.",
+      "answer": "Ali has two cups.",
+      "solution": "Answer: Ali has two cups.",
+      "caseSensitive": true
     }
   ],
   "summary": "Write letters with clear shapes and leave spaces between words.",
