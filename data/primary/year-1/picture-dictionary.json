@@ -1,0 +1,68 @@
+{
+  "id": "primary-1-picture-dictionary",
+  "title": "Using a Picture Dictionary",
+  "level": "primary-1",
+  "category": "Reading",
+  "introduction": "Match familiar words to pictures. A picture dictionary helps you find a word and its meaning. Look at the first letter and the picture.",
+  "definition": "Match familiar words to pictures. A picture dictionary helps you find a word and its meaning. Look at the first letter and the picture.",
+  "rules": [
+    "Match familiar words to pictures. A picture dictionary helps you find a word and its meaning. Look at the first letter and the picture."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Which word matches 🐱: cat or cup?",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "cat"
+    },
+    {
+      "question": "Which word matches 🍎: apple or ant?",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "apple"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which word matches 🐱: cat or cup?",
+      "answer": "cat",
+      "solution": "Answer: cat"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which word matches 🍎: apple or ant?",
+      "answer": "apple",
+      "solution": "Answer: apple"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which word comes first in alphabetical order: bag or cat?",
+      "answer": "bag",
+      "solution": "Answer: bag"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which letter would you look under for dog?",
+      "answer": "d",
+      "solution": "Answer: d"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which word matches ☀️: sun or sock?",
+      "answer": "sun",
+      "solution": "Answer: sun"
+    }
+  ],
+  "summary": "Match familiar words to pictures. A picture dictionary helps you find a word and its meaning. Look at the first letter and the picture.",
+  "relatedTopics": []
+}

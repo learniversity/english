@@ -1,0 +1,68 @@
+{
+  "id": "primary-1-transport",
+  "title": "Transport and Getting Around",
+  "level": "primary-1",
+  "category": "Vocabulary",
+  "introduction": "Name familiar forms of transport and say how people travel.",
+  "definition": "Name familiar forms of transport and say how people travel.",
+  "rules": [
+    "Name familiar forms of transport and say how people travel."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Which travels on water: boat or bus?",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "boat"
+    },
+    {
+      "question": "Which has two wheels and pedals: bicycle or train?",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "bicycle"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which travels on water: boat or bus?",
+      "answer": "boat",
+      "solution": "Answer: boat"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which has two wheels and pedals: bicycle or train?",
+      "answer": "bicycle",
+      "solution": "Answer: bicycle"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which travels on rails: train or car?",
+      "answer": "train",
+      "solution": "Answer: train"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: I go to school ___ bus. (by or on)",
+      "answer": "by",
+      "solution": "Answer: by"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which flies in the sky: aeroplane or bicycle?",
+      "answer": "aeroplane",
+      "solution": "Answer: aeroplane"
+    }
+  ],
+  "summary": "Name familiar forms of transport and say how people travel.",
+  "relatedTopics": []
+}

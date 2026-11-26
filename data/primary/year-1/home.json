@@ -1,0 +1,68 @@
+{
+  "id": "primary-1-home",
+  "title": "My Home and Rooms",
+  "level": "primary-1",
+  "category": "Vocabulary",
+  "introduction": "Name familiar rooms and objects in a home. Say where things are using simple phrases.",
+  "definition": "Name familiar rooms and objects in a home. Say where things are using simple phrases.",
+  "rules": [
+    "Name familiar rooms and objects in a home. Say where things are using simple phrases."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Where do you usually sleep: bedroom or kitchen?",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "bedroom"
+    },
+    {
+      "question": "Where do you usually cook: kitchen or bedroom?",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "kitchen"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Where do you usually sleep: bedroom or kitchen?",
+      "answer": "bedroom",
+      "solution": "Answer: bedroom"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Where do you usually cook: kitchen or bedroom?",
+      "answer": "kitchen",
+      "solution": "Answer: kitchen"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: The pillow is ___ the bed. (on or under; it is resting on top)",
+      "answer": "on",
+      "solution": "Answer: on"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which room has a shower: bathroom or living room?",
+      "answer": "bathroom",
+      "solution": "Answer: bathroom"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Complete: This ___ my home.",
+      "answer": "is",
+      "solution": "Answer: is"
+    }
+  ],
+  "summary": "Name familiar rooms and objects in a home. Say where things are using simple phrases.",
+  "relatedTopics": []
+}

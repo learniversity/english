@@ -10,7 +10,8 @@
     "Story 1: Sara finds a tiny kitten beside a shop. She asks an adult for help. They find its owner.",
     "Story 2: Ravi plants a bean in a pot. He waters it each day. A little green shoot appears.",
     "Story 3: Mei makes a paper boat. She places it on a puddle. The wind gently moves the boat.",
-    "Draw a favourite scene, describe the picture or act out one event with a partner."
+    "Draw a favourite scene, describe the picture or act out one event with a partner.",
+    "After a story, draw a favourite character, make a simple paper model or act out an event. Say one sentence about your work. Creative responses may differ from the model."
   ],
   "grammar": [],
   "vocabulary": [],
@@ -114,6 +115,20 @@
       "question": "Read: Amir paints a picture of a cloudy sky. What does he paint? (sky or sea)",
       "answer": "sky",
       "solution": "Answer: sky"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "A story is about a lost puppy. Complete a caption for a drawing: This is a ___.",
+      "answer": "puppy",
+      "solution": "Answer: puppy"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "A character plants a seed. What could you draw: a plant or a bus?",
+      "answer": "a plant",
+      "solution": "Answer: a plant"
     }
   ],
   "summary": "Stories can inspire us to draw, talk and make things. Think about the people, places and events in a story.",

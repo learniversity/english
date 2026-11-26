@@ -9,7 +9,8 @@
     "Listen to words containing different middle vowel sounds: bag, bed, big, bog, bug.",
     "A word can have several letters representing a single sound. Listen rather than simply count letters.",
     "Say cat slowly: /k/ /a/ /t/.",
-    "Change one sound to make a new word: cat, cap, map."
+    "Change one sound to make a new word: cat, cap, map.",
+    "Recognise and name upper-case and lower-case letters. Say their common sounds separately from their letter names."
   ],
   "grammar": [],
   "vocabulary": [],
@@ -120,6 +121,27 @@
       "question": "Which has the same middle vowel as cup: bus or bed?",
       "answer": "bus",
       "solution": "Answer: bus"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Which lower-case letter matches B?",
+      "answer": "b",
+      "solution": "Answer: b"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "Which capital letter matches m?",
+      "answer": "M",
+      "solution": "Answer: M"
+    },
+    {
+      "id": "q13",
+      "type": "text",
+      "question": "Which letter begins sun?",
+      "answer": "s",
+      "solution": "Answer: s"
     }
   ],
   "summary": "Words are made of sounds. Listen for the first, middle and last sounds in short words.",

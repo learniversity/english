@@ -8,7 +8,8 @@
   "rules": [
     "Use what to ask about things, who for people, where for places, when for time and how for ways or feelings.",
     "Use how many to ask about numbers and how old for age.",
-    "Questions beginning with is, are, can or do can often be answered with yes or no."
+    "Questions beginning with is, are, can or do can often be answered with yes or no.",
+    "Ask for help or repetition politely. Ask and answer questions about familiar people and objects."
   ],
   "grammar": [
     {
@@ -166,6 +167,27 @@
       "question": "___ is that girl? (Who or Where)",
       "answer": "Who",
       "solution": "Answer: Who"
+    },
+    {
+      "id": "q13",
+      "type": "text",
+      "question": "Complete: Can you ___ me, please?",
+      "answer": "help",
+      "solution": "Answer: help"
+    },
+    {
+      "id": "q14",
+      "type": "text",
+      "question": "Complete: Can you say that ___, please?",
+      "answer": "again",
+      "solution": "Answer: again"
+    },
+    {
+      "id": "q15",
+      "type": "text",
+      "question": "Complete: What is ___? (pointing to a nearby object)",
+      "answer": "this",
+      "solution": "Answer: this"
     }
   ],
   "summary": "Questions help us find out information. Answer using a short phrase or sentence.",

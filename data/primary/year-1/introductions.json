@@ -10,7 +10,8 @@
     "Use simple questions to find out another person's name, feelings or favourite activity.",
     "Practise short dialogues with a partner.",
     "Practise asking and answering with a partner.",
-    "Use a friendly voice and take turns."
+    "Use a friendly voice and take turns.",
+    "Practise greeting, thanking, apologising and expressing likes and dislikes with a partner. Take turns speaking."
   ],
   "grammar": [
     {
@@ -171,6 +172,27 @@
       "question": "Complete: This is my ___. (someone in my class)",
       "answer": "classmate",
       "solution": "Answer: classmate"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Complete: I do not ___ spiders.",
+      "answer": "like",
+      "solution": "Answer: like"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "Complete: Thank ___ for helping me.",
+      "answer": "you",
+      "solution": "Answer: you"
+    },
+    {
+      "id": "q13",
+      "type": "text",
+      "question": "Complete: I am ___ for being late.",
+      "answer": "sorry",
+      "solution": "Answer: sorry"
     }
   ],
   "summary": "Use short sentences to tell someone your name, age and how you feel.",

@@ -8,7 +8,8 @@
   "rules": [
     "Build a simple sentence with a subject and a verb. Add an object or description when needed.",
     "Use a capital letter at the beginning, spaces between words and punctuation at the end.",
-    "Practise writing about different themes: school, food, family, animals, hobbies and weather."
+    "Practise writing about different themes: school, food, family, animals, hobbies and weather.",
+    "Use and to join familiar words. Write short personal descriptions using a model. Use fictional details when practising online."
   ],
   "grammar": [
     {
@@ -146,6 +147,34 @@
       "answer": "The dog sleeps under the table.",
       "solution": "Answer: The dog sleeps under the table.",
       "caseSensitive": true
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Join: I like apples. I like bananas. Complete: I like apples ___ bananas.",
+      "answer": "and",
+      "solution": "Answer: and"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "Complete: My name ___ Aina.",
+      "answer": "is",
+      "solution": "Answer: is"
+    },
+    {
+      "id": "q13",
+      "type": "text",
+      "question": "Complete: I ___ seven years old.",
+      "answer": "am",
+      "solution": "Answer: am"
+    },
+    {
+      "id": "q14",
+      "type": "text",
+      "question": "Complete: I have a red bag ___ a blue pen.",
+      "answer": "and",
+      "solution": "Answer: and"
     }
   ],
   "summary": "A simple sentence can tell who or what it is about and what happens or what it is like.",

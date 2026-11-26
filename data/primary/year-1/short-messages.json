@@ -1,0 +1,68 @@
+{
+  "id": "primary-1-short-messages",
+  "title": "Writing Short Messages",
+  "level": "primary-1",
+  "category": "Writing",
+  "introduction": "Write a short greeting, thank-you note or message using a model. Begin with a capital letter and use clear spacing.",
+  "definition": "Write a short greeting, thank-you note or message using a model. Begin with a capital letter and use clear spacing.",
+  "rules": [
+    "Write a short greeting, thank-you note or message using a model. Begin with a capital letter and use clear spacing."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Complete a birthday greeting: Happy ___!",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "Birthday"
+    },
+    {
+      "question": "Complete a thank-you note: Thank ___, Mum.",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "you"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete a birthday greeting: Happy ___!",
+      "answer": "Birthday",
+      "solution": "Answer: Birthday"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete a thank-you note: Thank ___, Mum.",
+      "answer": "you",
+      "solution": "Answer: you"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete a note: Dear Ben, please bring your ___. (book or books; use one book)",
+      "answer": "book",
+      "solution": "Answer: book"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete a farewell message: See you ___. (tomorrow or yesterday)",
+      "answer": "tomorrow",
+      "solution": "Answer: tomorrow"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Complete a greeting: Good ___! (early in the day)",
+      "answer": "morning",
+      "solution": "Answer: morning"
+    }
+  ],
+  "summary": "Write a short greeting, thank-you note or message using a model. Begin with a capital letter and use clear spacing.",
+  "relatedTopics": []
+}

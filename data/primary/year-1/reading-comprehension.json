@@ -8,7 +8,8 @@
   "rules": [
     "Read a short passage twice. First understand the main idea, then look for details.",
     "Ask who, what, where and when. Use words from the passage to support your answer.",
-    "Practise reading different text types: a story, a description, a note and a simple notice."
+    "Practise reading different text types: a story, a description, a note and a simple notice.",
+    "Use pictures, the title and nearby words to predict meaning. Identify what a short text is mainly about, not just individual details."
   ],
   "grammar": [],
   "vocabulary": [],
@@ -133,6 +134,27 @@
       "question": "Read: The sky is dark and rain falls. What is the weather like?",
       "answer": "rainy",
       "solution": "Answer: rainy"
+    },
+    {
+      "id": "q13",
+      "type": "text",
+      "question": "Read: Ben puts seeds in soil. He waters them. A plant grows. What is the story mainly about: growing a plant or riding a bike?",
+      "answer": "growing a plant",
+      "solution": "Answer: growing a plant"
+    },
+    {
+      "id": "q14",
+      "type": "text",
+      "question": "Read: It is raining. Ali opens his umbrella to stay ___. (dry or wet)",
+      "answer": "dry",
+      "solution": "Answer: dry"
+    },
+    {
+      "id": "q15",
+      "type": "text",
+      "question": "Read: The puppy is tiny. It fits in a small box. Does tiny mean big or small?",
+      "answer": "small",
+      "solution": "Answer: small"
     }
   ],
   "summary": "Read for the main idea and small details. Read again if you forget something.",

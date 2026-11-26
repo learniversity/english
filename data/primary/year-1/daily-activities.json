@@ -1,0 +1,68 @@
+{
+  "id": "primary-1-daily-activities",
+  "title": "Daily Activities and Hobbies",
+  "level": "primary-1",
+  "category": "Vocabulary",
+  "introduction": "Talk about familiar routines and activities using short present-tense sentences.",
+  "definition": "Talk about familiar routines and activities using short present-tense sentences.",
+  "rules": [
+    "Talk about familiar routines and activities using short present-tense sentences."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Complete: I ___ my teeth in the morning.",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "brush"
+    },
+    {
+      "question": "Complete: I ___ breakfast before school. (eat or eats)",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "eat"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete: I ___ my teeth in the morning.",
+      "answer": "brush",
+      "solution": "Answer: brush"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: I ___ breakfast before school. (eat or eats)",
+      "answer": "eat",
+      "solution": "Answer: eat"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: I like ___ books. (reading or read)",
+      "answer": "reading",
+      "solution": "Answer: reading"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: I ___ football with my friends. (play or plays)",
+      "answer": "play",
+      "solution": "Answer: play"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Complete: I go to ___ at night. (bed or school)",
+      "answer": "bed",
+      "solution": "Answer: bed"
+    }
+  ],
+  "summary": "Talk about familiar routines and activities using short present-tense sentences.",
+  "relatedTopics": []
+}

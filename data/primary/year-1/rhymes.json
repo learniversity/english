@@ -10,7 +10,8 @@
     "Chant 1: Rain on the ground, puddles all around. Put on your boots, hear the splashing sound.",
     "Chant 2: Fly your kite, high and bright. Watch it dance in morning light.",
     "Chant 3: One red ball, rolling down the hall. Catch it gently, do not let it fall.",
-    "Make up a new line using a word that rhymes."
+    "Make up a new line using a word that rhymes.",
+    "Say chants aloud with a partner, clap the beat and perform actions. Repeat the words with clear pronunciation."
   ],
   "grammar": [],
   "vocabulary": [],
@@ -114,6 +115,20 @@
       "question": "Which rhymes with fish: dish or desk?",
       "answer": "dish",
       "solution": "Answer: dish"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Complete the rhyme: One, two, touch your ___. (shoe or hat)",
+      "answer": "shoe",
+      "solution": "Answer: shoe"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "Which rhymes with hop: stop or run?",
+      "answer": "stop",
+      "solution": "Answer: stop"
     }
   ],
   "summary": "Rhymes repeat ending sounds and chants use rhythm. Actions help us enjoy and remember words.",

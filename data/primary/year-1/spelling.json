@@ -1,0 +1,68 @@
+{
+  "id": "primary-1-spelling",
+  "title": "Spelling Familiar Words",
+  "level": "primary-1",
+  "category": "Writing",
+  "introduction": "Say a word slowly, listen for sounds, write the letters and check your spelling. Practise common words that do not follow regular sound patterns too.",
+  "definition": "Say a word slowly, listen for sounds, write the letters and check your spelling. Practise common words that do not follow regular sound patterns too.",
+  "rules": [
+    "Say a word slowly, listen for sounds, write the letters and check your spelling. Practise common words that do not follow regular sound patterns too."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Complete the word for a pet: c_t.",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "cat"
+    },
+    {
+      "question": "Complete: b_ok (something to read).",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "book"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete the word for a pet: c_t.",
+      "answer": "cat",
+      "solution": "Answer: cat"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: b_ok (something to read).",
+      "answer": "book",
+      "solution": "Answer: book"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Choose the correct spelling: frend or friend.",
+      "answer": "friend",
+      "solution": "Answer: friend"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Choose the correct spelling: skool or school.",
+      "answer": "school",
+      "solution": "Answer: school"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Complete: I ___ a pencil. (have or hav)",
+      "answer": "have",
+      "solution": "Answer: have"
+    }
+  ],
+  "summary": "Say a word slowly, listen for sounds, write the letters and check your spelling. Practise common words that do not follow regular sound patterns too.",
+  "relatedTopics": []
+}

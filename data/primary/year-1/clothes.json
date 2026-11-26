@@ -1,0 +1,68 @@
+{
+  "id": "primary-1-clothes",
+  "title": "Clothes and What We Wear",
+  "level": "primary-1",
+  "category": "Vocabulary",
+  "introduction": "Name familiar clothes and describe their colours using simple sentences.",
+  "definition": "Name familiar clothes and describe their colours using simple sentences.",
+  "rules": [
+    "Name familiar clothes and describe their colours using simple sentences."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "What do you wear on your feet: shoes or hats?",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "shoes"
+    },
+    {
+      "question": "What do you wear on your head: a hat or socks?",
+      "steps": [
+        "Read the prompt and choose the word that fits."
+      ],
+      "answer": "a hat"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "What do you wear on your feet: shoes or hats?",
+      "answer": "shoes",
+      "solution": "Answer: shoes"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What do you wear on your head: a hat or socks?",
+      "answer": "a hat",
+      "solution": "Answer: a hat"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: I wear a blue ___. (shirt or shirts)",
+      "answer": "shirt",
+      "solution": "Answer: shirt"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What do you wear under shoes: socks or gloves?",
+      "answer": "socks",
+      "solution": "Answer: socks"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Complete: These ___ my trousers.",
+      "answer": "are",
+      "solution": "Answer: are"
+    }
+  ],
+  "summary": "Name familiar clothes and describe their colours using simple sentences.",
+  "relatedTopics": []
+}

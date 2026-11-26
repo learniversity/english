@@ -8,7 +8,8 @@
   "rules": [
     "Have an adult or partner read each example aloud while the learner looks away. Then answer aloud or in writing.",
     "Listen for the person, place, time, colour, number and action.",
-    "For independent reading practice, read the same messages and answer the questions."
+    "For independent reading practice, read the same messages and answer the questions.",
+    "Ask a partner or teacher to read each message aloud while you look away. Listen first for the main idea, then for details. Ask to hear it again if needed."
   ],
   "grammar": [],
   "vocabulary": [],
@@ -119,6 +120,27 @@
       "question": "Listen or read: Ben has a green pencil case. What colour is it?",
       "answer": "green",
       "solution": "Answer: green"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Partner reads: Tom has a dog. He feeds it and walks it every day. What is the message mainly about: Tom's dog or his school?",
+      "answer": "Tom's dog",
+      "solution": "Answer: Tom's dog"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "Partner reads: Aina puts on her shoes, takes her bag and goes to school. Where is she going?",
+      "answer": "school",
+      "solution": "Answer: school"
+    },
+    {
+      "id": "q13",
+      "type": "text",
+      "question": "Partner reads: The little cat is lost. Mei finds it and takes it home. What animal is the story about?",
+      "answer": "cat",
+      "solution": "Answer: cat"
     }
   ],
   "summary": "Listen for who, what and where. A short spoken message may contain several details.",

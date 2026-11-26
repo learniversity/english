@@ -440,6 +440,55 @@
       "title": "Weather and the Sky",
       "path": "data/primary/year-1/weather.json",
       "category": "Vocabulary"
+    },
+    {
+      "id": "primary-1-picture-dictionary",
+      "level": "primary-1",
+      "title": "Using a Picture Dictionary",
+      "path": "data/primary/year-1/picture-dictionary.json",
+      "category": "Reading"
+    },
+    {
+      "id": "primary-1-spelling",
+      "level": "primary-1",
+      "title": "Spelling Familiar Words",
+      "path": "data/primary/year-1/spelling.json",
+      "category": "Writing"
+    },
+    {
+      "id": "primary-1-short-messages",
+      "level": "primary-1",
+      "title": "Writing Short Messages",
+      "path": "data/primary/year-1/short-messages.json",
+      "category": "Writing"
+    },
+    {
+      "id": "primary-1-clothes",
+      "level": "primary-1",
+      "title": "Clothes and What We Wear",
+      "path": "data/primary/year-1/clothes.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-1-home",
+      "level": "primary-1",
+      "title": "My Home and Rooms",
+      "path": "data/primary/year-1/home.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-1-daily-activities",
+      "level": "primary-1",
+      "title": "Daily Activities and Hobbies",
+      "path": "data/primary/year-1/daily-activities.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-1-transport",
+      "level": "primary-1",
+      "title": "Transport and Getting Around",
+      "path": "data/primary/year-1/transport.json",
+      "category": "Vocabulary"
     }
   ]
 }
