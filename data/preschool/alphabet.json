@@ -537,7 +537,7 @@
             "text-anchor": "middle",
             "fill": "currentColor"
           },
-          "text": "🧊"
+          "text": ""
         },
         {
           "tag": "text",
@@ -577,7 +577,7 @@
             "text-anchor": "middle",
             "fill": "currentColor"
           },
-          "text": "🫙"
+          "text": ""
         },
         {
           "tag": "text",
@@ -945,7 +945,7 @@
             "text-anchor": "middle",
             "fill": "currentColor"
           },
-          "text": "q"
+          "text": ""
         },
         {
           "tag": "text",
@@ -1302,7 +1302,7 @@
             "text-anchor": "middle",
             "fill": "currentColor"
           },
-          "text": "x"
+          "text": ""
         },
         {
           "tag": "text",
@@ -1313,7 +1313,7 @@
             "text-anchor": "middle",
             "fill": "currentColor"
           },
-          "text": "🐟"
+          "text": ""
         }
       ]
     },
@@ -1404,7 +1404,7 @@
             "text-anchor": "middle",
             "fill": "currentColor"
           },
-          "text": "z"
+          "text": ""
         },
         {
           "tag": "text",
