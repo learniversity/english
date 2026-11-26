@@ -88,6 +88,11 @@ async function render(){
  if(title==='Visual guide'){
  const grid=document.createElement('div');grid.className='visual-grid';
  for(const v of value){const figure=document.createElement('figure');figure.className='visual-card';
+ if(Array.isArray(v.words)){
+ const caption=document.createElement('figcaption');caption.className='alphabet-letter';caption.textContent=v.label;figure.append(caption);
+ const list=document.createElement('div');list.className='alphabet-words';
+ for(const item of v.words){const entry=document.createElement('div');entry.className='alphabet-word';if(item.emoji){const icon=document.createElement('span');icon.className='alphabet-emoji';icon.setAttribute('aria-hidden','true');icon.textContent=item.emoji;entry.append(icon)}const word=document.createElement('span');word.textContent=item.word;entry.append(word);list.append(entry)}figure.append(list);grid.append(figure);continue}
+
  const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');svg.setAttribute('viewBox','0 0 160 100');svg.setAttribute('role','img');svg.setAttribute('aria-label',v.alt||v.label);
  for(const item of v.elements||[]){if(!['circle','ellipse','rect','polygon','polyline','line','path','text'].includes(item.tag))continue;const el=document.createElementNS('http://www.w3.org/2000/svg',item.tag);for(const [key,val] of Object.entries(item.attrs||{})){if(['x','y','x1','x2','y1','y2','cx','cy','r','rx','ry','width','height','points','d','fill','stroke','stroke-width','font-size','text-anchor','stroke-dasharray'].includes(key))el.setAttribute(key,String(val))}if(item.tag==='text')el.textContent=item.text||'';svg.append(el)}
  const caption=document.createElement('figcaption');const label=document.createElement('strong');label.textContent=v.label;const desc=document.createElement('p');desc.textContent=v.description||'';caption.append(label,desc);figure.append(svg,caption);grid.append(figure)}section.append(grid);continue
