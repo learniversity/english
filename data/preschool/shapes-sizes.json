@@ -1,0 +1,385 @@
+{
+  "id": "preschool-shapes-sizes",
+  "title": "Shapes and Sizes",
+  "level": "preschool",
+  "category": "Vocabulary",
+  "introduction": "Learn English words for familiar shapes and sizes.",
+  "definition": "Shape words tell us what something looks like. Size words help us describe how big, small, long or tall something is.",
+  "visuals": [
+    {
+      "label": "circle",
+      "description": "A round shape.",
+      "alt": "circle",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 50,
+            "r": 32,
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        }
+      ]
+    },
+    {
+      "label": "square",
+      "description": "Four equal straight sides.",
+      "alt": "square",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 48,
+            "y": 18,
+            "width": 64,
+            "height": 64,
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        }
+      ]
+    },
+    {
+      "label": "triangle",
+      "description": "Three straight sides.",
+      "alt": "triangle",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "points": "80,13 120,83 40,83",
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        }
+      ]
+    },
+    {
+      "label": "rectangle",
+      "description": "Four straight sides and four square corners.",
+      "alt": "rectangle",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 22,
+            "y": 25,
+            "width": 116,
+            "height": 50,
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        }
+      ]
+    },
+    {
+      "label": "oval",
+      "description": "A rounded, stretched shape.",
+      "alt": "oval",
+      "elements": [
+        {
+          "tag": "ellipse",
+          "attrs": {
+            "cx": 80,
+            "cy": 50,
+            "rx": 51,
+            "ry": 29,
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        }
+      ]
+    },
+    {
+      "label": "star",
+      "description": "A shape with points.",
+      "alt": "star",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "points": "80,9 90,36 119,36 96,54 105,82 80,65 55,82 64,54 41,36 70,36",
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        }
+      ]
+    },
+    {
+      "label": "big and small",
+      "description": "Compare two circles.",
+      "alt": "big and small",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 45,
+            "cy": 50,
+            "r": 32,
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 119,
+            "cy": 50,
+            "r": 15,
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        }
+      ]
+    },
+    {
+      "label": "long and short",
+      "description": "Compare two strips.",
+      "alt": "long and short",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 15,
+            "y": 22,
+            "width": 130,
+            "height": 14,
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 15,
+            "y": 61,
+            "width": 55,
+            "height": 14,
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        }
+      ]
+    },
+    {
+      "label": "tall and short",
+      "description": "Compare two towers.",
+      "alt": "tall and short",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 25,
+            "y": 12,
+            "width": 37,
+            "height": 76,
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 98,
+            "y": 51,
+            "width": 37,
+            "height": 37,
+            "fill": "#a8c8e8",
+            "stroke": "currentColor",
+            "stroke-width": 2
+          }
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "expression": "circle",
+      "description": "A round flat shape."
+    },
+    {
+      "expression": "square",
+      "description": "A shape with four equal sides and square corners."
+    },
+    {
+      "expression": "triangle",
+      "description": "A shape with three straight sides."
+    },
+    {
+      "expression": "rectangle",
+      "description": "A shape with four straight sides and square corners."
+    },
+    {
+      "expression": "oval",
+      "description": "A rounded shape like the outline of an egg."
+    },
+    {
+      "expression": "star",
+      "description": "A familiar shape with points."
+    },
+    {
+      "expression": "round",
+      "description": "Shaped like a circle or ball."
+    },
+    {
+      "expression": "big",
+      "description": "Large in size."
+    },
+    {
+      "expression": "small",
+      "description": "Little in size."
+    },
+    {
+      "expression": "long",
+      "description": "Having a great length."
+    },
+    {
+      "expression": "short",
+      "description": "Not long or not tall."
+    },
+    {
+      "expression": "tall",
+      "description": "Having great height."
+    },
+    {
+      "expression": "wide",
+      "description": "Having a large distance from side to side."
+    },
+    {
+      "expression": "narrow",
+      "description": "Not wide."
+    }
+  ],
+  "rules": [
+    "Point to each shape and say its name.",
+    "Look around for objects with similar shapes.",
+    "Compare two objects and use words such as big, small, long or short."
+  ],
+  "examples": [
+    {
+      "question": "What shape is the face of a round clock?",
+      "steps": [
+        "Choose the word that describes the object."
+      ],
+      "answer": "circle"
+    },
+    {
+      "question": "Describe a little button.",
+      "steps": [
+        "Choose the word that describes the object."
+      ],
+      "answer": "small"
+    },
+    {
+      "question": "Describe a tree that reaches high.",
+      "steps": [
+        "Choose the word that describes the object."
+      ],
+      "answer": "tall"
+    },
+    {
+      "question": "What shape has three sides?",
+      "steps": [
+        "Choose the word that describes the object."
+      ],
+      "answer": "triangle"
+    },
+    {
+      "question": "Describe a ribbon that reaches far.",
+      "steps": [
+        "Choose the word that describes the object."
+      ],
+      "answer": "long"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which shape has three straight sides?",
+      "answer": "triangle",
+      "solution": "Answer: triangle"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which shape is round like a coin?",
+      "answer": "circle",
+      "solution": "Answer: circle"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which shape has four equal sides and square corners?",
+      "answer": "square",
+      "solution": "Answer: square"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which shape looks like the outline of an egg?",
+      "answer": "oval",
+      "solution": "Answer: oval"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which shape has points like a decoration in the sky?",
+      "answer": "star",
+      "solution": "Answer: star"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Opposite of big?",
+      "answer": "small",
+      "solution": "Answer: small"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Opposite of long?",
+      "answer": "short",
+      "solution": "Answer: short"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Opposite of wide?",
+      "answer": "narrow",
+      "solution": "Answer: narrow"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "A giraffe is ___. (tall or short)",
+      "answer": "tall",
+      "solution": "Answer: tall"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "A tiny ant is ___. (big or small)",
+      "answer": "small",
+      "solution": "Answer: small"
+    }
+  ],
+  "summary": "Name familiar shapes and describe objects using simple size words.",
+  "relatedTopics": [
+    "preschool-colours",
+    "preschool-simple-sentences"
+  ]
+}
