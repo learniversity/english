@@ -3,13 +3,14 @@
   "title": "The Alphabet",
   "level": "preschool",
   "category": "Phonics",
-  "introduction": "Learn about the alphabet through simple examples and practice.",
+  "introduction": "Explore all 26 letters from A to Z. Each card shows a capital letter, a small letter and three example words.",
   "definition": "English has 26 letters. Each letter has an uppercase and a lowercase form.",
   "rules": [
+    "Say the capital and small letters on each card.",
+    "Name the three examples. Notice the first letter in each written word.",
+    "Letters can represent different sounds. For example, xylophone starts with the letter X but often sounds like Z.",
     "Say the letters in order.",
-    "Match capital letters to small letters.",
-    "Uppercase: ABCDEFGHIJKLMNOPQRSTUVWXYZ",
-    "Lowercase: abcdefghijklmnopqrstuvwxyz"
+    "Match capital letters to small letters."
   ],
   "grammar": [],
   "vocabulary": [],
@@ -44,8 +45,1379 @@
       "question": "Which letter comes before D?",
       "answer": "C",
       "solution": "Answer: C"
+    },
+    {
+      "id": "alphabet-0",
+      "type": "text",
+      "question": "Which letter begins apple?",
+      "answer": "a",
+      "solution": "Answer: a",
+      "caseSensitive": false
+    },
+    {
+      "id": "alphabet-1",
+      "type": "text",
+      "question": "Which letter begins ball?",
+      "answer": "b",
+      "solution": "Answer: b",
+      "caseSensitive": false
+    },
+    {
+      "id": "alphabet-2",
+      "type": "text",
+      "question": "Which letter begins zebra?",
+      "answer": "z",
+      "solution": "Answer: z",
+      "caseSensitive": false
+    },
+    {
+      "id": "alphabet-3",
+      "type": "text",
+      "question": "Write the uppercase form of q.",
+      "answer": "Q",
+      "solution": "Answer: Q",
+      "caseSensitive": true
+    },
+    {
+      "id": "alphabet-4",
+      "type": "text",
+      "question": "Write the lowercase form of Z.",
+      "answer": "z",
+      "solution": "Answer: z",
+      "caseSensitive": true
     }
   ],
   "summary": "English has 26 letters. Each letter has an uppercase and a lowercase form.",
-  "relatedTopics": []
+  "relatedTopics": [
+    "preschool-letter-sounds",
+    "preschool-simple-words"
+  ],
+  "visuals": [
+    {
+      "label": "A a",
+      "description": "apple · ant · axe",
+      "alt": "A a: apple, ant, axe",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "A a"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍎"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐜"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🪓"
+        }
+      ]
+    },
+    {
+      "label": "B b",
+      "description": "ball · bird · banana",
+      "alt": "B b: ball, bird, banana",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "B b"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "⚽"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐦"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍌"
+        }
+      ]
+    },
+    {
+      "label": "C c",
+      "description": "cat · car · cup",
+      "alt": "C c: cat, car, cup",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "C c"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐈"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🚗"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "☕"
+        }
+      ]
+    },
+    {
+      "label": "D d",
+      "description": "dog · duck · drum",
+      "alt": "D d: dog, duck, drum",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "D d"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐕"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🦆"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥁"
+        }
+      ]
+    },
+    {
+      "label": "E e",
+      "description": "egg · elephant · envelope",
+      "alt": "E e: egg, elephant, envelope",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "E e"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥚"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐘"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "✉️"
+        }
+      ]
+    },
+    {
+      "label": "F f",
+      "description": "fish · frog · flower",
+      "alt": "F f: fish, frog, flower",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "F f"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐟"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐸"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🌼"
+        }
+      ]
+    },
+    {
+      "label": "G g",
+      "description": "goat · grapes · gift",
+      "alt": "G g: goat, grapes, gift",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "G g"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐐"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍇"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🎁"
+        }
+      ]
+    },
+    {
+      "label": "H h",
+      "description": "hat · house · horse",
+      "alt": "H h: hat, house, horse",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "H h"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🎩"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🏠"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐎"
+        }
+      ]
+    },
+    {
+      "label": "I i",
+      "description": "ink · igloo · insect",
+      "alt": "I i: ink, igloo, insect",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "I i"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🖋️"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🧊"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐞"
+        }
+      ]
+    },
+    {
+      "label": "J j",
+      "description": "jam · jar · jeep",
+      "alt": "J j: jam, jar, jeep",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "J j"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🫙"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🫙"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🚙"
+        }
+      ]
+    },
+    {
+      "label": "K k",
+      "description": "kite · key · king",
+      "alt": "K k: kite, key, king",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "K k"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🪁"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🔑"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "👑"
+        }
+      ]
+    },
+    {
+      "label": "L l",
+      "description": "lion · leaf · lemon",
+      "alt": "L l: lion, leaf, lemon",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "L l"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🦁"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍃"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍋"
+        }
+      ]
+    },
+    {
+      "label": "M m",
+      "description": "moon · monkey · mango",
+      "alt": "M m: moon, monkey, mango",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "M m"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🌙"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐒"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥭"
+        }
+      ]
+    },
+    {
+      "label": "N n",
+      "description": "nest · nose · nut",
+      "alt": "N n: nest, nose, nut",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "N n"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🪺"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "👃"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🥜"
+        }
+      ]
+    },
+    {
+      "label": "O o",
+      "description": "orange · owl · octopus",
+      "alt": "O o: orange, owl, octopus",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "O o"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍊"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🦉"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐙"
+        }
+      ]
+    },
+    {
+      "label": "P p",
+      "description": "pen · pig · pear",
+      "alt": "P p: pen, pig, pear",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "P p"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🖊️"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐖"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🍐"
+        }
+      ]
+    },
+    {
+      "label": "Q q",
+      "description": "queen · quilt · quail",
+      "alt": "Q q: queen, quilt, quail",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "Q q"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "👑"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "q"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐦"
+        }
+      ]
+    },
+    {
+      "label": "R r",
+      "description": "rabbit · rain · rose",
+      "alt": "R r: rabbit, rain, rose",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "R r"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐇"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🌧️"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🌹"
+        }
+      ]
+    },
+    {
+      "label": "S s",
+      "description": "sun · snake · star",
+      "alt": "S s: sun, snake, star",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "S s"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "☀️"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐍"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "⭐"
+        }
+      ]
+    },
+    {
+      "label": "T t",
+      "description": "tree · tiger · train",
+      "alt": "T t: tree, tiger, train",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "T t"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🌳"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐅"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🚆"
+        }
+      ]
+    },
+    {
+      "label": "U u",
+      "description": "umbrella · unicorn · uniform",
+      "alt": "U u: umbrella, unicorn, uniform",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "U u"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "☂️"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🦄"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "👕"
+        }
+      ]
+    },
+    {
+      "label": "V v",
+      "description": "van · violin · vase",
+      "alt": "V v: van, violin, vase",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "V v"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🚐"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🎻"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🏺"
+        }
+      ]
+    },
+    {
+      "label": "W w",
+      "description": "watch · whale · water",
+      "alt": "W w: watch, whale, water",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "W w"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "⌚"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐋"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "💧"
+        }
+      ]
+    },
+    {
+      "label": "X x",
+      "description": "x-ray · xylophone · X-ray fish",
+      "alt": "X x: x-ray, xylophone, X-ray fish",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "X x"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🩻"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "x"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐟"
+        }
+      ]
+    },
+    {
+      "label": "Y y",
+      "description": "yo-yo · yak · yacht",
+      "alt": "Y y: yo-yo, yak, yacht",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "Y y"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🪀"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🐂"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "⛵"
+        }
+      ]
+    },
+    {
+      "label": "Z z",
+      "description": "zebra · zip · zoo",
+      "alt": "Z z: zebra, zip, zoo",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 44,
+            "font-size": 38,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "Z z"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🦓"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "z"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 132,
+            "y": 79,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "🦒"
+        }
+      ]
+    }
+  ]
 }
