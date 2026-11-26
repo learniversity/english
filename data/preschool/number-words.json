@@ -1,0 +1,579 @@
+{
+  "id": "preschool-number-words",
+  "title": "Numbers in English",
+  "level": "preschool",
+  "category": "Vocabulary",
+  "introduction": "Learn to say and recognise English number words from zero to twenty.",
+  "definition": "Number words tell us how many things there are. Learn the English names of numbers and use them when talking about everyday objects.",
+  "visuals": [
+    {
+      "label": "zero",
+      "alt": "0 — zero",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "label": "one",
+      "alt": "1 — one",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "label": "two",
+      "alt": "2 — two",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "label": "three",
+      "alt": "3 — three",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "label": "four",
+      "alt": "4 — four",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "label": "five",
+      "alt": "5 — five",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "label": "six",
+      "alt": "6 — six",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "label": "seven",
+      "alt": "7 — seven",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        }
+      ]
+    },
+    {
+      "label": "eight",
+      "alt": "8 — eight",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "label": "nine",
+      "alt": "9 — nine",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "label": "ten",
+      "alt": "10 — ten",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "label": "eleven",
+      "alt": "11 — eleven",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11"
+        }
+      ]
+    },
+    {
+      "label": "twelve",
+      "alt": "12 — twelve",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        }
+      ]
+    },
+    {
+      "label": "thirteen",
+      "alt": "13 — thirteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "13"
+        }
+      ]
+    },
+    {
+      "label": "fourteen",
+      "alt": "14 — fourteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "label": "fifteen",
+      "alt": "15 — fifteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "15"
+        }
+      ]
+    },
+    {
+      "label": "sixteen",
+      "alt": "16 — sixteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "16"
+        }
+      ]
+    },
+    {
+      "label": "seventeen",
+      "alt": "17 — seventeen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "17"
+        }
+      ]
+    },
+    {
+      "label": "eighteen",
+      "alt": "18 — eighteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "18"
+        }
+      ]
+    },
+    {
+      "label": "nineteen",
+      "alt": "19 — nineteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "19"
+        }
+      ]
+    },
+    {
+      "label": "twenty",
+      "alt": "20 — twenty",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "20"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "expression": "zero",
+      "description": "0"
+    },
+    {
+      "expression": "one",
+      "description": "1"
+    },
+    {
+      "expression": "two",
+      "description": "2"
+    },
+    {
+      "expression": "three",
+      "description": "3"
+    },
+    {
+      "expression": "four",
+      "description": "4"
+    },
+    {
+      "expression": "five",
+      "description": "5"
+    },
+    {
+      "expression": "six",
+      "description": "6"
+    },
+    {
+      "expression": "seven",
+      "description": "7"
+    },
+    {
+      "expression": "eight",
+      "description": "8"
+    },
+    {
+      "expression": "nine",
+      "description": "9"
+    },
+    {
+      "expression": "ten",
+      "description": "10"
+    },
+    {
+      "expression": "eleven",
+      "description": "11"
+    },
+    {
+      "expression": "twelve",
+      "description": "12"
+    },
+    {
+      "expression": "thirteen",
+      "description": "13"
+    },
+    {
+      "expression": "fourteen",
+      "description": "14"
+    },
+    {
+      "expression": "fifteen",
+      "description": "15"
+    },
+    {
+      "expression": "sixteen",
+      "description": "16"
+    },
+    {
+      "expression": "seventeen",
+      "description": "17"
+    },
+    {
+      "expression": "eighteen",
+      "description": "18"
+    },
+    {
+      "expression": "nineteen",
+      "description": "19"
+    },
+    {
+      "expression": "twenty",
+      "description": "20"
+    }
+  ],
+  "rules": [
+    "Say the number words slowly from zero to ten, then eleven to twenty.",
+    "Ask a grown-up to say a number and point to its card.",
+    "Use one with a singular noun and two or more with plural nouns: one cup, two cups."
+  ],
+  "examples": [
+    {
+      "question": "Read: 3 birds.",
+      "steps": [
+        "Say the number word before the object."
+      ],
+      "answer": "three birds"
+    },
+    {
+      "question": "Read: 8 pencils.",
+      "steps": [
+        "The English word for 8 is eight."
+      ],
+      "answer": "eight pencils"
+    },
+    {
+      "question": "How do you say 12?",
+      "steps": [
+        "Listen and repeat the number name."
+      ],
+      "answer": "twelve"
+    },
+    {
+      "question": "Read: 15 flowers.",
+      "steps": [
+        "Say fifteen, then flowers."
+      ],
+      "answer": "fifteen flowers"
+    },
+    {
+      "question": "How do you say 20?",
+      "steps": [
+        "Say the number word aloud."
+      ],
+      "answer": "twenty"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Write 0 in English words.",
+      "answer": "zero",
+      "solution": "Answer: zero"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Write 2 in English words.",
+      "answer": "two",
+      "solution": "Answer: two"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Write 5 in English words.",
+      "answer": "five",
+      "solution": "Answer: five"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Write 7 in English words.",
+      "answer": "seven",
+      "solution": "Answer: seven"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Write 9 in English words.",
+      "answer": "nine",
+      "solution": "Answer: nine"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Write 10 in English words.",
+      "answer": "ten",
+      "solution": "Answer: ten"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Write 12 in English words.",
+      "answer": "twelve",
+      "solution": "Answer: twelve"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Write 14 in English words.",
+      "answer": "fourteen",
+      "solution": "Answer: fourteen"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Write 18 in English words.",
+      "answer": "eighteen",
+      "solution": "Answer: eighteen"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Write 20 in English words.",
+      "answer": "twenty",
+      "solution": "Answer: twenty"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Complete: one book, two ___. (book or books)",
+      "answer": "books",
+      "solution": "Two books."
+    }
+  ],
+  "summary": "Recognise and say English number words from zero to twenty. Practise with familiar objects.",
+  "relatedTopics": [
+    "preschool-simple-sentences",
+    "preschool-colours"
+  ]
+}
