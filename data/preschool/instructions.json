@@ -6,41 +6,141 @@
   "introduction": "Learn about listening and following instructions through simple examples and practice.",
   "definition": "An instruction tells us what to do. Listen carefully before acting.",
   "rules": [
+    "Ask an adult to say the instructions aloud. Listen before looking at the text.",
+    "Follow one instruction at a time, then try two instructions in a row.",
+    "Use movement, objects and classroom situations to practise.",
     "Ask a grown-up to read: Stand up. Sit down. Clap your hands.",
     "Listen and do each action in order."
   ],
   "grammar": [],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "expression": "point",
+      "description": "Show something with your finger."
+    },
+    {
+      "expression": "touch",
+      "description": "Put your hand or finger on something."
+    },
+    {
+      "expression": "look",
+      "description": "Turn your eyes towards something."
+    },
+    {
+      "expression": "listen",
+      "description": "Pay attention to sound."
+    },
+    {
+      "expression": "pick up",
+      "description": "Lift something."
+    },
+    {
+      "expression": "put down",
+      "description": "Place something on a surface."
+    },
+    {
+      "expression": "turn around",
+      "description": "Turn to face the other way."
+    },
+    {
+      "expression": "wait",
+      "description": "Stay until something happens."
+    },
+    {
+      "expression": "open",
+      "description": "Make something no longer closed."
+    },
+    {
+      "expression": "close",
+      "description": "Shut something."
+    }
+  ],
   "examples": [
     {
-      "question": "Complete: Sit ___.",
+      "question": "An adult says: Point to the window. What should you do?",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "Find the window and point at it."
       ],
-      "answer": "down"
+      "answer": "Point to the window."
+    },
+    {
+      "question": "An adult says: Pick up the pencil. What should you do?",
+      "steps": [
+        "Lift the pencil."
+      ],
+      "answer": "Pick up the pencil."
+    },
+    {
+      "question": "An adult says: Stand up, then turn around. What comes first?",
+      "steps": [
+        "Follow the words in order."
+      ],
+      "answer": "Stand up."
+    },
+    {
+      "question": "An adult says: Touch your nose, then clap. What comes last?",
+      "steps": [
+        "Listen for the second instruction."
+      ],
+      "answer": "Clap."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Complete: Sit ___.",
-      "answer": "down",
-      "solution": "Answer: down"
-    },
-    {
-      "id": "q2",
-      "type": "text",
-      "question": "Complete: Stand ___.",
+      "question": "Complete: Pick ___ the book.",
       "answer": "up",
       "solution": "Answer: up"
     },
     {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: Put ___ the pen.",
+      "answer": "down",
+      "solution": "Answer: down"
+    },
+    {
       "id": "q3",
       "type": "text",
-      "question": "Complete: Clap your ___.",
-      "answer": "hands",
-      "solution": "Answer: hands"
+      "question": "Complete: Turn ___.",
+      "answer": "around",
+      "solution": "Answer: around"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: Point ___ the door.",
+      "answer": "to",
+      "solution": "Answer: to"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which means shut the door: close or open?",
+      "answer": "close",
+      "solution": "Answer: close"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which means use your eyes: look or listen?",
+      "answer": "look",
+      "solution": "Answer: look"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Which means pay attention to sound: listen or jump?",
+      "answer": "listen",
+      "solution": "Answer: listen"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "In 'Sit down, then clap', what comes last?",
+      "answer": "clap",
+      "solution": "Answer: clap"
     }
   ],
   "summary": "An instruction tells us what to do. Listen carefully before acting.",

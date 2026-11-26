@@ -6,6 +6,10 @@
   "introduction": "Learn about early writing through simple examples and practice.",
   "definition": "Writing letters and short words helps us share ideas. Practise drawing lines, tracing letters and copying words.",
   "rules": [
+    "Practise holding a pencil comfortably, forming letters and writing from left to right.",
+    "Start with lines and curves, then letters, words and short phrases.",
+    "Copy words with different shapes: bag, cup, hen, fish, kite, leaf, moon, ring, tree, van.",
+    "Leave a small space between words.",
     "Use a pencil and paper to trace letters.",
     "Leave a space between words."
   ],
@@ -13,34 +17,106 @@
   "vocabulary": [],
   "examples": [
     {
-      "question": "Copy the word cat.",
+      "question": "Copy a word with three letters.",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "Write b, a and g in order."
       ],
-      "answer": "cat"
+      "answer": "bag"
+    },
+    {
+      "question": "Copy a word with a tall letter.",
+      "steps": [
+        "Form l clearly, then e, a and f."
+      ],
+      "answer": "leaf"
+    },
+    {
+      "question": "Copy two words with a space.",
+      "steps": [
+        "Leave a space between red and hat."
+      ],
+      "answer": "red hat"
+    },
+    {
+      "question": "Copy a short statement.",
+      "steps": [
+        "Use a capital I and a full stop."
+      ],
+      "answer": "I can run."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Copy the word cat.",
-      "answer": "cat",
-      "solution": "Answer: cat"
+      "question": "Copy exactly: cup",
+      "answer": "cup",
+      "solution": "Answer: cup",
+      "caseSensitive": true
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Copy the word sun.",
-      "answer": "sun",
-      "solution": "Answer: sun"
+      "question": "Copy exactly: hen",
+      "answer": "hen",
+      "solution": "Answer: hen",
+      "caseSensitive": true
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Copy the word book.",
-      "answer": "book",
-      "solution": "Answer: book"
+      "question": "Copy exactly: fish",
+      "answer": "fish",
+      "solution": "Answer: fish",
+      "caseSensitive": true
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Copy exactly: kite",
+      "answer": "kite",
+      "solution": "Answer: kite",
+      "caseSensitive": true
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Copy exactly: leaf",
+      "answer": "leaf",
+      "solution": "Answer: leaf",
+      "caseSensitive": true
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Copy exactly: moon",
+      "answer": "moon",
+      "solution": "Answer: moon",
+      "caseSensitive": true
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Copy exactly: red hat",
+      "answer": "red hat",
+      "solution": "Answer: red hat",
+      "caseSensitive": true
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Copy exactly: big dog",
+      "answer": "big dog",
+      "solution": "Answer: big dog",
+      "caseSensitive": true
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Copy exactly: I can run.",
+      "answer": "I can run.",
+      "solution": "Answer: I can run.",
+      "caseSensitive": true
     }
   ],
   "summary": "Writing letters and short words helps us share ideas. Practise drawing lines, tracing letters and copying words.",

@@ -6,41 +6,163 @@
   "introduction": "Learn about rhyming words through simple examples and practice.",
   "definition": "Rhyming words have matching ending sounds, like cat and hat.",
   "rules": [
+    "Say each pair aloud and listen to the ending sounds.",
+    "Words that rhyme do not need to begin with the same letter.",
+    "Word families: cat, bat, hat; dog, log, fog; bed, red, fed; pin, tin, bin; cake, lake, make.",
     "Say both words aloud.",
     "Listen to the ending sounds."
   ],
   "grammar": [],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "expression": "cat",
+      "description": "A small animal often kept as a pet."
+    },
+    {
+      "expression": "bat",
+      "description": "A flying mammal, or a stick used in games."
+    },
+    {
+      "expression": "hat",
+      "description": "Something worn on the head."
+    },
+    {
+      "expression": "log",
+      "description": "A thick piece of cut wood."
+    },
+    {
+      "expression": "fog",
+      "description": "A cloud of tiny water drops near the ground."
+    },
+    {
+      "expression": "bed",
+      "description": "Furniture for sleeping."
+    },
+    {
+      "expression": "pin",
+      "description": "A small thin object with a pointed end."
+    },
+    {
+      "expression": "tin",
+      "description": "A metal container."
+    },
+    {
+      "expression": "bin",
+      "description": "A container for rubbish or storage."
+    },
+    {
+      "expression": "cake",
+      "description": "A sweet baked food."
+    },
+    {
+      "expression": "lake",
+      "description": "A large area of water surrounded by land."
+    },
+    {
+      "expression": "bell",
+      "description": "Something that makes a ringing sound."
+    }
+  ],
   "examples": [
     {
-      "question": "Which rhymes with cat: hat or dog?",
+      "question": "Which rhymes with dog: log or bed?",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "Dog and log share the ending sound."
       ],
-      "answer": "hat"
+      "answer": "log"
+    },
+    {
+      "question": "Which rhymes with cake: lake or leaf?",
+      "steps": [
+        "Cake and lake end with the same sound."
+      ],
+      "answer": "lake"
+    },
+    {
+      "question": "Which rhymes with bell: shell or ball?",
+      "steps": [
+        "Bell and shell have matching ending sounds."
+      ],
+      "answer": "shell"
+    },
+    {
+      "question": "Which rhymes with chair: bear or bird?",
+      "steps": [
+        "Chair and bear have matching ending sounds."
+      ],
+      "answer": "bear"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Which rhymes with cat: hat or dog?",
+      "question": "Which rhymes with bat: hat or bed?",
       "answer": "hat",
       "solution": "Answer: hat"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Which rhymes with pen: hen or cup?",
-      "answer": "hen",
-      "solution": "Answer: hen"
+      "question": "Which rhymes with red: bed or dog?",
+      "answer": "bed",
+      "solution": "Answer: bed"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Which rhymes with sun: run or bed?",
-      "answer": "run",
-      "solution": "Answer: run"
+      "question": "Which rhymes with pin: bin or pen?",
+      "answer": "bin",
+      "solution": "Answer: bin"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which rhymes with fox: box or fish?",
+      "answer": "box",
+      "solution": "Answer: box"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which rhymes with boat: coat or cat?",
+      "answer": "coat",
+      "solution": "Answer: coat"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which rhymes with light: night or leaf?",
+      "answer": "night",
+      "solution": "Answer: night"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Which rhymes with book: look or lock?",
+      "answer": "look",
+      "solution": "Answer: look"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Which rhymes with rain: train or tree?",
+      "answer": "train",
+      "solution": "Answer: train"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Which rhymes with bee: tree or toy?",
+      "answer": "tree",
+      "solution": "Answer: tree"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Which rhymes with mouse: house or horse?",
+      "answer": "house",
+      "solution": "Answer: house"
     }
   ],
   "summary": "Rhyming words have matching ending sounds, like cat and hat.",

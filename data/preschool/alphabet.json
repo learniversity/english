@@ -6,6 +6,8 @@
   "introduction": "Explore all 26 letters from A to Z. Each card shows a capital letter, a small letter and three example words.",
   "definition": "English has 26 letters. Each letter has an uppercase and a lowercase form.",
   "rules": [
+    "Read and name the first letter of each word. Letters have names and may represent more than one sound.",
+    "Practise finding uppercase and lowercase letters in books, labels and signs.",
     "Say the capital and small letters on each card.",
     "Name the three examples. Notice the first letter in each written word.",
     "Letters can represent different sounds. For example, xylophone starts with the letter X but often sounds like Z.",
@@ -16,75 +18,106 @@
   "vocabulary": [],
   "examples": [
     {
-      "question": "Which letter comes after A?",
+      "question": "Which letter comes after F?",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "Say E, F, G, H."
       ],
-      "answer": "B"
+      "answer": "G"
+    },
+    {
+      "question": "What is the small form of T?",
+      "steps": [
+        "Capital T and small t are the same letter."
+      ],
+      "answer": "t"
+    },
+    {
+      "question": "Which letter begins the word queen?",
+      "steps": [
+        "Look at the first letter in queen."
+      ],
+      "answer": "Q"
+    },
+    {
+      "question": "Which letter comes before Z?",
+      "steps": [
+        "Say W, X, Y, Z."
+      ],
+      "answer": "Y"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Which letter comes after A?",
-      "answer": "B",
-      "solution": "Answer: B"
+      "question": "Write the letter after C.",
+      "answer": "D",
+      "solution": "Answer: D"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Write the lowercase form of M.",
-      "answer": "m",
-      "solution": "The lowercase form is m, not M.",
-      "caseSensitive": true
+      "question": "Write the letter before H.",
+      "answer": "G",
+      "solution": "Answer: G"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Which letter comes before D?",
-      "answer": "C",
-      "solution": "Answer: C"
+      "question": "Write the uppercase form of r.",
+      "answer": "R",
+      "solution": "Answer: R",
+      "caseSensitive": true
     },
     {
-      "id": "alphabet-0",
+      "id": "q4",
       "type": "text",
-      "question": "Which letter begins apple?",
-      "answer": "a",
-      "solution": "Answer: a",
-      "caseSensitive": false
+      "question": "Write the lowercase form of P.",
+      "answer": "p",
+      "solution": "Answer: p",
+      "caseSensitive": true
     },
     {
-      "id": "alphabet-1",
+      "id": "q5",
       "type": "text",
-      "question": "Which letter begins ball?",
-      "answer": "b",
-      "solution": "Answer: b",
-      "caseSensitive": false
+      "question": "Which letter begins kite?",
+      "answer": "k",
+      "solution": "Answer: k"
     },
     {
-      "id": "alphabet-2",
+      "id": "q6",
       "type": "text",
       "question": "Which letter begins zebra?",
       "answer": "z",
-      "solution": "Answer: z",
-      "caseSensitive": false
+      "solution": "Answer: z"
     },
     {
-      "id": "alphabet-3",
+      "id": "q7",
       "type": "text",
-      "question": "Write the uppercase form of q.",
-      "answer": "Q",
-      "solution": "Answer: Q",
-      "caseSensitive": true
+      "question": "Which letter begins elephant?",
+      "answer": "e",
+      "solution": "Answer: e"
     },
     {
-      "id": "alphabet-4",
+      "id": "q8",
       "type": "text",
-      "question": "Write the lowercase form of Z.",
-      "answer": "z",
-      "solution": "Answer: z",
-      "caseSensitive": true
+      "question": "Which letter begins violin?",
+      "answer": "v",
+      "solution": "Answer: v"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Write the letter after W.",
+      "answer": "X",
+      "solution": "Answer: X"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Write the letter before M.",
+      "answer": "L",
+      "solution": "Answer: L"
     }
   ],
   "summary": "English has 26 letters. Each letter has an uppercase and a lowercase form.",

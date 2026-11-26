@@ -6,6 +6,11 @@
   "introduction": "Learn about stories and picture talk through simple examples and practice.",
   "definition": "Stories tell us about people, animals or events. Listen, look at pictures and talk about what happens.",
   "rules": [
+    "Ask an adult to read each short story. Listen, then describe what happened.",
+    "Story 1: Aina finds a yellow kite. She goes to the field with her brother. They fly the kite.",
+    "Story 2: Ben has a red cup. He fills it with water. He gives the water to his thirsty dog.",
+    "Story 3: Mei draws a flower. She colours it pink. She gives the picture to her grandmother.",
+    "Talk about who, what and where. Draw one thing from each story.",
     "Read with an adult: A cat sees a ball. The cat pushes the ball. The ball rolls away.",
     "Talk about who is in the story and what happens."
   ],
@@ -13,34 +18,83 @@
   "vocabulary": [],
   "examples": [
     {
-      "question": "Which animal is in the story?",
+      "question": "In Story 1, where do Aina and her brother go?",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "The story says they go to the field."
       ],
-      "answer": "cat"
+      "answer": "The field."
+    },
+    {
+      "question": "In Story 2, what is in the cup?",
+      "steps": [
+        "Ben fills the cup with water."
+      ],
+      "answer": "Water."
+    },
+    {
+      "question": "In Story 3, who gets the drawing?",
+      "steps": [
+        "Mei gives the picture to her grandmother."
+      ],
+      "answer": "Her grandmother."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Which animal is in the story?",
-      "answer": "cat",
-      "solution": "Answer: cat"
+      "question": "What colour is Aina's kite?",
+      "answer": "yellow",
+      "solution": "Answer: yellow"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "What does the cat push?",
-      "answer": "ball",
-      "solution": "Answer: ball"
+      "question": "Who goes with Aina? (brother or sister)",
+      "answer": "brother",
+      "solution": "Answer: brother"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "What rolls away?",
-      "answer": "ball",
-      "solution": "Answer: ball"
+      "question": "What do they fly?",
+      "answer": "kite",
+      "solution": "Answer: kite"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What colour is Ben's cup?",
+      "answer": "red",
+      "solution": "Answer: red"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which animal gets the water?",
+      "answer": "dog",
+      "solution": "Answer: dog"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "What does Mei draw?",
+      "answer": "flower",
+      "solution": "Answer: flower"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "What colour is the flower?",
+      "answer": "pink",
+      "solution": "Answer: pink"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Who gets Mei's picture?",
+      "answer": "grandmother",
+      "solution": "Answer: grandmother"
     }
   ],
   "summary": "Stories tell us about people, animals or events. Listen, look at pictures and talk about what happens.",

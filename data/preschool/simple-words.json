@@ -6,54 +6,170 @@
   "introduction": "Learn about reading simple words through simple examples and practice.",
   "definition": "Join the sounds in short words to read them. For example, c-a-t makes cat.",
   "rules": [
+    "Blend the sounds from left to right to read a word.",
+    "Try short words with different vowels: cat, bed, pig, fox and cup.",
+    "Some words have two consonants together, such as flag and frog. Learn these gradually.",
     "Say each sound slowly, then blend them together.",
     "Practise with a grown-up."
   ],
   "grammar": [],
   "vocabulary": [
     {
-      "expression": "cat",
-      "description": "A small animal often kept as a pet."
+      "expression": "bag",
+      "description": "A container used to carry things."
     },
     {
-      "expression": "pen",
-      "description": "Something used to write."
+      "expression": "cap",
+      "description": "A type of hat."
     },
     {
-      "expression": "sun",
-      "description": "The star that gives Earth light."
+      "expression": "bed",
+      "description": "Furniture for sleeping."
+    },
+    {
+      "expression": "net",
+      "description": "Material made of connected threads with spaces between them."
+    },
+    {
+      "expression": "pig",
+      "description": "A farm animal."
+    },
+    {
+      "expression": "pin",
+      "description": "A small thin pointed object."
+    },
+    {
+      "expression": "fox",
+      "description": "An animal with a bushy tail."
+    },
+    {
+      "expression": "pot",
+      "description": "A container for cooking or growing plants."
+    },
+    {
+      "expression": "cup",
+      "description": "A container for drinking."
+    },
+    {
+      "expression": "bus",
+      "description": "A vehicle that carries many passengers."
+    },
+    {
+      "expression": "rug",
+      "description": "A piece of material covering part of a floor."
+    },
+    {
+      "expression": "map",
+      "description": "A drawing that shows places."
     }
   ],
   "examples": [
     {
-      "question": "Join c-a-t.",
+      "question": "Blend b-a-g.",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "Say the sounds, then join them without pauses."
       ],
-      "answer": "cat"
+      "answer": "bag"
+    },
+    {
+      "question": "Blend n-e-t.",
+      "steps": [
+        "Say /n/, the short e sound and /t/."
+      ],
+      "answer": "net"
+    },
+    {
+      "question": "Blend p-i-g.",
+      "steps": [
+        "Join the three sounds to read pig."
+      ],
+      "answer": "pig"
+    },
+    {
+      "question": "Blend f-o-x.",
+      "steps": [
+        "The letter x represents /ks/ here."
+      ],
+      "answer": "fox"
+    },
+    {
+      "question": "Blend c-u-p.",
+      "steps": [
+        "Join the sounds to read cup."
+      ],
+      "answer": "cup"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Join c-a-t.",
-      "answer": "cat",
-      "solution": "Answer: cat"
+      "question": "Join m-a-p.",
+      "answer": "map",
+      "solution": "Answer: map"
     },
     {
       "id": "q2",
+      "type": "text",
+      "question": "Join c-a-p.",
+      "answer": "cap",
+      "solution": "Answer: cap"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Join b-e-d.",
+      "answer": "bed",
+      "solution": "Answer: bed"
+    },
+    {
+      "id": "q4",
       "type": "text",
       "question": "Join p-e-n.",
       "answer": "pen",
       "solution": "Answer: pen"
     },
     {
-      "id": "q3",
+      "id": "q5",
       "type": "text",
-      "question": "Join s-u-n.",
-      "answer": "sun",
-      "solution": "Answer: sun"
+      "question": "Join p-i-n.",
+      "answer": "pin",
+      "solution": "Answer: pin"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Join s-i-t.",
+      "answer": "sit",
+      "solution": "Answer: sit"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Join p-o-t.",
+      "answer": "pot",
+      "solution": "Answer: pot"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Join b-u-s.",
+      "answer": "bus",
+      "solution": "Answer: bus"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Join r-u-g.",
+      "answer": "rug",
+      "solution": "Answer: rug"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Join d-o-g.",
+      "answer": "dog",
+      "solution": "Answer: dog"
     }
   ],
   "summary": "Join the sounds in short words to read them. For example, c-a-t makes cat.",

@@ -6,50 +6,171 @@
   "introduction": "Learn about letter sounds through simple examples and practice.",
   "definition": "Letters represent sounds. In simple words, m often represents /m/ and s often represents /s/.",
   "rules": [
+    "A letter name and a letter sound are not always the same.",
+    "Listen to the first sound in words. Say /m/ without adding an extra vowel sound.",
+    "Practise hearing the beginning sounds of familiar words: bag, cup, dog, fan, goat, hat, jam, kite, leaf, mouse, nest, pen, rabbit, sock, tap.",
     "Say the first sound in a word, not just the letter name.",
     "Listen to a grown-up say the words slowly."
   ],
   "grammar": [],
   "vocabulary": [
     {
-      "expression": "sun",
-      "description": "The bright object in the daytime sky."
+      "expression": "bag",
+      "description": "A container used to carry things."
     },
     {
-      "expression": "map",
-      "description": "A picture showing where places are."
+      "expression": "cup",
+      "description": "A container for drinking."
+    },
+    {
+      "expression": "fan",
+      "description": "Something that moves air."
+    },
+    {
+      "expression": "goat",
+      "description": "A farm animal."
+    },
+    {
+      "expression": "hat",
+      "description": "Something worn on the head."
+    },
+    {
+      "expression": "jam",
+      "description": "A fruit spread."
+    },
+    {
+      "expression": "kite",
+      "description": "A toy that flies on a string."
+    },
+    {
+      "expression": "leaf",
+      "description": "A part of a plant."
+    },
+    {
+      "expression": "mouse",
+      "description": "A small animal with a long tail."
+    },
+    {
+      "expression": "nest",
+      "description": "A place where a bird may lay eggs."
+    },
+    {
+      "expression": "pen",
+      "description": "A tool for writing."
+    },
+    {
+      "expression": "rabbit",
+      "description": "An animal with long ears."
+    },
+    {
+      "expression": "sock",
+      "description": "Clothing covering the foot."
+    },
+    {
+      "expression": "tap",
+      "description": "A device that controls flowing water."
     }
   ],
   "examples": [
     {
-      "question": "Which letter begins sun?",
+      "question": "Which letter usually makes the first sound in bag?",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "Listen to /b/ at the start of bag."
       ],
-      "answer": "s"
+      "answer": "b"
+    },
+    {
+      "question": "Which begins with the same sound as fish: fan or dog?",
+      "steps": [
+        "Both fan and fish begin with /f/."
+      ],
+      "answer": "fan"
+    },
+    {
+      "question": "Which starts like nest: net or cup?",
+      "steps": [
+        "The first sound is /n/."
+      ],
+      "answer": "net"
+    },
+    {
+      "question": "Which starts like rabbit: rain or hat?",
+      "steps": [
+        "Both begin with /r/."
+      ],
+      "answer": "rain"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Which letter begins sun?",
-      "answer": "s",
-      "solution": "Answer: s"
+      "question": "Which letter begins dog?",
+      "answer": "d",
+      "solution": "Answer: d"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Which letter begins map?",
-      "answer": "m",
-      "solution": "Answer: m"
+      "question": "Which letter begins hat?",
+      "answer": "h",
+      "solution": "Answer: h"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Which letter begins dog?",
-      "answer": "d",
-      "solution": "Answer: d"
+      "question": "Which letter begins jam?",
+      "answer": "j",
+      "solution": "Answer: j"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which letter begins kite?",
+      "answer": "k",
+      "solution": "Answer: k"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which letter begins leaf?",
+      "answer": "l",
+      "solution": "Answer: l"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which letter begins mouse?",
+      "answer": "m",
+      "solution": "Answer: m"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Which letter begins pen?",
+      "answer": "p",
+      "solution": "Answer: p"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Which letter begins sock?",
+      "answer": "s",
+      "solution": "Answer: s"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Which begins like tap: tin or cat?",
+      "answer": "tin",
+      "solution": "Answer: tin"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Which begins like goat: gate or leaf?",
+      "answer": "gate",
+      "solution": "Answer: gate"
     }
   ],
   "summary": "Letters represent sounds. In simple words, m often represents /m/ and s often represents /s/.",

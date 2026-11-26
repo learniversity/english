@@ -6,6 +6,9 @@
   "introduction": "Learn about simple spoken sentences through simple examples and practice.",
   "definition": "A sentence can express a complete idea. Say short sentences about yourself and the world around you.",
   "rules": [
+    "Use I am to describe yourself, I have to talk about something you possess, and I like to express a preference.",
+    "Use This is or That is to name familiar things.",
+    "Try describing people, objects, food, clothes and feelings, not just one topic.",
     "Use I am to introduce yourself.",
     "Use I like to talk about things you enjoy."
   ],
@@ -26,34 +29,97 @@
   "vocabulary": [],
   "examples": [
     {
-      "question": "Complete: I ___ happy (am or is).",
+      "question": "Say something about how you feel.",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "Use I am with a feeling word."
       ],
-      "answer": "am"
+      "answer": "I am happy."
+    },
+    {
+      "question": "Say that you possess a book.",
+      "steps": [
+        "Use I have."
+      ],
+      "answer": "I have a book."
+    },
+    {
+      "question": "Name a nearby object.",
+      "steps": [
+        "Use This is for one nearby thing."
+      ],
+      "answer": "This is a pencil."
+    },
+    {
+      "question": "Say that you enjoy mangoes.",
+      "steps": [
+        "Use I like."
+      ],
+      "answer": "I like mangoes."
+    },
+    {
+      "question": "Describe a red bag.",
+      "steps": [
+        "Use is to link the thing and its colour."
+      ],
+      "answer": "The bag is red."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Complete: I ___ happy (am or is).",
+      "question": "Complete: I ___ tired.",
       "answer": "am",
       "solution": "Answer: am"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Complete: I ___ apples (like or likes).",
-      "answer": "like",
-      "solution": "Answer: like"
+      "question": "Complete: I ___ a ruler. (have or has)",
+      "answer": "have",
+      "solution": "Answer: have"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Complete: This ___ a cat (is or am).",
+      "question": "Complete: This ___ a cup.",
       "answer": "is",
       "solution": "Answer: is"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: I ___ bananas. (like or likes)",
+      "answer": "like",
+      "solution": "Answer: like"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Complete: The flower ___ pink.",
+      "answer": "is",
+      "solution": "Answer: is"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Complete: You ___ kind.",
+      "answer": "are",
+      "solution": "Answer: are"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Complete: That is ___ egg.",
+      "answer": "an",
+      "solution": "Answer: an"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Complete: I can ___. (jump or jumps)",
+      "answer": "jump",
+      "solution": "Answer: jump"
     }
   ],
   "summary": "A sentence can express a complete idea. Say short sentences about yourself and the world around you.",

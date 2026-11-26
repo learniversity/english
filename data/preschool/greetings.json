@@ -6,6 +6,9 @@
   "introduction": "Learn about greetings and polite words through simple examples and practice.",
   "definition": "Greetings help us start conversations. Polite words help us show kindness.",
   "rules": [
+    "Use a greeting when you meet someone.",
+    "Use polite words when asking for help, thanking someone or apologising.",
+    "Practise short conversations with a parent, teacher or friend.",
     "Say hello when meeting someone.",
     "Say thank you when someone helps you."
   ],
@@ -13,29 +16,105 @@
   "vocabulary": [
     {
       "expression": "hello",
-      "description": "A greeting."
+      "description": "A friendly greeting."
+    },
+    {
+      "expression": "hi",
+      "description": "An informal greeting."
+    },
+    {
+      "expression": "good morning",
+      "description": "A greeting used in the morning."
+    },
+    {
+      "expression": "good afternoon",
+      "description": "A greeting used in the afternoon."
+    },
+    {
+      "expression": "good evening",
+      "description": "A greeting used in the evening."
+    },
+    {
+      "expression": "good night",
+      "description": "Words often said before going to sleep or leaving at night."
+    },
+    {
+      "expression": "goodbye",
+      "description": "Words used when leaving."
+    },
+    {
+      "expression": "see you",
+      "description": "Informal words used when leaving."
     },
     {
       "expression": "please",
-      "description": "A polite word used when asking for something."
+      "description": "A polite word when asking."
+    },
+    {
+      "expression": "thank you",
+      "description": "Words used to show appreciation."
+    },
+    {
+      "expression": "you are welcome",
+      "description": "A polite reply to thanks."
+    },
+    {
+      "expression": "sorry",
+      "description": "A word used to apologise."
+    },
+    {
+      "expression": "excuse me",
+      "description": "Polite words used to get attention or pass someone."
+    },
+    {
+      "expression": "welcome",
+      "description": "A friendly greeting for someone arriving."
     }
   ],
   "examples": [
     {
-      "question": "Complete: Good ___ (a greeting early in the day).",
+      "question": "You meet a teacher at 8 a.m. What can you say?",
       "steps": [
-        "Read or listen to the question. Think about what you have learnt."
+        "A morning greeting is suitable."
       ],
-      "answer": "morning"
+      "answer": "Good morning."
+    },
+    {
+      "question": "A friend lends you a crayon. What can you say?",
+      "steps": [
+        "Show appreciation."
+      ],
+      "answer": "Thank you."
+    },
+    {
+      "question": "You accidentally bump into someone. What can you say?",
+      "steps": [
+        "Use a polite apology."
+      ],
+      "answer": "Sorry."
+    },
+    {
+      "question": "You ask for a drink. What can you say?",
+      "steps": [
+        "Please makes the request polite."
+      ],
+      "answer": "Water, please."
+    },
+    {
+      "question": "Someone says thank you. What can you reply?",
+      "steps": [
+        "Acknowledge their thanks."
+      ],
+      "answer": "You are welcome."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Complete: Good ___ (a greeting early in the day).",
-      "answer": "morning",
-      "solution": "Answer: morning"
+      "question": "Complete: Good ___ (before sleeping).",
+      "answer": "night",
+      "solution": "Answer: night"
     },
     {
       "id": "q2",
@@ -47,9 +126,44 @@
     {
       "id": "q3",
       "type": "text",
-      "question": "Complete: ___ me (when asking for attention).",
-      "answer": "excuse",
-      "solution": "Answer: excuse"
+      "question": "Complete: Water, ___.",
+      "answer": "please",
+      "solution": "Answer: please"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: Excuse ___.",
+      "answer": "me",
+      "solution": "Answer: me"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "What can you say after accidentally stepping on a foot? (sorry or hello)",
+      "answer": "sorry",
+      "solution": "Answer: sorry"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Complete: Good ___ (after lunch).",
+      "answer": "afternoon",
+      "solution": "Answer: afternoon"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Complete: See ___.",
+      "answer": "you",
+      "solution": "Answer: you"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Complete: You are ___.",
+      "answer": "welcome",
+      "solution": "Answer: welcome"
     }
   ],
   "summary": "Greetings help us start conversations. Polite words help us show kindness.",
