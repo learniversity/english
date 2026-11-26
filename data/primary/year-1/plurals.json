@@ -6,64 +6,152 @@
   "introduction": "Practise one and many with familiar words and short sentences.",
   "definition": "Singular words name one thing. Plural words name more than one.",
   "rules": [
+    "Add -s to many nouns. Add -es to many nouns ending in s, sh, ch or x.",
+    "Some plurals change their spelling, such as baby → babies and child → children.",
+    "Use a singular noun for one and a plural noun for more than one.",
     "Many plural nouns end in s: book, books.",
     "Some end in es: box, boxes."
   ],
   "grammar": [
     {
-      "expression": "one book / two books",
-      "description": "Add s to many nouns."
+      "expression": "-s",
+      "description": "cup → cups; toy → toys"
     },
     {
-      "expression": "one box / two boxes",
-      "description": "Add es to words such as box."
+      "expression": "-es",
+      "description": "bus → buses; dish → dishes; box → boxes"
+    },
+    {
+      "expression": "Consonant + y",
+      "description": "baby → babies; puppy → puppies"
+    },
+    {
+      "expression": "Common irregular plurals",
+      "description": "child → children; foot → feet; tooth → teeth; person → people"
     }
   ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "Two ___ (cat).",
+      "question": "Make the plural of dish.",
       "steps": [
-        "Many plural nouns end in s: book, books."
+        "Add es after sh."
       ],
-      "answer": "cats"
+      "answer": "dishes"
     },
     {
-      "question": "Three ___ (box).",
+      "question": "Make the plural of toy.",
       "steps": [
-        "Some end in es: box, boxes."
+        "Add s after vowel + y."
       ],
-      "answer": "boxes"
+      "answer": "toys"
+    },
+    {
+      "question": "Make the plural of puppy.",
+      "steps": [
+        "Change consonant + y to ies."
+      ],
+      "answer": "puppies"
+    },
+    {
+      "question": "Make the plural of child.",
+      "steps": [
+        "This is an irregular plural."
+      ],
+      "answer": "children"
+    },
+    {
+      "question": "Make the plural of foot.",
+      "steps": [
+        "Learn the changed vowel spelling."
+      ],
+      "answer": "feet"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Two ___ (cat).",
-      "answer": "cats",
-      "solution": "Answer: cats"
+      "question": "Two ___ (dog).",
+      "answer": "dogs",
+      "solution": "Answer: dogs"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Three ___ (box).",
-      "answer": "boxes",
-      "solution": "Answer: boxes"
+      "question": "Four ___ (cup).",
+      "answer": "cups",
+      "solution": "Answer: cups"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "One ___ (pens).",
-      "answer": "pen",
-      "solution": "Answer: pen"
+      "question": "Three ___ (bus).",
+      "answer": "buses",
+      "solution": "Answer: buses"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Four ___ (book).",
-      "answer": "books",
-      "solution": "Answer: books"
+      "question": "Five ___ (dish).",
+      "answer": "dishes",
+      "solution": "Answer: dishes"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Two ___ (box).",
+      "answer": "boxes",
+      "solution": "Answer: boxes"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Three ___ (baby).",
+      "answer": "babies",
+      "solution": "Answer: babies"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Two ___ (toy).",
+      "answer": "toys",
+      "solution": "Answer: toys"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Two ___ (child).",
+      "answer": "children",
+      "solution": "Answer: children"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Two ___ (foot).",
+      "answer": "feet",
+      "solution": "Answer: feet"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Three ___ (tooth).",
+      "answer": "teeth",
+      "solution": "Answer: teeth"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "One ___ (chairs).",
+      "answer": "chair",
+      "solution": "Answer: chair"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "Four ___ (person).",
+      "answer": "people",
+      "solution": "Answer: people"
     }
   ],
   "summary": "Singular words name one thing. Plural words name more than one.",

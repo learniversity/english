@@ -6,6 +6,8 @@
   "introduction": "Practise beginning, middle and ending sounds with familiar words and short sentences.",
   "definition": "Words are made of sounds. Listen for the first, middle and last sounds in short words.",
   "rules": [
+    "Listen to words containing different middle vowel sounds: bag, bed, big, bog, bug.",
+    "A word can have several letters representing a single sound. Listen rather than simply count letters.",
     "Say cat slowly: /k/ /a/ /t/.",
     "Change one sound to make a new word: cat, cap, map."
   ],
@@ -13,48 +15,111 @@
   "vocabulary": [],
   "examples": [
     {
-      "question": "First letter in fish?",
+      "question": "What is the first sound in van?",
       "steps": [
-        "Say cat slowly: /k/ /a/ /t/."
+        "Say van slowly and listen at the beginning."
       ],
-      "answer": "f"
+      "answer": "/v/"
     },
     {
-      "question": "Middle letter in cat?",
+      "question": "What is the middle vowel in bed?",
       "steps": [
-        "Change one sound to make a new word: cat, cap, map."
+        "The short e sound is between b and d."
       ],
-      "answer": "a"
+      "answer": "e"
+    },
+    {
+      "question": "Which word ends with the same sound as cup: map or cat?",
+      "steps": [
+        "Both finish with /p/."
+      ],
+      "answer": "map"
+    },
+    {
+      "question": "Change the first sound of pan to /m/.",
+      "steps": [
+        "Replace p with m."
+      ],
+      "answer": "man"
+    },
+    {
+      "question": "Change the last sound of pin to /g/.",
+      "steps": [
+        "Replace n with g."
+      ],
+      "answer": "pig"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "First letter in fish?",
-      "answer": "f",
-      "solution": "Answer: f"
+      "question": "First letter of goat?",
+      "answer": "g",
+      "solution": "Answer: g"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Middle letter in cat?",
-      "answer": "a",
-      "solution": "Answer: a"
+      "question": "Middle letter in hen?",
+      "answer": "e",
+      "solution": "Answer: e"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Last letter in sun?",
-      "answer": "n",
-      "solution": "Answer: n"
+      "question": "Last letter of lamp?",
+      "answer": "p",
+      "solution": "Answer: p"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Change the last letter of cat to p.",
-      "answer": "cap",
-      "solution": "Answer: cap"
+      "question": "Middle letter in pig?",
+      "answer": "i",
+      "solution": "Answer: i"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Last letter in van?",
+      "answer": "n",
+      "solution": "Answer: n"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "First letter in leaf?",
+      "answer": "l",
+      "solution": "Answer: l"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Change the first letter of bat to m.",
+      "answer": "mat",
+      "solution": "Answer: mat"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Change the last letter of bag to t.",
+      "answer": "bat",
+      "solution": "Answer: bat"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Which ends like dog: frog or fish?",
+      "answer": "frog",
+      "solution": "Answer: frog"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Which has the same middle vowel as cup: bus or bed?",
+      "answer": "bus",
+      "solution": "Answer: bus"
     }
   ],
   "summary": "Words are made of sounds. Listen for the first, middle and last sounds in short words.",

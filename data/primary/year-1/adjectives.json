@@ -6,77 +6,209 @@
   "introduction": "Practise describing words with familiar words and short sentences.",
   "definition": "Describing words tell us what something is like, for example its colour or size.",
   "rules": [
+    "Adjectives describe people, animals, places and things.",
+    "Learn useful pairs: big/small, tall/short, long/short, hot/cold, clean/dirty, fast/slow, heavy/light, hard/soft, old/new, full/empty.",
+    "Describe things with size, colour, texture, temperature and feelings.",
     "Put a describing word before a noun: a small cat.",
     "You can also use it after is: The cat is small."
   ],
   "grammar": [
     {
       "expression": "adjective + noun",
-      "description": "a red ball, a big bag"
+      "description": "a soft pillow, a long road, a red bag"
+    },
+    {
+      "expression": "be + adjective",
+      "description": "The soup is hot. The shoes are clean."
     }
   ],
   "vocabulary": [
     {
-      "expression": "big",
-      "description": "Large in size."
-    },
-    {
-      "expression": "small",
-      "description": "Little in size."
-    },
-    {
-      "expression": "long",
-      "description": "Having a great length."
+      "expression": "tall",
+      "description": "Having great height."
     },
     {
       "expression": "short",
-      "description": "Not long."
+      "description": "Not tall or not long."
+    },
+    {
+      "expression": "heavy",
+      "description": "Having a lot of weight."
+    },
+    {
+      "expression": "light",
+      "description": "Not heavy."
+    },
+    {
+      "expression": "soft",
+      "description": "Not hard."
+    },
+    {
+      "expression": "hard",
+      "description": "Firm or solid."
+    },
+    {
+      "expression": "clean",
+      "description": "Not dirty."
+    },
+    {
+      "expression": "dirty",
+      "description": "Not clean."
+    },
+    {
+      "expression": "fast",
+      "description": "Moving quickly."
+    },
+    {
+      "expression": "slow",
+      "description": "Not fast."
+    },
+    {
+      "expression": "full",
+      "description": "Containing as much as possible."
+    },
+    {
+      "expression": "empty",
+      "description": "Containing nothing."
+    },
+    {
+      "expression": "new",
+      "description": "Recently made or obtained."
+    },
+    {
+      "expression": "old",
+      "description": "Having existed for a long time."
+    },
+    {
+      "expression": "wet",
+      "description": "Covered with liquid."
+    },
+    {
+      "expression": "dry",
+      "description": "Not wet."
     }
   ],
   "examples": [
     {
-      "question": "A ___ ball (red or run).",
+      "question": "Describe a pillow that feels gentle to touch.",
       "steps": [
-        "Put a describing word before a noun: a small cat."
+        "Soft describes texture."
       ],
-      "answer": "red"
+      "answer": "a soft pillow"
     },
     {
-      "question": "Opposite of big?",
+      "question": "Find the adjective: The train is fast.",
       "steps": [
-        "You can also use it after is: The cat is small."
+        "Fast describes the train."
       ],
-      "answer": "small"
+      "answer": "fast"
+    },
+    {
+      "question": "What is the opposite of dirty?",
+      "steps": [
+        "These words have contrasting meanings."
+      ],
+      "answer": "clean"
+    },
+    {
+      "question": "Describe a bag containing nothing.",
+      "steps": [
+        "Empty describes its contents."
+      ],
+      "answer": "an empty bag"
+    },
+    {
+      "question": "Describe a soup with a high temperature.",
+      "steps": [
+        "Hot describes temperature."
+      ],
+      "answer": "hot soup"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "A ___ ball (red or run).",
-      "answer": "red",
-      "solution": "Answer: red"
+      "question": "Opposite of heavy?",
+      "answer": "light",
+      "solution": "Answer: light"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Opposite of big?",
-      "answer": "small",
-      "solution": "Answer: small"
+      "question": "Opposite of full?",
+      "answer": "empty",
+      "solution": "Answer: empty"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Opposite of long?",
-      "answer": "short",
-      "solution": "Answer: short"
+      "question": "Opposite of wet?",
+      "answer": "dry",
+      "solution": "Answer: dry"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Find the describing word: The bag is blue.",
-      "answer": "blue",
-      "solution": "Answer: blue"
+      "question": "Opposite of soft?",
+      "answer": "hard",
+      "solution": "Answer: hard"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Opposite of clean?",
+      "answer": "dirty",
+      "solution": "Answer: dirty"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Opposite of fast?",
+      "answer": "slow",
+      "solution": "Answer: slow"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "A ___ pillow (soft or run).",
+      "answer": "soft",
+      "solution": "Answer: soft"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "The soup is ___. (hot or jump)",
+      "answer": "hot",
+      "solution": "Answer: hot"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Find the adjective: The tall tree grows.",
+      "answer": "tall",
+      "solution": "Answer: tall"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Find the adjective: My shoes are new.",
+      "answer": "new",
+      "solution": "Answer: new"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Find the adjective: A cold drink.",
+      "answer": "cold",
+      "solution": "Answer: cold"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "The bag has nothing inside. It is ___.",
+      "answer": "empty",
+      "solution": "Answer: empty"
     }
   ],
   "summary": "Describing words tell us what something is like, for example its colour or size.",

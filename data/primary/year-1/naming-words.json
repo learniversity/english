@@ -6,60 +6,142 @@
   "introduction": "Practise naming words (nouns) with familiar words and short sentences.",
   "definition": "Naming words identify people, animals, places and things.",
   "rules": [
+    "Nouns name people, animals, places, things and ideas.",
+    "Common nouns name a general kind of thing. Names such as Malaysia and Mei are proper nouns and begin with a capital letter.",
+    "Look for nouns in simple sentences.",
     "Find naming words in a simple sentence.",
     "Use familiar names of things before learning detailed grammar."
   ],
   "grammar": [
     {
-      "expression": "Nouns",
-      "description": "Words such as teacher, cat, school and bag name things or people."
+      "expression": "People",
+      "description": "teacher, doctor, pupil, farmer"
+    },
+    {
+      "expression": "Animals",
+      "description": "rabbit, elephant, duck, tiger"
+    },
+    {
+      "expression": "Places",
+      "description": "school, market, library, park"
+    },
+    {
+      "expression": "Things",
+      "description": "pencil, table, shoe, umbrella"
+    },
+    {
+      "expression": "Names",
+      "description": "Malaysia, Kuching, Aina, Ben"
     }
   ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "Which is a naming word: run or cat?",
+      "question": "Find the noun naming a person: The farmer grows rice.",
       "steps": [
-        "Find naming words in a simple sentence."
+        "Farmer names a person."
       ],
-      "answer": "cat"
+      "answer": "farmer"
     },
     {
-      "question": "Which names a place: school or jump?",
+      "question": "Find the noun naming a place: We visit the library.",
       "steps": [
-        "Use familiar names of things before learning detailed grammar."
+        "Library names a place."
       ],
-      "answer": "school"
+      "answer": "library"
+    },
+    {
+      "question": "Find the animal noun: The rabbit hops.",
+      "steps": [
+        "Rabbit names an animal."
+      ],
+      "answer": "rabbit"
+    },
+    {
+      "question": "Which is a noun: umbrella or quickly?",
+      "steps": [
+        "Umbrella names a thing."
+      ],
+      "answer": "umbrella"
+    },
+    {
+      "question": "Find the proper noun: Mei reads a book.",
+      "steps": [
+        "Mei is a person's name."
+      ],
+      "answer": "Mei"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Which is a naming word: run or cat?",
-      "answer": "cat",
-      "solution": "Answer: cat"
+      "question": "Which names a person: nurse or blue?",
+      "answer": "nurse",
+      "solution": "Answer: nurse"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Which names a place: school or jump?",
-      "answer": "school",
-      "solution": "Answer: school"
+      "question": "Which names a place: market or walk?",
+      "answer": "market",
+      "solution": "Answer: market"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Which names a person: teacher or red?",
-      "answer": "teacher",
-      "solution": "Answer: teacher"
+      "question": "Which names an animal: goat or tall?",
+      "answer": "goat",
+      "solution": "Answer: goat"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Find the naming word: The dog runs.",
-      "answer": "dog",
-      "solution": "Answer: dog"
+      "question": "Which names a thing: chair or sing?",
+      "answer": "chair",
+      "solution": "Answer: chair"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which is a person's name: Ali or pencil?",
+      "answer": "Ali",
+      "solution": "Answer: Ali"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Find the animal noun: The duck swims.",
+      "answer": "duck",
+      "solution": "Answer: duck"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Find the place noun: The children play in the park.",
+      "answer": "park",
+      "solution": "Answer: park"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Find the object noun: I open the window.",
+      "answer": "window",
+      "solution": "Answer: window"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Which is a noun: bicycle or happy?",
+      "answer": "bicycle",
+      "solution": "Answer: bicycle"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Which is a noun: flower or jump?",
+      "answer": "flower",
+      "solution": "Answer: flower"
     }
   ],
   "summary": "Naming words identify people, animals, places and things.",

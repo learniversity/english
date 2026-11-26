@@ -6,62 +6,142 @@
   "introduction": "Practise a and an with familiar words and short sentences.",
   "definition": "Use a or an before a single countable thing when it is not already identified. Choose by the next sound.",
   "rules": [
+    "Use a before a consonant sound and an before a vowel sound.",
+    "Listen to the first sound, not just the first written letter.",
+    "For one countable thing: a mango, an egg. Do not normally use a or an before plural nouns.",
     "Use a before a consonant sound: a book.",
     "Use an before a vowel sound: an apple."
   ],
   "grammar": [
     {
       "expression": "a + consonant sound",
-      "description": "a pen, a bag"
+      "description": "a ruler, a kitten, a uniform"
     },
     {
       "expression": "an + vowel sound",
-      "description": "an egg, an orange"
+      "description": "an umbrella, an insect, an hour"
     }
   ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "___ apple",
+      "question": "Choose an article for orange.",
       "steps": [
-        "Use a before a consonant sound: a book."
+        "Orange begins with a vowel sound."
       ],
-      "answer": "an"
+      "answer": "an orange"
     },
     {
-      "question": "___ pencil",
+      "question": "Choose an article for bicycle.",
       "steps": [
-        "Use an before a vowel sound: an apple."
+        "Bicycle begins with a consonant sound."
       ],
-      "answer": "a"
+      "answer": "a bicycle"
+    },
+    {
+      "question": "Choose an article for uniform.",
+      "steps": [
+        "Uniform starts with a /y/ sound."
+      ],
+      "answer": "a uniform"
+    },
+    {
+      "question": "Choose an article for hour.",
+      "steps": [
+        "The h is silent in hour."
+      ],
+      "answer": "an hour"
+    },
+    {
+      "question": "Choose an article for insect.",
+      "steps": [
+        "Insect begins with a vowel sound."
+      ],
+      "answer": "an insect"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "___ apple",
+      "question": "___ elephant",
       "answer": "an",
       "solution": "Answer: an"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "___ pencil",
+      "question": "___ mango",
       "answer": "a",
       "solution": "Answer: a"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "___ egg",
+      "question": "___ umbrella",
       "answer": "an",
       "solution": "Answer: an"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "___ kite",
+      "question": "___ ruler",
+      "answer": "a",
+      "solution": "Answer: a"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "___ octopus",
+      "answer": "an",
+      "solution": "Answer: an"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "___ pencil case",
+      "answer": "a",
+      "solution": "Answer: a"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "___ ant",
+      "answer": "an",
+      "solution": "Answer: an"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "___ flower",
+      "answer": "a",
+      "solution": "Answer: a"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "___ ice cream (one serving)",
+      "answer": "an",
+      "solution": "Answer: an"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "___ uniform",
+      "answer": "a",
+      "solution": "Answer: a"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "___ hour",
+      "answer": "an",
+      "solution": "Answer: an"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "___ book",
       "answer": "a",
       "solution": "Answer: a"
     }

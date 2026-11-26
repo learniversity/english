@@ -290,7 +290,7 @@
     {
       "id": "primary-1-pronouns",
       "level": "primary-1",
-      "title": "I, You, He, She and It",
+      "title": "Personal Pronouns",
       "path": "data/primary/year-1/pronouns.json",
       "category": "Grammar"
     },
@@ -304,7 +304,7 @@
     {
       "id": "primary-1-this-that",
       "level": "primary-1",
-      "title": "This and That",
+      "title": "This, That, These and Those",
       "path": "data/primary/year-1/this-that.json",
       "category": "Grammar"
     },

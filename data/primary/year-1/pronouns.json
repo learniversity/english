@@ -1,72 +1,154 @@
 {
   "id": "primary-1-pronouns",
-  "title": "I, You, He, She and It",
+  "title": "Personal Pronouns",
   "level": "primary-1",
   "category": "Grammar",
   "introduction": "Practise i, you, he, she and it with familiar words and short sentences.",
-  "definition": "These words can replace names when we know who or what we mean.",
+  "definition": "Personal pronouns can replace names and nouns. Subject pronouns include I, you, he, she, it, we and they.",
   "rules": [
+    "I, you, he, she, it, we and they can replace nouns.",
+    "Use we for a group including yourself, and they for people or things you are talking about.",
+    "The pronoun I always starts with a capital letter.",
     "Use I for yourself and you for the person you address.",
     "Use he or she for a person who uses that pronoun; it can refer to a thing."
   ],
   "grammar": [
     {
-      "expression": "I / you",
-      "description": "I am here. You are here."
+      "expression": "I",
+      "description": "The speaker."
     },
     {
-      "expression": "he / she / it",
-      "description": "He is seven. She is seven. It is red."
+      "expression": "You",
+      "description": "The person or people addressed."
+    },
+    {
+      "expression": "He / she",
+      "description": "A person who uses that pronoun."
+    },
+    {
+      "expression": "It",
+      "description": "A thing or an animal when appropriate."
+    },
+    {
+      "expression": "We",
+      "description": "A group including the speaker."
+    },
+    {
+      "expression": "They",
+      "description": "People or things being discussed; also used for a person who uses that pronoun."
     }
   ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "___ am happy.",
+      "question": "Replace 'the books' in 'The books are new.'",
       "steps": [
-        "Use I for yourself and you for the person you address."
+        "They replaces plural things."
       ],
-      "answer": "I"
+      "answer": "They are new."
     },
     {
-      "question": "___ are my friend. (You or I)",
+      "question": "Replace 'my sister and I' in 'My sister and I play.'",
       "steps": [
-        "Use he or she for a person who uses that pronoun; it can refer to a thing."
+        "We includes the speaker."
       ],
-      "answer": "You"
+      "answer": "We play."
+    },
+    {
+      "question": "Replace 'the pencil' in 'The pencil is sharp.'",
+      "steps": [
+        "It replaces a thing."
+      ],
+      "answer": "It is sharp."
+    },
+    {
+      "question": "Ravi uses he. Replace Ravi in 'Ravi is kind.'",
+      "steps": [
+        "Use Ravi's pronoun."
+      ],
+      "answer": "He is kind."
+    },
+    {
+      "question": "Maya uses she. Replace Maya in 'Maya likes music.'",
+      "steps": [
+        "Use Maya's pronoun."
+      ],
+      "answer": "She likes music."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "___ am happy.",
-      "answer": "I",
-      "solution": "Answer: I"
+      "question": "My brother and I are here. ___ are here.",
+      "answer": "We",
+      "solution": "Answer: We"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "___ are my friend. (You or I)",
-      "answer": "You",
-      "solution": "Answer: You"
+      "question": "The trees are tall. ___ are tall.",
+      "answer": "They",
+      "solution": "Answer: They"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "The ball is red. ___ is red.",
+      "question": "The cup is empty. ___ is empty.",
       "answer": "It",
       "solution": "Answer: It"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Maya says she is happy. ___ is happy.",
+      "question": "___ am ready. (I or You)",
+      "answer": "I",
+      "solution": "Answer: I"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "___ are my friend. (You or I)",
+      "answer": "You",
+      "solution": "Answer: You"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Aina uses she. ___ is smiling.",
       "answer": "She",
       "solution": "Answer: She"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Ben uses he. ___ is reading.",
+      "answer": "He",
+      "solution": "Answer: He"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "My parents are busy. ___ are busy.",
+      "answer": "They",
+      "solution": "Answer: They"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "My cousin and I swim. ___ swim.",
+      "answer": "We",
+      "solution": "Answer: We"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "The train is fast. ___ is fast.",
+      "answer": "It",
+      "solution": "Answer: It"
     }
   ],
-  "summary": "These words can replace names when we know who or what we mean.",
+  "summary": "Use personal pronouns to refer to the speaker, the listener, people or things.",
   "relatedTopics": [
     "primary-1-plurals"
   ]

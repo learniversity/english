@@ -1,72 +1,138 @@
 {
   "id": "primary-1-this-that",
-  "title": "This and That",
+  "title": "This, That, These and Those",
   "level": "primary-1",
   "category": "Grammar",
   "introduction": "Practise this and that with familiar words and short sentences.",
-  "definition": "Use this for a nearby thing and that for a thing farther away.",
+  "definition": "Use this and that for one thing, and these and those for more than one thing. This and these indicate nearness; that and those indicate distance.",
   "rules": [
+    "Use this and these for things near you, and that and those for things farther away.",
+    "This and that are singular. These and those are plural.",
     "Point to something near you and say This is a ...",
     "Point to something farther away and say That is a ..."
   ],
   "grammar": [
     {
-      "expression": "This is a book.",
-      "description": "The book is near."
+      "expression": "This is",
+      "description": "One thing near you."
     },
     {
-      "expression": "That is a tree.",
-      "description": "The tree is farther away."
+      "expression": "That is",
+      "description": "One thing farther away."
+    },
+    {
+      "expression": "These are",
+      "description": "More than one thing near you."
+    },
+    {
+      "expression": "Those are",
+      "description": "More than one thing farther away."
     }
   ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "___ is my pen here. (This or That)",
+      "question": "Name one nearby mango.",
       "steps": [
-        "Point to something near you and say This is a ..."
+        "Use this for one near thing."
       ],
-      "answer": "This"
+      "answer": "This is a mango."
     },
     {
-      "question": "___ is a tree over there.",
+      "question": "Name one distant bus.",
       "steps": [
-        "Point to something farther away and say That is a ..."
+        "Use that for one distant thing."
       ],
-      "answer": "That"
+      "answer": "That is a bus."
+    },
+    {
+      "question": "Name nearby books.",
+      "steps": [
+        "Use these for nearby plural things."
+      ],
+      "answer": "These are books."
+    },
+    {
+      "question": "Name distant birds.",
+      "steps": [
+        "Use those for distant plural things."
+      ],
+      "answer": "Those are birds."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "___ is my pen here. (This or That)",
+      "question": "___ is my cup here. (This or That)",
       "answer": "This",
       "solution": "Answer: This"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "___ is a tree over there.",
+      "question": "___ is a mountain over there.",
       "answer": "That",
       "solution": "Answer: That"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "This ___ a bag.",
-      "answer": "is",
-      "solution": "Answer: is"
+      "question": "___ are my shoes here. (These or Those)",
+      "answer": "These",
+      "solution": "Answer: These"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "That is ___ apple.",
+      "question": "___ are birds far away.",
+      "answer": "Those",
+      "solution": "Answer: Those"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "This ___ a ruler.",
+      "answer": "is",
+      "solution": "Answer: is"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Those ___ trees.",
+      "answer": "are",
+      "solution": "Answer: are"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "That is ___ orange.",
       "answer": "an",
       "solution": "Answer: an"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "These are three ___. (pencil or pencils)",
+      "answer": "pencils",
+      "solution": "Answer: pencils"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "___ is a flower beside me. (This or That)",
+      "answer": "This",
+      "solution": "Answer: This"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "___ are houses across the road. (These or Those)",
+      "answer": "Those",
+      "solution": "Answer: Those"
     }
   ],
-  "summary": "Use this for a nearby thing and that for a thing farther away.",
+  "summary": "This and these are for nearby things. That and those are for things farther away.",
   "relatedTopics": [
     "primary-1-be"
   ]

@@ -6,6 +6,8 @@
   "introduction": "Practise blending and segmenting sounds with familiar words and short sentences.",
   "definition": "Blending joins sounds to read a word. Segmenting separates a word into sounds to help spell it.",
   "rules": [
+    "Blend short words with different vowels before moving to consonant clusters.",
+    "Say each sound without adding an extra vowel. In flag, hear f, l, the short a sound and g.",
     "Blend /s/ /i/ /t/ to read sit.",
     "Say stop slowly: /s/ /t/ /o/ /p/. Each sound matters."
   ],
@@ -13,48 +15,111 @@
   "vocabulary": [],
   "examples": [
     {
-      "question": "Join c-a-p.",
+      "question": "Blend d-r-u-m.",
       "steps": [
-        "Blend /s/ /i/ /t/ to read sit."
+        "Join d and r, then u and m."
       ],
-      "answer": "cap"
+      "answer": "drum"
     },
     {
-      "question": "Join s-t-o-p.",
+      "question": "Blend c-l-a-p.",
       "steps": [
-        "Say stop slowly: /s/ /t/ /o/ /p/. Each sound matters."
+        "Blend four sounds in order."
       ],
-      "answer": "stop"
+      "answer": "clap"
+    },
+    {
+      "question": "Segment the word milk.",
+      "steps": [
+        "Say each sound separately."
+      ],
+      "answer": "m-i-l-k"
+    },
+    {
+      "question": "Blend s-w-i-m.",
+      "steps": [
+        "Keep the initial s and w sounds."
+      ],
+      "answer": "swim"
+    },
+    {
+      "question": "Blend g-r-e-e-n.",
+      "steps": [
+        "The letters ee represent one long vowel sound."
+      ],
+      "answer": "green"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Join c-a-p.",
-      "answer": "cap",
-      "solution": "Answer: cap"
+      "question": "Join b-l-o-c-k.",
+      "answer": "block",
+      "solution": "Answer: block"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Join s-t-o-p.",
-      "answer": "stop",
-      "solution": "Answer: stop"
+      "question": "Join f-r-o-g.",
+      "answer": "frog",
+      "solution": "Answer: frog"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Join f-l-a-g.",
-      "answer": "flag",
-      "solution": "Answer: flag"
+      "question": "Join s-k-i-p.",
+      "answer": "skip",
+      "solution": "Answer: skip"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Write the first two letters in slip.",
-      "answer": "sl",
-      "solution": "Answer: sl"
+      "question": "Join s-t-a-r.",
+      "answer": "star",
+      "solution": "Answer: star"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Join t-r-i-p.",
+      "answer": "trip",
+      "solution": "Answer: trip"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Join s-n-a-p.",
+      "answer": "snap",
+      "solution": "Answer: snap"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Join b-r-u-s-h.",
+      "answer": "brush",
+      "solution": "Answer: brush"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Join g-r-a-s-s.",
+      "answer": "grass",
+      "solution": "Answer: grass"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Write the first two letters in clap.",
+      "answer": "cl",
+      "solution": "Answer: cl"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Write the final two letters in desk.",
+      "answer": "sk",
+      "solution": "Answer: sk"
     }
   ],
   "summary": "Blending joins sounds to read a word. Segmenting separates a word into sounds to help spell it.",

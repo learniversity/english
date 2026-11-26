@@ -6,67 +6,155 @@
   "introduction": "Practise am, is and are with familiar words and short sentences.",
   "definition": "Am, is and are help us say what someone or something is like.",
   "rules": [
+    "Use am with I, is with he, she, it and singular nouns, and are with you, we, they and plural nouns.",
+    "Am, is and are can tell us about identity, feelings, location and descriptions.",
+    "Ask questions by moving am, is or are to the beginning.",
     "Use am with I, is with he, she or it, and are with you, we or they."
   ],
   "grammar": [
     {
       "expression": "I am",
-      "description": "I am ready."
+      "description": "I am hungry."
     },
     {
       "expression": "He / she / it is",
-      "description": "It is small."
+      "description": "The rabbit is small."
     },
     {
       "expression": "You / we / they are",
-      "description": "They are happy."
+      "description": "We are in the classroom."
+    },
+    {
+      "expression": "Questions",
+      "description": "Is it cold? Are you ready?"
+    },
+    {
+      "expression": "Negatives",
+      "description": "I am not tired. It is not red. They are not late."
     }
   ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "I ___ ready.",
+      "question": "Complete: The umbrella ___ wet.",
       "steps": [
-        "Use am with I, is with he, she or it, and are with you, we or they."
+        "Umbrella is singular."
+      ],
+      "answer": "is"
+    },
+    {
+      "question": "Complete: The flowers ___ pink.",
+      "steps": [
+        "Flowers is plural."
+      ],
+      "answer": "are"
+    },
+    {
+      "question": "Complete: I ___ hungry.",
+      "steps": [
+        "Use am with I."
       ],
       "answer": "am"
     },
     {
-      "question": "It ___ blue.",
+      "question": "Turn 'She is ready' into a question.",
       "steps": [
-        "Use am with I, is with he, she or it, and are with you, we or they."
+        "Move is to the beginning."
       ],
-      "answer": "is"
+      "answer": "Is she ready?"
+    },
+    {
+      "question": "Make 'They are tired' negative.",
+      "steps": [
+        "Add not after are."
+      ],
+      "answer": "They are not tired."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "I ___ ready.",
+      "question": "I ___ at home.",
       "answer": "am",
       "solution": "Answer: am"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "It ___ blue.",
-      "answer": "is",
-      "solution": "Answer: is"
+      "question": "You ___ my friend.",
+      "answer": "are",
+      "solution": "Answer: are"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "You ___ kind.",
-      "answer": "are",
-      "solution": "Answer: are"
+      "question": "A frog ___ green.",
+      "answer": "is",
+      "solution": "Answer: is"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "They ___ here.",
+      "question": "The desks ___ clean.",
       "answer": "are",
       "solution": "Answer: are"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "She ___ in the garden.",
+      "answer": "is",
+      "solution": "Answer: is"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "We ___ happy.",
+      "answer": "are",
+      "solution": "Answer: are"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "They ___ ready.",
+      "answer": "are",
+      "solution": "Answer: are"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "The milk ___ cold.",
+      "answer": "is",
+      "solution": "Answer: is"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "___ the door open?",
+      "answer": "Is",
+      "solution": "Answer: Is"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "___ you tired?",
+      "answer": "Are",
+      "solution": "Answer: Are"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "I am ___ sad. (make negative)",
+      "answer": "not",
+      "solution": "Answer: not"
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "He ___ seven years old.",
+      "answer": "is",
+      "solution": "Answer: is"
     }
   ],
   "summary": "Am, is and are help us say what someone or something is like.",

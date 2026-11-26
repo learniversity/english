@@ -6,64 +6,171 @@
   "introduction": "Practise introducing yourself with familiar words and short sentences.",
   "definition": "Use short sentences to tell someone your name, age and how you feel.",
   "rules": [
+    "Introduce yourself with your name, age and interests. You do not need to share private information.",
+    "Use simple questions to find out another person's name, feelings or favourite activity.",
+    "Practise short dialogues with a partner.",
     "Practise asking and answering with a partner.",
     "Use a friendly voice and take turns."
   ],
   "grammar": [
     {
-      "expression": "What is your name?",
-      "description": "Ask someone their name."
+      "expression": "My name is ...",
+      "description": "Introduce your name."
     },
     {
-      "expression": "I am seven.",
-      "description": "Tell someone your age."
+      "expression": "I am ... years old.",
+      "description": "Say your age."
+    },
+    {
+      "expression": "I live in ...",
+      "description": "Name a general place, if appropriate."
+    },
+    {
+      "expression": "I like ...",
+      "description": "Talk about an interest."
+    },
+    {
+      "expression": "Nice to meet you.",
+      "description": "Greet someone you have just met."
+    },
+    {
+      "expression": "How are you?",
+      "description": "Ask how someone feels."
     }
   ],
-  "vocabulary": [],
-  "examples": [
+  "vocabulary": [
     {
-      "question": "My ___ is Ali.",
-      "steps": [
-        "Practise asking and answering with a partner."
-      ],
-      "answer": "name"
+      "expression": "name",
+      "description": "A word used to identify a person."
     },
     {
-      "question": "I ___ seven.",
+      "expression": "age",
+      "description": "How old someone is."
+    },
+    {
+      "expression": "friend",
+      "description": "Someone you know and enjoy spending time with."
+    },
+    {
+      "expression": "hobby",
+      "description": "Something you enjoy doing."
+    },
+    {
+      "expression": "favourite",
+      "description": "Something you like most."
+    },
+    {
+      "expression": "classmate",
+      "description": "Someone in your class."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Aina says, 'Hello, my name is Aina.' What could Ben reply?",
       "steps": [
-        "Use a friendly voice and take turns."
+        "Introduce yourself in return."
       ],
-      "answer": "am"
+      "answer": "Hello, Aina. My name is Ben."
+    },
+    {
+      "question": "How could you answer 'How old are you?'",
+      "steps": [
+        "Use I am with an age."
+      ],
+      "answer": "I am seven years old."
+    },
+    {
+      "question": "How could you say you enjoy painting?",
+      "steps": [
+        "Use I like followed by an activity."
+      ],
+      "answer": "I like painting."
+    },
+    {
+      "question": "How can you greet a new classmate politely?",
+      "steps": [
+        "This expression suits a first meeting."
+      ],
+      "answer": "Nice to meet you."
+    },
+    {
+      "question": "How could you answer 'How are you?'",
+      "steps": [
+        "Give a friendly short reply."
+      ],
+      "answer": "I am fine, thank you."
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "My ___ is Ali.",
+      "question": "My ___ is Lina.",
       "answer": "name",
       "solution": "Answer: name"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "I ___ seven.",
-      "answer": "am",
-      "solution": "Answer: am"
+      "question": "I am seven years ___.",
+      "answer": "old",
+      "solution": "Answer: old"
     },
     {
       "id": "q3",
+      "type": "text",
+      "question": "Nice to ___ you.",
+      "answer": "meet",
+      "solution": "Answer: meet"
+    },
+    {
+      "id": "q4",
       "type": "text",
       "question": "How ___ you?",
       "answer": "are",
       "solution": "Answer: are"
     },
     {
-      "id": "q4",
+      "id": "q5",
       "type": "text",
-      "question": "I am fine, thank ___.",
-      "answer": "you",
-      "solution": "Answer: you"
+      "question": "I ___ drawing. (like or likes)",
+      "answer": "like",
+      "solution": "Answer: like"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "What is your favourite ___? (colour or colours)",
+      "answer": "colour",
+      "solution": "Answer: colour"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "I am ___, thank you. (fine or fines)",
+      "answer": "fine",
+      "solution": "Answer: fine"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Complete: Good ___ (a greeting early in the day).",
+      "answer": "morning",
+      "solution": "Answer: morning"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Complete: See you ___ (when leaving until another day).",
+      "answer": "tomorrow",
+      "solution": "Answer: tomorrow"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Complete: This is my ___. (someone in my class)",
+      "answer": "classmate",
+      "solution": "Answer: classmate"
     }
   ],
   "summary": "Use short sentences to tell someone your name, age and how you feel.",

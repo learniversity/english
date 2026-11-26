@@ -6,55 +6,154 @@
   "introduction": "Practise common letter patterns with familiar words and short sentences.",
   "definition": "Two letters can work together to represent one sound, such as sh in ship.",
   "rules": [
+    "A digraph is two letters working together to represent a sound, such as sh in shell.",
+    "Learn patterns in context: sh, ch, th, ng, ck, ee, oo and ai. The same spelling may have different sounds in different words.",
+    "Listen to the voiced th in this and the unvoiced th in thin.",
     "Read ship, shop, chin, chat and thin aloud.",
     "Do not pronounce the two letters separately when they represent one sound."
   ],
-  "grammar": [],
+  "grammar": [
+    {
+      "expression": "sh",
+      "description": "shop, shell, dish"
+    },
+    {
+      "expression": "ch",
+      "description": "chair, cheese, lunch"
+    },
+    {
+      "expression": "th",
+      "description": "thin, three, bath"
+    },
+    {
+      "expression": "ng",
+      "description": "ring, sing, king"
+    },
+    {
+      "expression": "ck",
+      "description": "duck, neck, sock"
+    },
+    {
+      "expression": "ee",
+      "description": "tree, bee, feet"
+    },
+    {
+      "expression": "oo",
+      "description": "moon, spoon, room"
+    },
+    {
+      "expression": "ai",
+      "description": "rain, train, tail"
+    }
+  ],
   "vocabulary": [],
   "examples": [
     {
-      "question": "Complete: __ip (a boat; sh or ch).",
+      "question": "Complete the word __ell (sh or ch).",
       "steps": [
-        "Read ship, shop, chin, chat and thin aloud."
+        "Sh forms the first sound."
       ],
-      "answer": "sh"
+      "answer": "shell"
     },
     {
-      "question": "Complete: __air (a seat; sh or ch).",
+      "question": "Complete: lu__ (nch or sh), a midday meal.",
       "steps": [
-        "Do not pronounce the two letters separately when they represent one sound."
+        "The word ends in the ch sound."
       ],
-      "answer": "ch"
+      "answer": "lunch"
+    },
+    {
+      "question": "Find the pattern in ring.",
+      "steps": [
+        "The last two letters represent the sound at the end."
+      ],
+      "answer": "ng"
+    },
+    {
+      "question": "Complete: tr__ (ee or ai), a tall plant.",
+      "steps": [
+        "Ee represents the long vowel sound."
+      ],
+      "answer": "tree"
+    },
+    {
+      "question": "Complete: r__n (ai or ee), water falling from the sky.",
+      "steps": [
+        "Ai represents the vowel sound."
+      ],
+      "answer": "rain"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "text",
-      "question": "Complete: __ip (a boat; sh or ch).",
+      "question": "Complete: __op (sh or ch), a place to buy things.",
       "answer": "sh",
       "solution": "Answer: sh"
     },
     {
       "id": "q2",
       "type": "text",
-      "question": "Complete: __air (a seat; sh or ch).",
+      "question": "Complete: __eese (ch or th), a dairy food.",
       "answer": "ch",
       "solution": "Answer: ch"
     },
     {
       "id": "q3",
       "type": "text",
-      "question": "Complete: __in (not thick; th or sh).",
+      "question": "Complete: __ree (th or sh), number 3.",
       "answer": "th",
       "solution": "Answer: th"
     },
     {
       "id": "q4",
       "type": "text",
-      "question": "Which word begins with the same sound as shop: ship or cat?",
-      "answer": "ship",
-      "solution": "Answer: ship"
+      "question": "Complete: ri__ (ng or ck), jewellery for a finger.",
+      "answer": "ng",
+      "solution": "Answer: ng"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Complete: ne__ (ck or ng), joins the head to the body.",
+      "answer": "ck",
+      "solution": "Answer: ck"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Complete: f__t (ee or ai), plural of foot.",
+      "answer": "ee",
+      "solution": "Answer: ee"
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Complete: sp__n (oo or ee), a tool for eating soup.",
+      "answer": "oo",
+      "solution": "Answer: oo"
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Complete: tr__n (ai or ee), a railway vehicle.",
+      "answer": "ai",
+      "solution": "Answer: ai"
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Which begins like chair: cheese or shell?",
+      "answer": "cheese",
+      "solution": "Answer: cheese"
+    },
+    {
+      "id": "q10",
+      "type": "text",
+      "question": "Which ends like sing: king or sock?",
+      "answer": "king",
+      "solution": "Answer: king"
     }
   ],
   "summary": "Two letters can work together to represent one sound, such as sh in ship.",
