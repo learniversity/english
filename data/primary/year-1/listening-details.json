@@ -56,91 +56,91 @@
       "type": "text",
       "question": "Listen or read: Lina has a yellow hat. What colour is the hat?",
       "answer": "yellow",
-      "solution": "Answer: yellow"
+      "solution": "Listen for the colour describing Lina's hat."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Listen or read: Ravi buys three oranges. How many oranges? (write in words)",
       "answer": "three",
-      "solution": "Answer: three"
+      "solution": "Listen for the number immediately before oranges."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Listen or read: Anna puts a book on a shelf. What does she put on the shelf?",
       "answer": "book",
-      "solution": "Answer: book"
+      "solution": "Find the object Anna puts on the shelf."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Listen or read: Sam visits the park on Sunday. Where does Sam go?",
       "answer": "park",
-      "solution": "Answer: park"
+      "solution": "Find the place Sam visits, rather than the day."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Listen or read: Mei rides a bicycle to school. What does Mei ride?",
       "answer": "bicycle",
-      "solution": "Answer: bicycle"
+      "solution": "Find the vehicle Mei rides to school."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Listen or read: A cat sleeps under a chair. Which animal sleeps?",
       "answer": "cat",
-      "solution": "Answer: cat"
+      "solution": "Identify the animal mentioned before sleeps."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Listen or read: Ali drinks milk after breakfast. What does Ali drink?",
       "answer": "milk",
-      "solution": "Answer: milk"
+      "solution": "Listen for the drink mentioned after Ali drinks."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Listen or read: Two ducks swim in a pond. How many ducks? (write in words)",
       "answer": "two",
-      "solution": "Answer: two"
+      "solution": "Listen for the number before ducks and write it as a word."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Listen or read: Aina opens the window. What does she open?",
       "answer": "window",
-      "solution": "Answer: window"
+      "solution": "Find the object Aina opens."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Listen or read: Ben has a green pencil case. What colour is it?",
       "answer": "green",
-      "solution": "Answer: green"
+      "solution": "Listen for the colour describing the pencil case."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Partner reads: Tom has a dog. He feeds it and walks it every day. What is the message mainly about: Tom's dog or his school?",
       "answer": "Tom's dog",
-      "solution": "Answer: Tom's dog"
+      "solution": "The message describes the animal Tom feeds and walks."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "Partner reads: Aina puts on her shoes, takes her bag and goes to school. Where is she going?",
       "answer": "school",
-      "solution": "Answer: school"
+      "solution": "The final action tells you Aina's destination."
     },
     {
       "id": "q13",
       "type": "text",
       "question": "Partner reads: The little cat is lost. Mei finds it and takes it home. What animal is the story about?",
       "answer": "cat",
-      "solution": "Answer: cat"
+      "solution": "The story describes the animal Mei finds and takes home."
     }
   ],
   "summary": "Listen for who, what and where. A short spoken message may contain several details.",
