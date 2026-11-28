@@ -82,70 +82,70 @@
       "type": "text",
       "question": "My brother and I are here. ___ are here.",
       "answer": "We",
-      "solution": "Answer: We"
+      "solution": "Use we for yourself and another person together."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "The trees are tall. ___ are tall.",
       "answer": "They",
-      "solution": "Answer: They"
+      "solution": "Use they for more than one thing."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "The cup is empty. ___ is empty.",
       "answer": "It",
-      "solution": "Answer: It"
+      "solution": "Use it for one object."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "___ am ready. (I or You)",
       "answer": "I",
-      "solution": "Answer: I"
+      "solution": "The verb am goes with I."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "___ are my friend. (You or I)",
       "answer": "You",
-      "solution": "Answer: You"
+      "solution": "Use you when speaking directly to another person."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Aina uses she. ___ is smiling.",
       "answer": "She",
-      "solution": "Answer: She"
+      "solution": "Use the pronoun Aina uses, with a capital letter at the start."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Ben uses he. ___ is reading.",
       "answer": "He",
-      "solution": "Answer: He"
+      "solution": "Use the pronoun Ben uses, with a capital letter at the start."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "My parents are busy. ___ are busy.",
       "answer": "They",
-      "solution": "Answer: They"
+      "solution": "Use they to replace a plural subject."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "My cousin and I swim. ___ swim.",
       "answer": "We",
-      "solution": "Answer: We"
+      "solution": "Use we when the subject includes yourself."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "The train is fast. ___ is fast.",
       "answer": "It",
-      "solution": "Answer: It"
+      "solution": "Use it for a single thing such as a train."
     }
   ],
   "summary": "Use personal pronouns to refer to the speaker, the listener, people or things.",
