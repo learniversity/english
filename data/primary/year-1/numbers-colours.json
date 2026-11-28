@@ -239,84 +239,84 @@
       "type": "text",
       "question": "Write 11 in words.",
       "answer": "eleven",
-      "solution": "Answer: eleven"
+      "solution": "Spell the number word e-l-e-v-e-n."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Write 13 in words.",
       "answer": "thirteen",
-      "solution": "Answer: thirteen"
+      "solution": "Thirteen uses the stem thir- and the ending -teen."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Write 18 in words.",
       "answer": "eighteen",
-      "solution": "Answer: eighteen"
+      "solution": "Spell eighteen with one t: e-i-g-h-t-e-e-n."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Write 20 in words.",
       "answer": "twenty",
-      "solution": "Answer: twenty"
+      "solution": "Spell the number word t-w-e-n-t-y."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Write 30 in words.",
       "answer": "thirty",
-      "solution": "Answer: thirty"
+      "solution": "Thirty uses the stem thir- and the ending -ty."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Write 40 in words.",
       "answer": "forty",
-      "solution": "Answer: forty"
+      "solution": "Forty is spelled f-o-r-t-y, without a u."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Write 100 in words.",
       "answer": "one hundred",
-      "solution": "Answer: one hundred"
+      "solution": "One hundred is the number word for ten groups of ten."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Complete: two blue ___. (pen or pens)",
       "answer": "pens",
-      "solution": "Answer: pens"
+      "solution": "Two requires a plural noun; add s to pen."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Name the colour of fresh snow.",
       "answer": "white",
-      "solution": "Answer: white"
+      "solution": "Fresh snow usually looks white."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Name the colour of many leaves.",
       "answer": "green",
-      "solution": "Answer: green"
+      "solution": "Many leaves are green because they contain chlorophyll."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Name the rainbow colour between red and yellow.",
       "answer": "orange",
-      "solution": "Answer: orange"
+      "solution": "The rainbow begins red, orange, yellow."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "What colour lies between blue and violet in the traditional rainbow list?",
       "answer": "indigo",
-      "solution": "Answer: indigo"
+      "solution": "The traditional rainbow order ends blue, indigo, violet."
     }
   ],
   "summary": "Number words tell how many. Colour words describe objects.",
