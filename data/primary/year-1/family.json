@@ -151,70 +151,70 @@
       "type": "text",
       "question": "Your mother's brother is your ___.",
       "answer": "uncle",
-      "solution": "Answer: uncle"
+      "solution": "A parent's brother is your uncle."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Your father's sister is your ___.",
       "answer": "aunt",
-      "solution": "Answer: aunt"
+      "solution": "A parent's sister is your aunt."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Your aunt's child is your ___.",
       "answer": "cousin",
-      "solution": "Answer: cousin"
+      "solution": "The child of your aunt or uncle is your cousin."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Brothers and sisters are called ___.",
       "answer": "siblings",
-      "solution": "Answer: siblings"
+      "solution": "Siblings is the collective term for brothers and sisters."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "A female child in relation to her parent is a ___.",
       "answer": "daughter",
-      "solution": "Answer: daughter"
+      "solution": "A daughter is a female child in relation to her parent."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "A male child in relation to his parent is a ___.",
       "answer": "son",
-      "solution": "Answer: son"
+      "solution": "A son is a male child in relation to his parent."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Your parent's parents are your ___.",
       "answer": "grandparents",
-      "solution": "Answer: grandparents"
+      "solution": "Grandparents are the parents of your parents."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "The plural of child is ___.",
       "answer": "children",
-      "solution": "Answer: children"
+      "solution": "Child has an irregular plural; do not add s."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "A person related to you is a ___.",
       "answer": "relative",
-      "solution": "Answer: relative"
+      "solution": "A relative is someone connected to you through family."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Someone who has lived longer than you is ___.",
       "answer": "older",
-      "solution": "Answer: older"
+      "solution": "Older compares the ages of two people and describes the one who has lived longer."
     }
   ],
   "summary": "Describe family members and familiar relationships.",
