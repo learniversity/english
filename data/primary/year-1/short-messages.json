@@ -32,35 +32,35 @@
       "type": "text",
       "question": "Complete a birthday greeting: Happy ___!",
       "answer": "Birthday",
-      "solution": "Answer: Birthday"
+      "solution": "Use the greeting that celebrates someone's birthday."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Complete a thank-you note: Thank ___, Mum.",
       "answer": "you",
-      "solution": "Answer: you"
+      "solution": "Thank you is the usual expression of gratitude."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Complete a note: Dear Ben, please bring your ___. (book or books; use one book)",
       "answer": "book",
-      "solution": "Answer: book"
+      "solution": "The instruction asks for one item, so use the singular noun."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Complete a farewell message: See you ___. (tomorrow or yesterday)",
       "answer": "tomorrow",
-      "solution": "Answer: tomorrow"
+      "solution": "Tomorrow refers to the day after today; yesterday is in the past."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Complete a greeting: Good ___! (early in the day)",
       "answer": "morning",
-      "solution": "Answer: morning"
+      "solution": "Use the greeting for the early part of the day."
     }
   ],
   "summary": "Write a short greeting, thank-you note or message using a model. Begin with a capital letter and use clear spacing.",
