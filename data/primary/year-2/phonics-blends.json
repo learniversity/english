@@ -1,0 +1,93 @@
+{
+  "id": "primary-2-phonics-blends",
+  "title": "Consonant Blends and Word Endings",
+  "level": "primary-2",
+  "category": "Phonics",
+  "introduction": "Blend adjacent consonant sounds and recognise word endings.",
+  "definition": "Blend adjacent consonant sounds and recognise word endings.",
+  "rules": [
+    "In a blend, each consonant keeps a sound.",
+    "Read the word slowly, then blend the sounds."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "st",
+      "description": "as in star"
+    },
+    {
+      "expression": "tr",
+      "description": "as in train"
+    },
+    {
+      "expression": "pl",
+      "description": "as in plum"
+    },
+    {
+      "expression": "nd",
+      "description": "as in hand"
+    }
+  ],
+  "examples": [
+    {
+      "question": "Complete: __ar (st or pl), an object in the night sky.",
+      "steps": [
+        "The word star begins with the /s/ and /t/ sounds."
+      ],
+      "answer": "st"
+    },
+    {
+      "question": "Complete: __ain (tr or bl), a railway vehicle.",
+      "steps": [
+        "Train starts with t and r."
+      ],
+      "answer": "tr"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete: __ar (st or pl), an object in the night sky.",
+      "answer": "st",
+      "solution": "The word star begins with the /s/ and /t/ sounds."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: __ain (tr or bl), a railway vehicle.",
+      "answer": "tr",
+      "solution": "Train starts with t and r."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: __um (pl or st), a fruit.",
+      "answer": "pl",
+      "solution": "Plum starts with p and l."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: ha__ (nd or st), a body part.",
+      "answer": "nd",
+      "solution": "Hand ends with n and d."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which starts like clap: clock or frog?",
+      "answer": "clock",
+      "solution": "Both words begin with the cl blend."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which ends like best: nest or bell?",
+      "answer": "nest",
+      "solution": "Both words finish with the st blend."
+    }
+  ],
+  "summary": "Blend adjacent consonant sounds and recognise word endings. In a blend, each consonant keeps a sound.",
+  "relatedTopics": []
+}

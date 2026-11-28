@@ -1,0 +1,76 @@
+{
+  "id": "primary-2-reading-notices",
+  "title": "Reading Signs, Notices and Timetables",
+  "level": "primary-2",
+  "category": "Reading",
+  "introduction": "Find information in short everyday texts and simple schedules.",
+  "definition": "Find information in short everyday texts and simple schedules.",
+  "rules": [
+    "Read headings, labels and times carefully.",
+    "Choose the detail that matches the question."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Notice: Library opens at 9 am. When does it open?",
+      "steps": [
+        "The time after opens at gives the answer."
+      ],
+      "answer": "9 am"
+    },
+    {
+      "question": "Sign: Please keep off the grass. Can you walk on the grass? (yes or no)",
+      "steps": [
+        "Keep off means do not step onto the grass."
+      ],
+      "answer": "no"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Notice: Library opens at 9 am. When does it open?",
+      "answer": "9 am",
+      "solution": "The time after opens at gives the answer."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Sign: Please keep off the grass. Can you walk on the grass? (yes or no)",
+      "answer": "no",
+      "solution": "Keep off means do not step onto the grass."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Club timetable: Monday – art; Tuesday – football. Which day is art?",
+      "answer": "Monday",
+      "solution": "Match the activity art to its day."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Notice: Bring a hat on Friday. What should you bring?",
+      "answer": "a hat",
+      "solution": "The item after bring is required."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Sign: Exit. Does it show a way in or a way out?",
+      "answer": "a way out",
+      "solution": "Exit means a place for leaving."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Menu: Soup RM3; rice RM4. Which costs RM4?",
+      "answer": "rice",
+      "solution": "Match the price to the food in the menu."
+    }
+  ],
+  "summary": "Find information in short everyday texts and simple schedules. Read headings, labels and times carefully.",
+  "relatedTopics": []
+}

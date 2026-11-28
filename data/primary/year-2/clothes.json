@@ -1,0 +1,93 @@
+{
+  "id": "primary-2-clothes",
+  "title": "Clothes and Accessories",
+  "level": "primary-2",
+  "category": "Vocabulary",
+  "introduction": "Name and describe clothing for different activities and weather.",
+  "definition": "Name and describe clothing for different activities and weather.",
+  "rules": [
+    "Use plural words such as trousers and shorts.",
+    "Describe clothing with colour or size before the noun."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "jacket",
+      "description": "a garment worn over other clothes"
+    },
+    {
+      "expression": "scarf",
+      "description": "cloth worn around the neck"
+    },
+    {
+      "expression": "trainers",
+      "description": "shoes for sports or casual wear"
+    },
+    {
+      "expression": "belt",
+      "description": "a strip worn around the waist"
+    }
+  ],
+  "examples": [
+    {
+      "question": "What can you wear around your neck? (scarf or shoes)",
+      "steps": [
+        "A scarf can be wrapped around the neck."
+      ],
+      "answer": "scarf"
+    },
+    {
+      "question": "What holds trousers at the waist?",
+      "steps": [
+        "A belt goes around the waist."
+      ],
+      "answer": "belt"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "What can you wear around your neck? (scarf or shoes)",
+      "answer": "scarf",
+      "solution": "A scarf can be wrapped around the neck."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What holds trousers at the waist?",
+      "answer": "belt",
+      "solution": "A belt goes around the waist."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which shoes are suitable for running: trainers or slippers?",
+      "answer": "trainers",
+      "solution": "Trainers are designed for active movement."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: These ___ my shorts.",
+      "answer": "are",
+      "solution": "Shorts is plural."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which is usually worn over a shirt: jacket or sock?",
+      "answer": "jacket",
+      "solution": "A jacket is an outer garment."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Put in order: shoes / red",
+      "answer": "red shoes",
+      "solution": "A colour adjective normally comes before the noun."
+    }
+  ],
+  "summary": "Name and describe clothing for different activities and weather. Use plural words such as trousers and shorts.",
+  "relatedTopics": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": "primary-2-beach",
+  "title": "At the Beach",
+  "level": "primary-2",
+  "category": "Vocabulary",
+  "introduction": "Use words for the beach, sea and outdoor activities.",
+  "definition": "Use words for the beach, sea and outdoor activities.",
+  "rules": [
+    "Describe beach objects and activities in short sentences.",
+    "Use safe, familiar examples."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "sandcastle",
+      "description": "a shape made from sand"
+    },
+    {
+      "expression": "shell",
+      "description": "hard covering of some sea animals"
+    },
+    {
+      "expression": "waves",
+      "description": "moving ridges of water"
+    },
+    {
+      "expression": "bucket",
+      "description": "container with a handle"
+    }
+  ],
+  "examples": [
+    {
+      "question": "What can you build from wet sand?",
+      "steps": [
+        "Sand can be shaped into a model castle."
+      ],
+      "answer": "sandcastle"
+    },
+    {
+      "question": "What container can carry sand? (bucket or towel)",
+      "steps": [
+        "A bucket is a container with a handle."
+      ],
+      "answer": "bucket"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "What can you build from wet sand?",
+      "answer": "sandcastle",
+      "solution": "Sand can be shaped into a model castle."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What container can carry sand? (bucket or towel)",
+      "answer": "bucket",
+      "solution": "A bucket is a container with a handle."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What do you dry yourself with?",
+      "answer": "towel",
+      "solution": "A towel absorbs water."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What moves towards the shore? (waves or chairs)",
+      "answer": "waves",
+      "solution": "Waves are moving ridges of water."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "What can protect your head from the sun? (hat or socks)",
+      "answer": "hat",
+      "solution": "A hat shades the head."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Complete: We walk ___ the beach. (along or inside)",
+      "answer": "along",
+      "solution": "Along describes movement following the length of a place."
+    }
+  ],
+  "summary": "Use words for the beach, sea and outdoor activities. Describe beach objects and activities in short sentences.",
+  "relatedTopics": []
+}

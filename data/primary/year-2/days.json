@@ -1,0 +1,90 @@
+{
+  "id": "primary-2-days",
+  "title": "Days and Weekly Routines",
+  "level": "primary-2",
+  "category": "Vocabulary",
+  "introduction": "Name the days of the week and talk about weekly activities.",
+  "definition": "Name the days of the week and talk about weekly activities.",
+  "rules": [
+    "Days are written with capital letters.",
+    "Use on before a day of the week."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "Monday",
+      "description": "the day after Sunday"
+    },
+    {
+      "expression": "Friday",
+      "description": "the day before Saturday"
+    },
+    {
+      "expression": "weekend",
+      "description": "Saturday and Sunday in many places"
+    }
+  ],
+  "examples": [
+    {
+      "question": "Which day follows Monday?",
+      "steps": [
+        "The sequence begins Monday, Tuesday, Wednesday."
+      ],
+      "answer": "Tuesday"
+    },
+    {
+      "question": "Which day comes before Friday?",
+      "steps": [
+        "Say Wednesday, Thursday, Friday in order."
+      ],
+      "answer": "Thursday"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which day follows Monday?",
+      "answer": "Tuesday",
+      "solution": "The sequence begins Monday, Tuesday, Wednesday."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which day comes before Friday?",
+      "answer": "Thursday",
+      "solution": "Say Wednesday, Thursday, Friday in order."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: I play on ___. (the day after Friday)",
+      "answer": "Saturday",
+      "solution": "Saturday follows Friday."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: We read ___ Wednesday.",
+      "answer": "on",
+      "solution": "Use on before a named day."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Correct the day name: sunday",
+      "answer": "Sunday",
+      "solution": "Day names begin with a capital letter.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which day comes between Tuesday and Thursday?",
+      "answer": "Wednesday",
+      "solution": "Wednesday is the middle day in that sequence."
+    }
+  ],
+  "summary": "Name the days of the week and talk about weekly activities. Days are written with capital letters.",
+  "relatedTopics": []
+}

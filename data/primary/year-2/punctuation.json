@@ -1,0 +1,82 @@
+{
+  "id": "primary-2-punctuation",
+  "title": "Capital Letters and Sentence Endings",
+  "level": "primary-2",
+  "category": "Writing",
+  "introduction": "Write sentences with correct capital letters and punctuation.",
+  "definition": "Write sentences with correct capital letters and punctuation.",
+  "rules": [
+    "Start sentences and proper names with capital letters.",
+    "Use full stops for statements and question marks for direct questions."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Correct: i play on monday.",
+      "steps": [
+        "Capitalise I and the name of the day."
+      ],
+      "answer": "I play on Monday."
+    },
+    {
+      "question": "Add punctuation: Where is my scarf",
+      "steps": [
+        "A direct question ends with a question mark."
+      ],
+      "answer": "Where is my scarf?"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Correct: i play on monday.",
+      "answer": "I play on Monday.",
+      "solution": "Capitalise I and the name of the day.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Add punctuation: Where is my scarf",
+      "answer": "Where is my scarf?",
+      "solution": "A direct question ends with a question mark.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Correct: ali lives in malaysia.",
+      "answer": "Ali lives in Malaysia.",
+      "solution": "Capitalise the person's name and country name.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Add punctuation: We are at the beach",
+      "answer": "We are at the beach.",
+      "solution": "A statement ends with a full stop.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Add punctuation to show excitement: Hooray",
+      "answer": "Hooray!",
+      "solution": "An exclamation mark can show excitement.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Correct: she reads on friday.",
+      "answer": "She reads on Friday.",
+      "solution": "Capitalise the first word and the day name.",
+      "caseSensitive": true
+    }
+  ],
+  "summary": "Write sentences with correct capital letters and punctuation. Start sentences and proper names with capital letters.",
+  "relatedTopics": []
+}

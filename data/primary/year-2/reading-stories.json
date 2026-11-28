@@ -1,0 +1,76 @@
+{
+  "id": "primary-2-reading-stories",
+  "title": "Reading Short Stories",
+  "level": "primary-2",
+  "category": "Reading",
+  "introduction": "Read short narratives and identify their main ideas and details.",
+  "definition": "Read short narratives and identify their main ideas and details.",
+  "rules": [
+    "Read the whole story before answering.",
+    "Look for who, where, what happened and why."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Aina takes a kite to the park. The wind is strong. She flies it with Ben. Where does she go?",
+      "steps": [
+        "The first sentence names the destination."
+      ],
+      "answer": "park"
+    },
+    {
+      "question": "Mei finds a wet puppy. She gives it a towel. Which animal does she help?",
+      "steps": [
+        "The first sentence introduces the animal."
+      ],
+      "answer": "puppy"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Aina takes a kite to the park. The wind is strong. She flies it with Ben. Where does she go?",
+      "answer": "park",
+      "solution": "The first sentence names the destination."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Mei finds a wet puppy. She gives it a towel. Which animal does she help?",
+      "answer": "puppy",
+      "solution": "The first sentence introduces the animal."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Ravi plants a seed. He waters it each day. A leaf appears. What is the story about: growing a plant or playing tennis?",
+      "answer": "growing a plant",
+      "solution": "All the actions relate to planting and growth."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Lina loses her cap. She finds it under the chair. Where is the cap?",
+      "answer": "under the chair",
+      "solution": "The second sentence gives its location."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Tom packs a towel because he is going swimming. Why does he need the towel? (to dry himself or to draw)",
+      "answer": "to dry himself",
+      "solution": "A towel is used to dry the body after swimming."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Ben drops his books. Sara helps him pick them up. Who helps Ben?",
+      "answer": "Sara",
+      "solution": "The second sentence names the person who helps."
+    }
+  ],
+  "summary": "Read short narratives and identify their main ideas and details. Read the whole story before answering.",
+  "relatedTopics": []
+}

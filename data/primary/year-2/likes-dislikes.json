@@ -1,0 +1,89 @@
+{
+  "id": "primary-2-likes-dislikes",
+  "title": "Likes and Dislikes",
+  "level": "primary-2",
+  "category": "Speaking",
+  "introduction": "Ask and answer about preferences in everyday conversations.",
+  "definition": "Ask and answer about preferences in everyday conversations.",
+  "rules": [
+    "Use like or don't like with I.",
+    "Ask Do you like ...? and answer Yes, I do or No, I don't."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "I like apples.",
+      "description": "express a preference"
+    },
+    {
+      "expression": "I don't like onions.",
+      "description": "express a dislike"
+    },
+    {
+      "expression": "Do you like swimming?",
+      "description": "ask about an activity"
+    }
+  ],
+  "examples": [
+    {
+      "question": "Complete: Do you ___ music?",
+      "steps": [
+        "Use the base verb after do."
+      ],
+      "answer": "like"
+    },
+    {
+      "question": "Do you like rice? Yes, I ___.",
+      "steps": [
+        "A positive short reply repeats do."
+      ],
+      "answer": "do"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete: Do you ___ music?",
+      "answer": "like",
+      "solution": "Use the base verb after do."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Do you like rice? Yes, I ___.",
+      "answer": "do",
+      "solution": "A positive short reply repeats do."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Do you like rain? No, I ___. (don't or am)",
+      "answer": "don't",
+      "solution": "Use don't for a negative short reply."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "She ___ bananas. (likes or like)",
+      "answer": "likes",
+      "solution": "Add -s to like with she."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "I like ___ pictures. (drawing or draws)",
+      "answer": "drawing",
+      "solution": "The -ing form names an enjoyable activity."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "He does not ___ fish. (like or likes)",
+      "answer": "like",
+      "solution": "Use the base verb after does not."
+    }
+  ],
+  "summary": "Ask and answer about preferences in everyday conversations. Use like or don't like with I.",
+  "relatedTopics": []
+}

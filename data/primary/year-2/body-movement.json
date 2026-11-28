@@ -1,0 +1,93 @@
+{
+  "id": "primary-2-body-movement",
+  "title": "Body Parts and Movement",
+  "level": "primary-2",
+  "category": "Vocabulary",
+  "introduction": "Describe the body and how it moves.",
+  "definition": "Describe the body and how it moves.",
+  "rules": [
+    "Use body-part words to describe movements.",
+    "Use can followed by an action verb."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "shoulder",
+      "description": "joint area connecting the arm to the body"
+    },
+    {
+      "expression": "wrist",
+      "description": "joint connecting the hand and forearm"
+    },
+    {
+      "expression": "bend",
+      "description": "make a body part curve"
+    },
+    {
+      "expression": "stretch",
+      "description": "extend a body part"
+    }
+  ],
+  "examples": [
+    {
+      "question": "Which joint connects the hand to the arm?",
+      "steps": [
+        "The wrist joins the hand and forearm."
+      ],
+      "answer": "wrist"
+    },
+    {
+      "question": "Which joint bends your leg?",
+      "steps": [
+        "The knee allows the upper and lower leg to bend."
+      ],
+      "answer": "knee"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which joint connects the hand to the arm?",
+      "answer": "wrist",
+      "solution": "The wrist joins the hand and forearm."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which joint bends your leg?",
+      "answer": "knee",
+      "solution": "The knee allows the upper and lower leg to bend."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: I can ___ my arms out. (stretch or drink)",
+      "answer": "stretch",
+      "solution": "Stretch means extend a body part."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "What body part is between your head and shoulders?",
+      "answer": "neck",
+      "solution": "The neck connects the head and body."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Complete: She can ___ on one foot. (hop or hops)",
+      "answer": "hop",
+      "solution": "After can, use the base verb."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which body part helps you grasp a pencil: fingers or toes?",
+      "answer": "fingers",
+      "solution": "Fingers on the hand can hold objects."
+    }
+  ],
+  "summary": "Describe the body and how it moves. Use body-part words to describe movements.",
+  "relatedTopics": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": "primary-2-phonics-digraphs",
+  "title": "Consonant Digraphs",
+  "level": "primary-2",
+  "category": "Phonics",
+  "introduction": "Recognise letter pairs that work together to make sounds.",
+  "definition": "Recognise letter pairs that work together to make sounds.",
+  "rules": [
+    "Practise sh, ch, th, ng and wh in familiar words.",
+    "Say the sound before blending the whole word."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "sh",
+      "description": "ship"
+    },
+    {
+      "expression": "ch",
+      "description": "chair"
+    },
+    {
+      "expression": "th",
+      "description": "three"
+    },
+    {
+      "expression": "ng",
+      "description": "ring"
+    }
+  ],
+  "examples": [
+    {
+      "question": "Complete: __ip (sh or ch), a large vessel.",
+      "steps": [
+        "Ship begins with the sh sound."
+      ],
+      "answer": "sh"
+    },
+    {
+      "question": "Complete: __air (ch or sh), something to sit on.",
+      "steps": [
+        "Chair starts with the ch sound."
+      ],
+      "answer": "ch"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete: __ip (sh or ch), a large vessel.",
+      "answer": "sh",
+      "solution": "Ship begins with the sh sound."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: __air (ch or sh), something to sit on.",
+      "answer": "ch",
+      "solution": "Chair starts with the ch sound."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: __ree (th or ch), the number after two.",
+      "answer": "th",
+      "solution": "Three begins with the th sound."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: ri__ (ng or sh), jewellery.",
+      "answer": "ng",
+      "solution": "Ring ends with the ng sound."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which starts like whale: wheel or chair?",
+      "answer": "wheel",
+      "solution": "Whale and wheel share the wh spelling pattern."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which ends like fish: dish or ring?",
+      "answer": "dish",
+      "solution": "Fish and dish end in the sh sound."
+    }
+  ],
+  "summary": "Recognise letter pairs that work together to make sounds. Practise sh, ch, th, ng and wh in familiar words.",
+  "relatedTopics": []
+}

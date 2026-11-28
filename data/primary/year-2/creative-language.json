@@ -1,0 +1,76 @@
+{
+  "id": "primary-2-creative-language",
+  "title": "Rhymes, Chants and Story Responses",
+  "level": "primary-2",
+  "category": "Language Arts",
+  "introduction": "Enjoy rhythm and respond to characters, actions and settings in short texts.",
+  "definition": "Enjoy rhythm and respond to characters, actions and settings in short texts.",
+  "rules": [
+    "Say rhyming lines aloud and listen to their rhythm.",
+    "Name characters and settings, and create short original lines with a partner."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Complete the rhyme: I see a bright light, shining in the ___. (night or day)",
+      "steps": [
+        "Light and night have matching ending sounds."
+      ],
+      "answer": "night"
+    },
+    {
+      "question": "Which rhymes with boat: coat or book?",
+      "steps": [
+        "Boat and coat share the same final sound."
+      ],
+      "answer": "coat"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete the rhyme: I see a bright light, shining in the ___. (night or day)",
+      "answer": "night",
+      "solution": "Light and night have matching ending sounds."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which rhymes with boat: coat or book?",
+      "answer": "coat",
+      "solution": "Boat and coat share the same final sound."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Read: A small robot waves to Mei. Name the person.",
+      "answer": "Mei",
+      "solution": "Mei is the named person in the line."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Read: A crab hides in the sand. Where is it hiding?",
+      "answer": "in the sand",
+      "solution": "The phrase after hides gives the setting."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Complete the chant: Clap your hands, tap your ___. (feet or hat)",
+      "answer": "feet",
+      "solution": "Tapping your feet is an action that fits the chant."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which rhymes with play: day or dog?",
+      "answer": "day",
+      "solution": "Play and day share the long a ending sound."
+    }
+  ],
+  "summary": "Enjoy rhythm and respond to characters, actions and settings in short texts. Say rhyming lines aloud and listen to their rhythm.",
+  "relatedTopics": []
+}

@@ -1,0 +1,89 @@
+{
+  "id": "primary-2-abilities",
+  "title": "Can, Cannot and Simple Abilities",
+  "level": "primary-2",
+  "category": "Speaking",
+  "introduction": "Describe abilities and ask what others can do.",
+  "definition": "Describe abilities and ask what others can do.",
+  "rules": [
+    "Can expresses ability; cannot expresses lack of ability.",
+    "Use the base verb after can or cannot."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "Can you swim?",
+      "description": "ask about an ability"
+    },
+    {
+      "expression": "Yes, I can.",
+      "description": "positive reply"
+    },
+    {
+      "expression": "No, I can't.",
+      "description": "negative reply"
+    }
+  ],
+  "examples": [
+    {
+      "question": "A bird can ___ (fly or flies).",
+      "steps": [
+        "Use the base verb after can."
+      ],
+      "answer": "fly"
+    },
+    {
+      "question": "A fish cannot ___ on land. (walk or swims)",
+      "steps": [
+        "Use a base verb that describes moving on land."
+      ],
+      "answer": "walk"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "A bird can ___ (fly or flies).",
+      "answer": "fly",
+      "solution": "Use the base verb after can."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "A fish cannot ___ on land. (walk or swims)",
+      "answer": "walk",
+      "solution": "Use a base verb that describes moving on land."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "___ you draw a robot?",
+      "answer": "Can",
+      "solution": "Put can first in an ability question."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Can she sing? Yes, she ___.",
+      "answer": "can",
+      "solution": "Repeat can in a positive reply."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Can he fly like a bird? No, he ___. (can't or isn't)",
+      "answer": "can't",
+      "solution": "Can't is the short form of cannot."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "They can ___ a ball. (catch or catches)",
+      "answer": "catch",
+      "solution": "Do not add -es to a verb after can."
+    }
+  ],
+  "summary": "Describe abilities and ask what others can do. Can expresses ability; cannot expresses lack of ability.",
+  "relatedTopics": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "primary-2-instructions",
+  "title": "Following Two-Step Instructions",
+  "level": "primary-2",
+  "category": "Listening",
+  "introduction": "Understand and carry out short sequences of instructions.",
+  "definition": "Understand and carry out short sequences of instructions.",
+  "rules": [
+    "Listen to the order of the actions.",
+    "First, next and then help show the sequence."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Partner reads: Stand up, then clap. What comes first?",
+      "steps": [
+        "The first action comes before then."
+      ],
+      "answer": "stand up"
+    },
+    {
+      "question": "Partner reads: Open your book and point to the title. What comes last?",
+      "steps": [
+        "The second instruction follows and."
+      ],
+      "answer": "point to the title"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Partner reads: Stand up, then clap. What comes first?",
+      "answer": "stand up",
+      "solution": "The first action comes before then."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Partner reads: Open your book and point to the title. What comes last?",
+      "answer": "point to the title",
+      "solution": "The second instruction follows and."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Partner reads: Draw a circle, then colour it blue. Which colour?",
+      "answer": "blue",
+      "solution": "The colour is named in the second instruction."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Partner reads: Pick up the ruler and put it on the desk. Where should it go?",
+      "answer": "on the desk",
+      "solution": "The last phrase gives the destination."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Partner reads: First wash your hands. Next dry them. What comes next after washing?",
+      "answer": "dry them",
+      "solution": "Next introduces the second action."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "What do you say if you need to hear an instruction again? (Please repeat or Goodbye)",
+      "answer": "Please repeat",
+      "solution": "A polite request to repeat helps you understand."
+    }
+  ],
+  "summary": "Understand and carry out short sequences of instructions. Listen to the order of the actions.",
+  "relatedTopics": []
+}

@@ -1,0 +1,89 @@
+{
+  "id": "primary-2-do-does",
+  "title": "Questions and Negative Habits",
+  "level": "primary-2",
+  "category": "Grammar",
+  "introduction": "Ask about habits and say what people do not do.",
+  "definition": "Ask about habits and say what people do not do.",
+  "rules": [
+    "Use do with I, you, we and they; use does with he, she and it.",
+    "After do or does, use the base verb."
+  ],
+  "grammar": [
+    {
+      "expression": "Do you play?",
+      "description": "ask about the listener's habit"
+    },
+    {
+      "expression": "Does she play?",
+      "description": "ask about another person's habit"
+    },
+    {
+      "expression": "does not play",
+      "description": "negative habit for he or she"
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "___ you play tennis?",
+      "steps": [
+        "Use do with you."
+      ],
+      "answer": "Do"
+    },
+    {
+      "question": "___ Amir read comics?",
+      "steps": [
+        "Amir is one person, so use does."
+      ],
+      "answer": "Does"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "___ you play tennis?",
+      "answer": "Do",
+      "solution": "Use do with you."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "___ Amir read comics?",
+      "answer": "Does",
+      "solution": "Amir is one person, so use does."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "She does not ___ football. (play or plays)",
+      "answer": "play",
+      "solution": "After does not, use the base verb."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "They ___ not swim. (do or does)",
+      "answer": "do",
+      "solution": "Use do with they."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Does he ___ a bike? (ride or rides)",
+      "answer": "ride",
+      "solution": "Does already carries the third-person form."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Do you draw? Yes, I ___.",
+      "answer": "do",
+      "solution": "Repeat do in a positive short answer."
+    }
+  ],
+  "summary": "Ask about habits and say what people do not do. Use do with I, you, we and they; use does with he, she and it.",
+  "relatedTopics": []
+}

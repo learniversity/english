@@ -1,0 +1,89 @@
+{
+  "id": "primary-2-food-drinks",
+  "title": "Food, Drinks and Quantities",
+  "level": "primary-2",
+  "category": "Vocabulary",
+  "introduction": "Ask for food and describe amounts in familiar situations.",
+  "definition": "Ask for food and describe amounts in familiar situations.",
+  "rules": [
+    "Use some with amounts that are not specified.",
+    "Use a or an with one countable item."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "some rice",
+      "description": "an unspecified amount"
+    },
+    {
+      "expression": "a sandwich",
+      "description": "one countable item"
+    },
+    {
+      "expression": "a glass of water",
+      "description": "a measured serving"
+    }
+  ],
+  "examples": [
+    {
+      "question": "May I have ___ milk? (some or an)",
+      "steps": [
+        "Milk is uncountable in this use."
+      ],
+      "answer": "some"
+    },
+    {
+      "question": "I want ___ apple. (a or an)",
+      "steps": [
+        "Apple starts with a vowel sound."
+      ],
+      "answer": "an"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "May I have ___ milk? (some or an)",
+      "answer": "some",
+      "solution": "Milk is uncountable in this use."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "I want ___ apple. (a or an)",
+      "answer": "an",
+      "solution": "Apple starts with a vowel sound."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Two ___ of water. (glass or glasses)",
+      "answer": "glasses",
+      "solution": "Use the plural glasses after two."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which is a vegetable: cucumber or bread?",
+      "answer": "cucumber",
+      "solution": "Cucumber is commonly used as a vegetable in meals."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Complete: a bowl ___ soup.",
+      "answer": "of",
+      "solution": "Use of to connect a container and its contents."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Complete: I would like a ___. (sandwich or rice)",
+      "answer": "sandwich",
+      "solution": "A requires one countable item."
+    }
+  ],
+  "summary": "Ask for food and describe amounts in familiar situations. Use some with amounts that are not specified.",
+  "relatedTopics": []
+}

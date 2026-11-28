@@ -1,0 +1,89 @@
+{
+  "id": "primary-2-there-is-are",
+  "title": "There Is and There Are",
+  "level": "primary-2",
+  "category": "Grammar",
+  "introduction": "Describe what can be found in a place.",
+  "definition": "Describe what can be found in a place.",
+  "rules": [
+    "Use there is for one thing and there are for more than one.",
+    "Use Is there ...? or Are there ...? to ask about things."
+  ],
+  "grammar": [
+    {
+      "expression": "There is a lamp.",
+      "description": "one object"
+    },
+    {
+      "expression": "There are two chairs.",
+      "description": "more than one object"
+    },
+    {
+      "expression": "Are there any books?",
+      "description": "question about plural objects"
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "There ___ a sofa.",
+      "steps": [
+        "A sofa is singular."
+      ],
+      "answer": "is"
+    },
+    {
+      "question": "There ___ three windows.",
+      "steps": [
+        "Three windows is plural."
+      ],
+      "answer": "are"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "There ___ a sofa.",
+      "answer": "is",
+      "solution": "A sofa is singular."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "There ___ three windows.",
+      "answer": "are",
+      "solution": "Three windows is plural."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "___ there a garden?",
+      "answer": "Is",
+      "solution": "Use Is there for one place or thing."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "___ there two beds?",
+      "answer": "Are",
+      "solution": "Use Are there for plural things."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "There are two ___. (door or doors)",
+      "answer": "doors",
+      "solution": "Two requires a plural noun."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "There ___ not a table. (is or are)",
+      "answer": "is",
+      "solution": "A table is singular, even in a negative sentence."
+    }
+  ],
+  "summary": "Describe what can be found in a place. Use there is for one thing and there are for more than one.",
+  "relatedTopics": []
+}

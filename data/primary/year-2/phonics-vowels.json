@@ -1,0 +1,93 @@
+{
+  "id": "primary-2-phonics-vowels",
+  "title": "Long Vowel Patterns",
+  "level": "primary-2",
+  "category": "Phonics",
+  "introduction": "Read familiar words with long vowel spelling patterns.",
+  "definition": "Read familiar words with long vowel spelling patterns.",
+  "rules": [
+    "Letter groups can represent a single vowel sound.",
+    "Practise ai, ay, ee, oa and silent-e words."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "ai",
+      "description": "rain"
+    },
+    {
+      "expression": "ay",
+      "description": "day"
+    },
+    {
+      "expression": "ee",
+      "description": "feet"
+    },
+    {
+      "expression": "oa",
+      "description": "boat"
+    }
+  ],
+  "examples": [
+    {
+      "question": "Complete: r__n (ai or ee), water falling from clouds.",
+      "steps": [
+        "The ai pattern represents the long a sound in rain."
+      ],
+      "answer": "ai"
+    },
+    {
+      "question": "Complete: d__ (ay or oa), a period of daylight.",
+      "steps": [
+        "The ay pattern represents long a at the end of day."
+      ],
+      "answer": "ay"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete: r__n (ai or ee), water falling from clouds.",
+      "answer": "ai",
+      "solution": "The ai pattern represents the long a sound in rain."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete: d__ (ay or oa), a period of daylight.",
+      "answer": "ay",
+      "solution": "The ay pattern represents long a at the end of day."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: f__t (ee or ai), plural of foot.",
+      "answer": "ee",
+      "solution": "The ee pattern represents the long ee sound."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: b__t (oa or ee), a vehicle on water.",
+      "answer": "oa",
+      "solution": "The oa pattern represents the long o sound."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which has the same vowel sound as cake: lake or cat?",
+      "answer": "lake",
+      "solution": "Silent e helps mark the long a sound in both words."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which rhymes with kite: night or kit?",
+      "answer": "night",
+      "solution": "Kite and night share the long i sound and final t."
+    }
+  ],
+  "summary": "Read familiar words with long vowel spelling patterns. Letter groups can represent a single vowel sound.",
+  "relatedTopics": []
+}

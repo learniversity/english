@@ -1,0 +1,89 @@
+{
+  "id": "primary-2-present-simple",
+  "title": "Talking About Habits",
+  "level": "primary-2",
+  "category": "Grammar",
+  "introduction": "Use the present simple to talk about regular actions.",
+  "definition": "Use the present simple to talk about regular actions.",
+  "rules": [
+    "Use the base verb with I, you, we and they.",
+    "With he, she or it, many verbs take -s or -es."
+  ],
+  "grammar": [
+    {
+      "expression": "I play",
+      "description": "a regular action by the speaker"
+    },
+    {
+      "expression": "She plays",
+      "description": "a regular action by one other person"
+    },
+    {
+      "expression": "He watches",
+      "description": "watch takes -es"
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "She ___ comics. (read or reads)",
+      "steps": [
+        "Use reads with the singular subject she."
+      ],
+      "answer": "reads"
+    },
+    {
+      "question": "They ___ football. (play or plays)",
+      "steps": [
+        "Use the base verb with they."
+      ],
+      "answer": "play"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "She ___ comics. (read or reads)",
+      "answer": "reads",
+      "solution": "Use reads with the singular subject she."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "They ___ football. (play or plays)",
+      "answer": "play",
+      "solution": "Use the base verb with they."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "He ___ TV. (watch or watches)",
+      "answer": "watches",
+      "solution": "Add -es to watch with he."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "I ___ my bike. (ride or rides)",
+      "answer": "ride",
+      "solution": "Use the base verb with I."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Mei ___ to school. (go or goes)",
+      "answer": "goes",
+      "solution": "Go takes -es with a singular third-person subject."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "We ___ lunch at home. (eat or eats)",
+      "answer": "eat",
+      "solution": "Use the base verb with we."
+    }
+  ],
+  "summary": "Use the present simple to talk about regular actions. Use the base verb with I, you, we and they.",
+  "relatedTopics": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": "primary-2-home",
+  "title": "Rooms and Furniture",
+  "level": "primary-2",
+  "category": "Vocabulary",
+  "introduction": "Describe rooms and the things found in a home.",
+  "definition": "Describe rooms and the things found in a home.",
+  "rules": [
+    "Name rooms by their purpose.",
+    "Use furniture words in short descriptions."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "wardrobe",
+      "description": "a cupboard for clothes"
+    },
+    {
+      "expression": "armchair",
+      "description": "a chair with arms"
+    },
+    {
+      "expression": "mirror",
+      "description": "a surface that reflects an image"
+    },
+    {
+      "expression": "stairs",
+      "description": "steps between floors"
+    }
+  ],
+  "examples": [
+    {
+      "question": "Where do you keep hanging clothes? (wardrobe or sink)",
+      "steps": [
+        "A wardrobe is designed for storing clothes."
+      ],
+      "answer": "wardrobe"
+    },
+    {
+      "question": "What lets you see your reflection?",
+      "steps": [
+        "A mirror reflects light to form an image."
+      ],
+      "answer": "mirror"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Where do you keep hanging clothes? (wardrobe or sink)",
+      "answer": "wardrobe",
+      "solution": "A wardrobe is designed for storing clothes."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What lets you see your reflection?",
+      "answer": "mirror",
+      "solution": "A mirror reflects light to form an image."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What connects two floors: stairs or carpet?",
+      "answer": "stairs",
+      "solution": "Stairs allow people to move between levels."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Where do you wash dishes? (sink or bed)",
+      "answer": "sink",
+      "solution": "A sink holds water for washing."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which room is used for meals: dining room or bathroom?",
+      "answer": "dining room",
+      "solution": "A dining room is used for eating meals."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "What covers a window: curtain or pillow?",
+      "answer": "curtain",
+      "solution": "A curtain hangs across a window."
+    }
+  ],
+  "summary": "Describe rooms and the things found in a home. Name rooms by their purpose.",
+  "relatedTopics": []
+}

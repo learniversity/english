@@ -1,0 +1,89 @@
+{
+  "id": "primary-2-present-continuous",
+  "title": "Actions Happening Now",
+  "level": "primary-2",
+  "category": "Grammar",
+  "introduction": "Describe what someone is doing right now.",
+  "definition": "Describe what someone is doing right now.",
+  "rules": [
+    "Use am, is or are followed by a verb ending in -ing.",
+    "Some verbs change spelling before -ing: run becomes running."
+  ],
+  "grammar": [
+    {
+      "expression": "I am reading",
+      "description": "action happening now"
+    },
+    {
+      "expression": "She is singing",
+      "description": "one person doing an action"
+    },
+    {
+      "expression": "They are playing",
+      "description": "several people doing an action"
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "I ___ drawing now.",
+      "steps": [
+        "Use am with I."
+      ],
+      "answer": "am"
+    },
+    {
+      "question": "She ___ reading now.",
+      "steps": [
+        "Use is with she."
+      ],
+      "answer": "is"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "I ___ drawing now.",
+      "answer": "am",
+      "solution": "Use am with I."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "She ___ reading now.",
+      "answer": "is",
+      "solution": "Use is with she."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "They ___ jumping now.",
+      "answer": "are",
+      "solution": "Use are with they."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "He is ___. (run or running)",
+      "answer": "running",
+      "solution": "Use the -ing form and double the final n in run."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "We are ___ a cake. (make or making)",
+      "answer": "making",
+      "solution": "Drop the final silent e before -ing."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Complete: ___ you listening?",
+      "answer": "Are",
+      "solution": "Move are before you to form a question."
+    }
+  ],
+  "summary": "Describe what someone is doing right now. Use am, is or are followed by a verb ending in -ing.",
+  "relatedTopics": []
+}

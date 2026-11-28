@@ -1,0 +1,76 @@
+{
+  "id": "primary-2-spelling",
+  "title": "Spelling and Common Word Patterns",
+  "level": "primary-2",
+  "category": "Writing",
+  "introduction": "Practise spelling familiar words and checking each letter.",
+  "definition": "Practise spelling familiar words and checking each letter.",
+  "rules": [
+    "Say the word, look at its spelling, cover it, write it and check.",
+    "Notice repeated letters and familiar letter groups."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Choose the correct spelling: because or becaus.",
+      "steps": [
+        "Because ends with the letter e."
+      ],
+      "answer": "because"
+    },
+    {
+      "question": "Choose the correct spelling: frend or friend.",
+      "steps": [
+        "Friend contains the letter group ie."
+      ],
+      "answer": "friend"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Choose the correct spelling: because or becaus.",
+      "answer": "because",
+      "solution": "Because ends with the letter e."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Choose the correct spelling: frend or friend.",
+      "answer": "friend",
+      "solution": "Friend contains the letter group ie."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: sh__s (oe or oa), things worn on your feet.",
+      "answer": "oe",
+      "solution": "Shoes is spelled s-h-o-e-s."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Choose: swimming or swiming.",
+      "answer": "swimming",
+      "solution": "Double the final m before adding -ing."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Choose: Tuesday or Tuseday.",
+      "answer": "Tuesday",
+      "solution": "Tuesday begins with the letter sequence Tues."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Choose: beautiful or beautifull.",
+      "answer": "beautiful",
+      "solution": "The adjective suffix -ful has one l."
+    }
+  ],
+  "summary": "Practise spelling familiar words and checking each letter. Say the word, look at its spelling, cover it, write it and check.",
+  "relatedTopics": []
+}

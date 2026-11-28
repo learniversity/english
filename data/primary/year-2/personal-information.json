@@ -1,0 +1,76 @@
+{
+  "id": "primary-2-personal-information",
+  "title": "Asking and Giving Personal Information",
+  "level": "primary-2",
+  "category": "Speaking",
+  "introduction": "Use basic questions and statements about yourself and others.",
+  "definition": "Use basic questions and statements about yourself and others.",
+  "rules": [
+    "Use What, Where, How old and When to ask for different information.",
+    "Practise with fictional details or information you are comfortable sharing."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "___ is your favourite game?",
+      "steps": [
+        "What asks for the name of a thing."
+      ],
+      "answer": "What"
+    },
+    {
+      "question": "___ do you live? (Where or When)",
+      "steps": [
+        "Where asks about a place."
+      ],
+      "answer": "Where"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "___ is your favourite game?",
+      "answer": "What",
+      "solution": "What asks for the name of a thing."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "___ do you live? (Where or When)",
+      "answer": "Where",
+      "solution": "Where asks about a place."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "How ___ are you?",
+      "answer": "old",
+      "solution": "How old asks about age."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: My favourite sport ___ badminton.",
+      "answer": "is",
+      "solution": "Sport is singular, so use is."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "___ is your birthday? (When or Who)",
+      "answer": "When",
+      "solution": "When asks about a date or time."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Complete: I live ___ Malaysia.",
+      "answer": "in",
+      "solution": "Use in before a country name."
+    }
+  ],
+  "summary": "Use basic questions and statements about yourself and others. Use What, Where, How old and When to ask for different information.",
+  "relatedTopics": []
+}

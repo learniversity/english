@@ -1,0 +1,80 @@
+{
+  "id": "primary-2-sentence-building",
+  "title": "Planning and Writing Simple Sentences",
+  "level": "primary-2",
+  "category": "Writing",
+  "introduction": "Arrange words into clear sentences and link related ideas.",
+  "definition": "Arrange words into clear sentences and link related ideas.",
+  "rules": [
+    "Choose a subject and a verb; add details when needed.",
+    "Read your sentence again to check word order, capitals and punctuation."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Put in order: on Sundays / play / We",
+      "steps": [
+        "Put the subject first, then the verb and time phrase."
+      ],
+      "answer": "We play on Sundays."
+    },
+    {
+      "question": "Put in order: a red hat / wears / She",
+      "steps": [
+        "Put the subject before the verb and object."
+      ],
+      "answer": "She wears a red hat."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Put in order: on Sundays / play / We",
+      "answer": "We play on Sundays.",
+      "solution": "Put the subject first, then the verb and time phrase.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Put in order: a red hat / wears / She",
+      "answer": "She wears a red hat.",
+      "solution": "Put the subject before the verb and object.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Join: I like apples ___ oranges. (and or is)",
+      "answer": "and",
+      "solution": "And joins two similar items."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: I am tired ___ I ran. (because or and)",
+      "answer": "because",
+      "solution": "Because introduces the reason."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Put in order: two chairs / There are / in the room",
+      "answer": "There are two chairs in the room.",
+      "solution": "Start with There are, then the plural noun and place.",
+      "caseSensitive": true
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Put in order: swimming / is / Ben",
+      "answer": "Ben is swimming.",
+      "solution": "Use subject, be and the -ing verb.",
+      "caseSensitive": true
+    }
+  ],
+  "summary": "Arrange words into clear sentences and link related ideas. Choose a subject and a verb; add details when needed.",
+  "relatedTopics": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": "primary-2-free-time",
+  "title": "Free Time and Hobbies",
+  "level": "primary-2",
+  "category": "Vocabulary",
+  "introduction": "Talk about activities you enjoy outside school.",
+  "definition": "Talk about activities you enjoy outside school.",
+  "rules": [
+    "Use play with many games and sports.",
+    "Use activity phrases such as ride a bike, read a book and go swimming."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "play badminton",
+      "description": "hit a shuttlecock with a racket"
+    },
+    {
+      "expression": "read comics",
+      "description": "read stories told in pictures"
+    },
+    {
+      "expression": "ride a bike",
+      "description": "travel on a bicycle"
+    },
+    {
+      "expression": "go swimming",
+      "description": "move through water for fun"
+    }
+  ],
+  "examples": [
+    {
+      "question": "I ___ badminton after school. (play or read)",
+      "steps": [
+        "Use play with the name of a sport."
+      ],
+      "answer": "play"
+    },
+    {
+      "question": "I ___ a bicycle. (ride or sing)",
+      "steps": [
+        "A bicycle is a vehicle you ride."
+      ],
+      "answer": "ride"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "I ___ badminton after school. (play or read)",
+      "answer": "play",
+      "solution": "Use play with the name of a sport."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "I ___ a bicycle. (ride or sing)",
+      "answer": "ride",
+      "solution": "A bicycle is a vehicle you ride."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What do you read: comics or football?",
+      "answer": "comics",
+      "solution": "Comics contain illustrated stories."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: go ___ (swimming or swim)",
+      "answer": "swimming",
+      "solution": "Use the -ing activity after go in this phrase."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "What do you use to draw: a pencil or a ball?",
+      "answer": "a pencil",
+      "solution": "A pencil makes marks on paper."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Complete: I listen ___ music.",
+      "answer": "to",
+      "solution": "Use listen to before naming the sound or music."
+    }
+  ],
+  "summary": "Talk about activities you enjoy outside school. Use play with many games and sports.",
+  "relatedTopics": []
+}

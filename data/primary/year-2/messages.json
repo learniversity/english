@@ -1,0 +1,76 @@
+{
+  "id": "primary-2-messages",
+  "title": "Writing Notes and Invitations",
+  "level": "primary-2",
+  "category": "Writing",
+  "introduction": "Write simple messages using a greeting, purpose and closing.",
+  "definition": "Write simple messages using a greeting, purpose and closing.",
+  "rules": [
+    "Include who the message is for and what you want to say.",
+    "Check the date, time or place when giving an invitation."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Complete an invitation: Please come ___ my party.",
+      "steps": [
+        "Use come to before the event."
+      ],
+      "answer": "to"
+    },
+    {
+      "question": "Complete a note: Dear Sara, thank ___ for the book.",
+      "steps": [
+        "Thank you expresses gratitude."
+      ],
+      "answer": "you"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Complete an invitation: Please come ___ my party.",
+      "answer": "to",
+      "solution": "Use come to before the event."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Complete a note: Dear Sara, thank ___ for the book.",
+      "answer": "you",
+      "solution": "Thank you expresses gratitude."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Complete: Meet me ___ the park at three. (at or under)",
+      "answer": "at",
+      "solution": "At identifies the meeting place."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete a message: See you ___ Monday.",
+      "answer": "on",
+      "solution": "Use on before days."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which greeting starts a note to Ben? (Dear Ben or Goodbye Ben)",
+      "answer": "Dear Ben",
+      "solution": "Dear followed by a name is a common greeting in a note."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Complete: Please ___ your towel. (bring or brings)",
+      "answer": "bring",
+      "solution": "A request uses the base verb after please."
+    }
+  ],
+  "summary": "Write simple messages using a greeting, purpose and closing. Include who the message is for and what you want to say.",
+  "relatedTopics": []
+}

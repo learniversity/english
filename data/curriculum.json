@@ -489,6 +489,216 @@
       "title": "Transport and Getting Around",
       "path": "data/primary/year-1/transport.json",
       "category": "Vocabulary"
+    },
+    {
+      "id": "primary-2-free-time",
+      "level": "primary-2",
+      "title": "Free Time and Hobbies",
+      "path": "data/primary/year-2/free-time.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-2-days",
+      "level": "primary-2",
+      "title": "Days and Weekly Routines",
+      "path": "data/primary/year-2/days.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-2-present-simple",
+      "level": "primary-2",
+      "title": "Talking About Habits",
+      "path": "data/primary/year-2/present-simple.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-2-do-does",
+      "level": "primary-2",
+      "title": "Questions and Negative Habits",
+      "path": "data/primary/year-2/do-does.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-2-likes-dislikes",
+      "level": "primary-2",
+      "title": "Likes and Dislikes",
+      "path": "data/primary/year-2/likes-dislikes.json",
+      "category": "Speaking"
+    },
+    {
+      "id": "primary-2-home",
+      "level": "primary-2",
+      "title": "Rooms and Furniture",
+      "path": "data/primary/year-2/home.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-2-there-is-are",
+      "level": "primary-2",
+      "title": "There Is and There Are",
+      "path": "data/primary/year-2/there-is-are.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-2-position",
+      "level": "primary-2",
+      "title": "Describing Positions",
+      "path": "data/primary/year-2/position.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-2-clothes",
+      "level": "primary-2",
+      "title": "Clothes and Accessories",
+      "path": "data/primary/year-2/clothes.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-2-possessives",
+      "level": "primary-2",
+      "title": "My, Your, His and Her",
+      "path": "data/primary/year-2/possessives.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-2-present-continuous",
+      "level": "primary-2",
+      "title": "Actions Happening Now",
+      "path": "data/primary/year-2/present-continuous.json",
+      "category": "Grammar"
+    },
+    {
+      "id": "primary-2-body-movement",
+      "level": "primary-2",
+      "title": "Body Parts and Movement",
+      "path": "data/primary/year-2/body-movement.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-2-abilities",
+      "level": "primary-2",
+      "title": "Can, Cannot and Simple Abilities",
+      "path": "data/primary/year-2/abilities.json",
+      "category": "Speaking"
+    },
+    {
+      "id": "primary-2-beach",
+      "level": "primary-2",
+      "title": "At the Beach",
+      "path": "data/primary/year-2/beach.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-2-suggestions",
+      "level": "primary-2",
+      "title": "Making Suggestions",
+      "path": "data/primary/year-2/suggestions.json",
+      "category": "Speaking"
+    },
+    {
+      "id": "primary-2-food-drinks",
+      "level": "primary-2",
+      "title": "Food, Drinks and Quantities",
+      "path": "data/primary/year-2/food-drinks.json",
+      "category": "Vocabulary"
+    },
+    {
+      "id": "primary-2-phonics-blends",
+      "level": "primary-2",
+      "title": "Consonant Blends and Word Endings",
+      "path": "data/primary/year-2/phonics-blends.json",
+      "category": "Phonics"
+    },
+    {
+      "id": "primary-2-phonics-vowels",
+      "level": "primary-2",
+      "title": "Long Vowel Patterns",
+      "path": "data/primary/year-2/phonics-vowels.json",
+      "category": "Phonics"
+    },
+    {
+      "id": "primary-2-phonics-digraphs",
+      "level": "primary-2",
+      "title": "Consonant Digraphs",
+      "path": "data/primary/year-2/phonics-digraphs.json",
+      "category": "Phonics"
+    },
+    {
+      "id": "primary-2-reading-stories",
+      "level": "primary-2",
+      "title": "Reading Short Stories",
+      "path": "data/primary/year-2/reading-stories.json",
+      "category": "Reading"
+    },
+    {
+      "id": "primary-2-reading-notices",
+      "level": "primary-2",
+      "title": "Reading Signs, Notices and Timetables",
+      "path": "data/primary/year-2/reading-notices.json",
+      "category": "Reading"
+    },
+    {
+      "id": "primary-2-dictionary",
+      "level": "primary-2",
+      "title": "Picture Dictionaries and Word Groups",
+      "path": "data/primary/year-2/dictionary.json",
+      "category": "Reading"
+    },
+    {
+      "id": "primary-2-listening",
+      "level": "primary-2",
+      "title": "Listening for Main Ideas and Details",
+      "path": "data/primary/year-2/listening.json",
+      "category": "Listening"
+    },
+    {
+      "id": "primary-2-instructions",
+      "level": "primary-2",
+      "title": "Following Two-Step Instructions",
+      "path": "data/primary/year-2/instructions.json",
+      "category": "Listening"
+    },
+    {
+      "id": "primary-2-personal-information",
+      "level": "primary-2",
+      "title": "Asking and Giving Personal Information",
+      "path": "data/primary/year-2/personal-information.json",
+      "category": "Speaking"
+    },
+    {
+      "id": "primary-2-spelling",
+      "level": "primary-2",
+      "title": "Spelling and Common Word Patterns",
+      "path": "data/primary/year-2/spelling.json",
+      "category": "Writing"
+    },
+    {
+      "id": "primary-2-punctuation",
+      "level": "primary-2",
+      "title": "Capital Letters and Sentence Endings",
+      "path": "data/primary/year-2/punctuation.json",
+      "category": "Writing"
+    },
+    {
+      "id": "primary-2-sentence-building",
+      "level": "primary-2",
+      "title": "Planning and Writing Simple Sentences",
+      "path": "data/primary/year-2/sentence-building.json",
+      "category": "Writing"
+    },
+    {
+      "id": "primary-2-messages",
+      "level": "primary-2",
+      "title": "Writing Notes and Invitations",
+      "path": "data/primary/year-2/messages.json",
+      "category": "Writing"
+    },
+    {
+      "id": "primary-2-creative-language",
+      "level": "primary-2",
+      "title": "Rhymes, Chants and Story Responses",
+      "path": "data/primary/year-2/creative-language.json",
+      "category": "Language Arts"
     }
   ]
 }

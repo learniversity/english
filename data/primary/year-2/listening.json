@@ -1,0 +1,76 @@
+{
+  "id": "primary-2-listening",
+  "title": "Listening for Main Ideas and Details",
+  "level": "primary-2",
+  "category": "Listening",
+  "introduction": "Understand short spoken messages with support from a partner.",
+  "definition": "Understand short spoken messages with support from a partner.",
+  "rules": [
+    "Ask a partner to read the text aloud while you look away.",
+    "Listen for the main idea first, then the needed detail; ask for repetition if needed."
+  ],
+  "grammar": [],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "Listen: On Saturday, Aina reads comics at home. Which day?",
+      "steps": [
+        "Listen for the time phrase at the beginning."
+      ],
+      "answer": "Saturday"
+    },
+    {
+      "question": "Listen: Ben puts his blue hat in the bag. What colour is it?",
+      "steps": [
+        "Listen for the colour before hat."
+      ],
+      "answer": "blue"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Listen: On Saturday, Aina reads comics at home. Which day?",
+      "answer": "Saturday",
+      "solution": "Listen for the time phrase at the beginning."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Listen: Ben puts his blue hat in the bag. What colour is it?",
+      "answer": "blue",
+      "solution": "Listen for the colour before hat."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Listen: Mei goes to the beach with her sister. Who goes with her?",
+      "answer": "her sister",
+      "solution": "The phrase after with names her companion."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Listen: Ravi has a new bike. He rides it after school. What is the message about? (a bike or a bus)",
+      "answer": "a bike",
+      "solution": "Both sentences describe Ravi's bicycle."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Listen: The robot can turn and wave. What does it do after turning?",
+      "answer": "wave",
+      "solution": "Listen for the action following and."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Listen: The library closes at four. When does it close? (write the number in words)",
+      "answer": "four",
+      "solution": "Listen for the number after at."
+    }
+  ],
+  "summary": "Understand short spoken messages with support from a partner. Ask a partner to read the text aloud while you look away.",
+  "relatedTopics": []
+}

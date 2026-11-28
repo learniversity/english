@@ -1,0 +1,93 @@
+{
+  "id": "primary-2-position",
+  "title": "Describing Positions",
+  "level": "primary-2",
+  "category": "Grammar",
+  "introduction": "Explain where objects are using position words.",
+  "definition": "Explain where objects are using position words.",
+  "rules": [
+    "Use between for a position separating two things.",
+    "Use next to, opposite, behind and in front of to describe positions."
+  ],
+  "grammar": [
+    {
+      "expression": "between",
+      "description": "in the space separating two things"
+    },
+    {
+      "expression": "opposite",
+      "description": "across from"
+    },
+    {
+      "expression": "next to",
+      "description": "beside"
+    },
+    {
+      "expression": "above",
+      "description": "higher than"
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "The lamp is in the space separating two chairs. It is ___ them.",
+      "steps": [
+        "Between describes a position separating two objects."
+      ],
+      "answer": "between"
+    },
+    {
+      "question": "The shop is across from the bank. It is ___ the bank.",
+      "steps": [
+        "Opposite means across from."
+      ],
+      "answer": "opposite"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "The lamp is in the space separating two chairs. It is ___ them.",
+      "answer": "between",
+      "solution": "Between describes a position separating two objects."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "The shop is across from the bank. It is ___ the bank.",
+      "answer": "opposite",
+      "solution": "Opposite means across from."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "The bag is beside the bed. It is ___ the bed. (next to or above)",
+      "answer": "next to",
+      "solution": "Next to means beside."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "The clock is higher than the door. It is ___ the door.",
+      "answer": "above",
+      "solution": "Above describes a higher position."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "The cat is at the back of the sofa. It is ___ the sofa.",
+      "answer": "behind",
+      "solution": "Behind means at the back."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "The rug is below the table. It is ___ the table.",
+      "answer": "under",
+      "solution": "Under describes a lower position."
+    }
+  ],
+  "summary": "Explain where objects are using position words. Use between for a position separating two things.",
+  "relatedTopics": []
+}

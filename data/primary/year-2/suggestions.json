@@ -1,0 +1,89 @@
+{
+  "id": "primary-2-suggestions",
+  "title": "Making Suggestions",
+  "level": "primary-2",
+  "category": "Speaking",
+  "introduction": "Invite others to join a simple activity.",
+  "definition": "Invite others to join a simple activity.",
+  "rules": [
+    "Use Let's followed by a base verb.",
+    "Reply politely to suggestions."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "Let's swim.",
+      "description": "suggest a shared activity"
+    },
+    {
+      "expression": "Good idea!",
+      "description": "accept a suggestion"
+    },
+    {
+      "expression": "Sorry, not now.",
+      "description": "decline politely"
+    }
+  ],
+  "examples": [
+    {
+      "question": "Let's ___ a sandcastle. (build or builds)",
+      "steps": [
+        "Use a base verb after Let's."
+      ],
+      "answer": "build"
+    },
+    {
+      "question": "Let's ___ to the park. (go or goes)",
+      "steps": [
+        "Let's is followed by the base verb."
+      ],
+      "answer": "go"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Let's ___ a sandcastle. (build or builds)",
+      "answer": "build",
+      "solution": "Use a base verb after Let's."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Let's ___ to the park. (go or goes)",
+      "answer": "go",
+      "solution": "Let's is followed by the base verb."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Accept the idea: Good ___!",
+      "answer": "idea",
+      "solution": "Good idea is a positive reply to a suggestion."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Complete: Let's ___ a picnic. (have or has)",
+      "answer": "have",
+      "solution": "Use have without an -s after Let's."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Complete a polite refusal: Sorry, not ___.",
+      "answer": "now",
+      "solution": "Not now declines the suggestion for the present time."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Let's ___ a game. (play or playing)",
+      "answer": "play",
+      "solution": "Use the base verb, not -ing, after Let's."
+    }
+  ],
+  "summary": "Invite others to join a simple activity. Use Let's followed by a base verb.",
+  "relatedTopics": []
+}

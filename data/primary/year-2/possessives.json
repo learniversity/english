@@ -1,0 +1,89 @@
+{
+  "id": "primary-2-possessives",
+  "title": "My, Your, His and Her",
+  "level": "primary-2",
+  "category": "Grammar",
+  "introduction": "Show who something belongs to.",
+  "definition": "Show who something belongs to.",
+  "rules": [
+    "Use my for the speaker and your for the listener.",
+    "Use his, her, our and their before a noun."
+  ],
+  "grammar": [
+    {
+      "expression": "my bag",
+      "description": "belongs to me"
+    },
+    {
+      "expression": "her hat",
+      "description": "belongs to her"
+    },
+    {
+      "expression": "their shoes",
+      "description": "belong to them"
+    }
+  ],
+  "vocabulary": [],
+  "examples": [
+    {
+      "question": "This is ___ pencil. It belongs to me.",
+      "steps": [
+        "Use my before something belonging to the speaker."
+      ],
+      "answer": "my"
+    },
+    {
+      "question": "That is ___ hat. It belongs to you.",
+      "steps": [
+        "Use your for the person you are speaking to."
+      ],
+      "answer": "your"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "This is ___ pencil. It belongs to me.",
+      "answer": "my",
+      "solution": "Use my before something belonging to the speaker."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "That is ___ hat. It belongs to you.",
+      "answer": "your",
+      "solution": "Use your for the person you are speaking to."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Ben uses he. This is ___ shirt.",
+      "answer": "his",
+      "solution": "His shows possession for someone using he."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Aina uses she. This is ___ dress.",
+      "answer": "her",
+      "solution": "Her shows possession for someone using she."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "We own the ball. It is ___ ball.",
+      "answer": "our",
+      "solution": "Our shows that something belongs to us."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "They own the books. These are ___ books.",
+      "answer": "their",
+      "solution": "Their shows that something belongs to them."
+    }
+  ],
+  "summary": "Show who something belongs to. Use my for the speaker and your for the listener.",
+  "relatedTopics": []
+}

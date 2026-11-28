@@ -1,0 +1,85 @@
+{
+  "id": "primary-2-dictionary",
+  "title": "Picture Dictionaries and Word Groups",
+  "level": "primary-2",
+  "category": "Reading",
+  "introduction": "Find and organise words using alphabetical order and meaning.",
+  "definition": "Find and organise words using alphabetical order and meaning.",
+  "rules": [
+    "Look at the first letter; compare the next letters if needed.",
+    "Group words that describe similar things."
+  ],
+  "grammar": [],
+  "vocabulary": [
+    {
+      "expression": "alphabetical order",
+      "description": "words arranged from A to Z"
+    },
+    {
+      "expression": "category",
+      "description": "a group of related items"
+    }
+  ],
+  "examples": [
+    {
+      "question": "Which comes first: beach or chair?",
+      "steps": [
+        "B comes before C."
+      ],
+      "answer": "beach"
+    },
+    {
+      "question": "Which comes first: cap or cat?",
+      "steps": [
+        "The first two letters match; p comes before t."
+      ],
+      "answer": "cap"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Which comes first: beach or chair?",
+      "answer": "beach",
+      "solution": "B comes before C."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which comes first: cap or cat?",
+      "answer": "cap",
+      "solution": "The first two letters match; p comes before t."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which belongs with clothes: scarf or spoon?",
+      "answer": "scarf",
+      "solution": "A scarf is something people wear."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which belongs with furniture: sofa or grape?",
+      "answer": "sofa",
+      "solution": "A sofa is an item of furniture."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Which letter section contains robot?",
+      "answer": "r",
+      "solution": "Look for the first letter of robot."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which belongs with sports: badminton or cupboard?",
+      "answer": "badminton",
+      "solution": "Badminton is a sport played with a racket."
+    }
+  ],
+  "summary": "Find and organise words using alphabetical order and meaning. Look at the first letter; compare the next letters if needed.",
+  "relatedTopics": []
+}
