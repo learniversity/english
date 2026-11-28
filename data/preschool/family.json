@@ -131,63 +131,63 @@
       "type": "text",
       "question": "A female parent is a ___.",
       "answer": "mother",
-      "solution": "Answer: mother"
+      "solution": "A mother is a female parent."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "A male parent is a ___.",
       "answer": "father",
-      "solution": "Answer: father"
+      "solution": "A father is a male parent."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Your mother's mother is your ___.",
       "answer": "grandmother",
-      "solution": "Answer: grandmother"
+      "solution": "Your mother's mother is one of your grandparents."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Your father's father is your ___.",
       "answer": "grandfather",
-      "solution": "Answer: grandfather"
+      "solution": "Your father's father is one of your grandparents."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "A male sibling is a ___.",
       "answer": "brother",
-      "solution": "Answer: brother"
+      "solution": "A brother is a male sibling."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "A female sibling is a ___.",
       "answer": "sister",
-      "solution": "Answer: sister"
+      "solution": "A sister is a female sibling."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "A very young child is a ___.",
       "answer": "baby",
-      "solution": "Answer: baby"
+      "solution": "A baby is a very young child."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Mother and father can be called ___.",
       "answer": "parents",
-      "solution": "Answer: parents"
+      "solution": "Parents is the plural word for people who are your parents."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "A parent's parents are your ___.",
       "answer": "grandparents",
-      "solution": "Answer: grandparents"
+      "solution": "Grandparents are the parents of your parent."
     }
   ],
   "summary": "Family words help us talk about people in our families.",
