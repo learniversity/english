@@ -56,105 +56,105 @@
       "type": "text",
       "question": "Read: Sara has a yellow dress. What colour is her dress?",
       "answer": "yellow",
-      "solution": "Answer: yellow"
+      "solution": "Find the colour describing Sara's dress."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Read: Two goats eat grass near a fence. Which animals eat grass?",
       "answer": "goats",
-      "solution": "Answer: goats"
+      "solution": "Identify the animals performing the action eat."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Read: Ben buys bread and milk. What does he drink? (milk or bread)",
       "answer": "milk",
-      "solution": "Answer: milk"
+      "solution": "Choose the drink, not the solid food."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Read: Mei visits the library on Monday. Which day?",
       "answer": "Monday",
-      "solution": "Answer: Monday"
+      "solution": "Find the day mentioned after on."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Read: Ali has a new football. What is new?",
       "answer": "football",
-      "solution": "Answer: football"
+      "solution": "Identify the object described as new."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Read: A note says 'Meet me at the park.' Where should you meet?",
       "answer": "park",
-      "solution": "Answer: park"
+      "solution": "The note gives the meeting place."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Read: The door sign says 'Closed'. Is the shop open? (yes or no)",
       "answer": "no",
-      "solution": "Answer: no"
+      "solution": "Closed means the shop is not open."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Read: The bird has a nest in a tree. Where is the nest?",
       "answer": "tree",
-      "solution": "Answer: tree"
+      "solution": "Find the place where the bird's nest is located."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Read: Lina draws a cat and a flower. Which animal does she draw?",
       "answer": "cat",
-      "solution": "Answer: cat"
+      "solution": "Choose the animal in Lina's drawing rather than the flower."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Read: The bus stops outside the school. Where does it stop?",
       "answer": "school",
-      "solution": "Answer: school"
+      "solution": "Identify the place outside which the bus stops."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Read: A small puppy sleeps on a mat. What does it sleep on?",
       "answer": "mat",
-      "solution": "Answer: mat"
+      "solution": "Find the object beneath the sleeping puppy."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "Read: The sky is dark and rain falls. What is the weather like?",
       "answer": "rainy",
-      "solution": "Answer: rainy"
+      "solution": "Falling rain indicates rainy weather."
     },
     {
       "id": "q13",
       "type": "text",
       "question": "Read: Ben puts seeds in soil. He waters them. A plant grows. What is the story mainly about: growing a plant or riding a bike?",
       "answer": "growing a plant",
-      "solution": "Answer: growing a plant"
+      "solution": "The actions of planting and watering seeds describe growing a plant."
     },
     {
       "id": "q14",
       "type": "text",
       "question": "Read: It is raining. Ali opens his umbrella to stay ___. (dry or wet)",
       "answer": "dry",
-      "solution": "Answer: dry"
+      "solution": "An umbrella protects a person from rain."
     },
     {
       "id": "q15",
       "type": "text",
       "question": "Read: The puppy is tiny. It fits in a small box. Does tiny mean big or small?",
       "answer": "small",
-      "solution": "Answer: small"
+      "solution": "The small box provides a clue that tiny means very small."
     }
   ],
   "summary": "Read for the main idea and small details. Read again if you forget something.",
