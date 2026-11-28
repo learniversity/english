@@ -51,84 +51,84 @@
       "type": "text",
       "question": "Which rhymes with rain: train or leaf?",
       "answer": "train",
-      "solution": "Answer: train"
+      "solution": "Rain and train share the same -ain sound."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which rhymes with day: play or dog?",
       "answer": "play",
-      "solution": "Answer: play"
+      "solution": "Day and play share the same long a sound."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which rhymes with cake: lake or cup?",
       "answer": "lake",
-      "solution": "Answer: lake"
+      "solution": "Cake and lake share the same -ake sound."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which rhymes with bright: night or bird?",
       "answer": "night",
-      "solution": "Answer: night"
+      "solution": "Bright and night share the same -ight sound."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which rhymes with hall: fall or hat?",
       "answer": "fall",
-      "solution": "Answer: fall"
+      "solution": "Hall and fall share the same ending sound."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which rhymes with sound: ground or green?",
       "answer": "ground",
-      "solution": "Answer: ground"
+      "solution": "Sound and ground share the same -ound sound."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Which rhymes with boots: roots or bed?",
       "answer": "roots",
-      "solution": "Answer: roots"
+      "solution": "Boots and roots share the same ending sound in the pronunciation taught here."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Which rhymes with tree: bee or toy?",
       "answer": "bee",
-      "solution": "Answer: bee"
+      "solution": "Tree and bee share the same long ee sound."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Which rhymes with red: bed or road?",
       "answer": "bed",
-      "solution": "Answer: bed"
+      "solution": "Red and bed share the same -ed sound."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Which rhymes with fish: dish or desk?",
       "answer": "dish",
-      "solution": "Answer: dish"
+      "solution": "Fish and dish share the same -ish sound."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Complete the rhyme: One, two, touch your ___. (shoe or hat)",
       "answer": "shoe",
-      "solution": "Answer: shoe"
+      "solution": "Choose the word with the same ending sound as two."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "Which rhymes with hop: stop or run?",
       "answer": "stop",
-      "solution": "Answer: stop"
+      "solution": "Hop and stop share the same -op sound."
     }
   ],
   "summary": "Rhymes repeat ending sounds and chants use rhythm. Actions help us enjoy and remember words.",
