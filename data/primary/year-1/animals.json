@@ -229,84 +229,84 @@
       "type": "text",
       "question": "Which animal has a trunk?",
       "answer": "elephant",
-      "solution": "Answer: elephant"
+      "solution": "An elephant uses its long trunk to breathe, smell and pick things up."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which animal has black stripes and is a big cat?",
       "answer": "tiger",
-      "solution": "Answer: tiger"
+      "solution": "A tiger is a large cat with distinctive dark stripes."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which animal has eight arms?",
       "answer": "octopus",
-      "solution": "Answer: octopus"
+      "solution": "An octopus has eight arms surrounding its mouth."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which animal gives us wool?",
       "answer": "sheep",
-      "solution": "Answer: sheep"
+      "solution": "Wool comes from the fleece of a sheep."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which animal has a beak? (duck or cat)",
       "answer": "duck",
-      "solution": "Answer: duck"
+      "solution": "Birds have beaks; cats have mouths with teeth."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which body part helps a fish swim?",
       "answer": "fin",
-      "solution": "Answer: fin"
+      "solution": "A fish uses its fins to move, steer and balance."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Which insect visits flowers? (bee or cow)",
       "answer": "bee",
-      "solution": "Answer: bee"
+      "solution": "A bee visits flowers to collect nectar and pollen."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Which animal is an amphibian?",
       "answer": "frog",
-      "solution": "Answer: frog"
+      "solution": "A frog is an amphibian that typically begins life in water."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Which body covering do birds have?",
       "answer": "feathers",
-      "solution": "Answer: feathers"
+      "solution": "Feathers cover a bird's body and help keep it warm."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Complete: A rabbit ___ long ears. (has or have)",
       "answer": "has",
-      "solution": "Answer: has"
+      "solution": "A rabbit is singular, so use has."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Complete: A dolphin can ___.",
       "answer": "swim",
-      "solution": "Answer: swim"
+      "solution": "Dolphins move through water using their flippers and tail."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "Which animal is a reptile? (crocodile or horse)",
       "answer": "crocodile",
-      "solution": "Answer: crocodile"
+      "solution": "Crocodiles are reptiles; horses are mammals."
     }
   ],
   "summary": "Describe animals using names, colours, body parts and simple actions.",
