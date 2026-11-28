@@ -498,77 +498,77 @@
       "type": "text",
       "question": "Write 0 in English words.",
       "answer": "zero",
-      "solution": "Answer: zero"
+      "solution": "Zero means there are no objects. Spell it z-e-r-o."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Write 2 in English words.",
       "answer": "two",
-      "solution": "Answer: two"
+      "solution": "Spell the number word t-w-o; the w is silent."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Write 5 in English words.",
       "answer": "five",
-      "solution": "Answer: five"
+      "solution": "Spell the number word f-i-v-e."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Write 7 in English words.",
       "answer": "seven",
-      "solution": "Answer: seven"
+      "solution": "Spell the number word s-e-v-e-n."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Write 9 in English words.",
       "answer": "nine",
-      "solution": "Answer: nine"
+      "solution": "Spell the number word n-i-n-e."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Write 10 in English words.",
       "answer": "ten",
-      "solution": "Answer: ten"
+      "solution": "Spell the number word t-e-n."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Write 12 in English words.",
       "answer": "twelve",
-      "solution": "Answer: twelve"
+      "solution": "Spell the number word t-w-e-l-v-e."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Write 14 in English words.",
       "answer": "fourteen",
-      "solution": "Answer: fourteen"
+      "solution": "Fourteen is made from four and the ending -teen."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Write 18 in English words.",
       "answer": "eighteen",
-      "solution": "Answer: eighteen"
+      "solution": "Spell eighteen with one t: e-i-g-h-t-e-e-n."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Write 20 in English words.",
       "answer": "twenty",
-      "solution": "Answer: twenty"
+      "solution": "Spell the number word t-w-e-n-t-y."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Complete: one book, two ___. (book or books)",
       "answer": "books",
-      "solution": "Two books."
+      "solution": "Use the plural form with two; add s to book."
     }
   ],
   "summary": "Recognise and say English number words from zero to twenty. Practise with familiar objects.",
