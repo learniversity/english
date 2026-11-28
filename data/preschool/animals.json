@@ -102,42 +102,42 @@
       "type": "text",
       "question": "Which animal barks?",
       "answer": "dog",
-      "solution": "Answer: dog"
+      "solution": "A bark is the sound a dog makes."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which animal lives in water? (fish or horse)",
       "answer": "fish",
-      "solution": "Answer: fish"
+      "solution": "A fish lives and swims in water; a horse lives on land."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which animal has long ears? (rabbit or ant)",
       "answer": "rabbit",
-      "solution": "Answer: rabbit"
+      "solution": "A rabbit has long ears; an ant has antennae."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which farm animal has horns? (goat or duck)",
       "answer": "goat",
-      "solution": "Answer: goat"
+      "solution": "A goat can have horns; a duck has a bill."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which insect has colourful wings?",
       "answer": "butterfly",
-      "solution": "Answer: butterfly"
+      "solution": "A butterfly is an insect with broad, often colourful wings."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which bird swims? (duck or chicken)",
       "answer": "duck",
-      "solution": "Answer: duck"
+      "solution": "Ducks have webbed feet that help them swim."
     }
   ],
   "summary": "Name animals we see at home, on farms and in nature.",
