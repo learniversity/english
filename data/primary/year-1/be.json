@@ -77,84 +77,84 @@
       "type": "text",
       "question": "I ___ at home.",
       "answer": "am",
-      "solution": "Answer: am"
+      "solution": "Use am with I."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "You ___ my friend.",
       "answer": "are",
-      "solution": "Answer: are"
+      "solution": "Use are with you."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "A frog ___ green.",
       "answer": "is",
-      "solution": "Answer: is"
+      "solution": "A frog is singular, so use is."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "The desks ___ clean.",
       "answer": "are",
-      "solution": "Answer: are"
+      "solution": "Desks is plural, so use are."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "She ___ in the garden.",
       "answer": "is",
-      "solution": "Answer: is"
+      "solution": "Use is with she."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "We ___ happy.",
       "answer": "are",
-      "solution": "Answer: are"
+      "solution": "Use are with we."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "They ___ ready.",
       "answer": "are",
-      "solution": "Answer: are"
+      "solution": "Use are with they."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "The milk ___ cold.",
       "answer": "is",
-      "solution": "Answer: is"
+      "solution": "Milk is an uncountable noun, so use is."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "___ the door open?",
       "answer": "Is",
-      "solution": "Answer: Is"
+      "solution": "Move is before the singular subject to form a question."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "___ you tired?",
       "answer": "Are",
-      "solution": "Answer: Are"
+      "solution": "Move are before you to form a question."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "I am ___ sad. (make negative)",
       "answer": "not",
-      "solution": "Answer: not"
+      "solution": "Add not after am to make the sentence negative."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "He ___ seven years old.",
       "answer": "is",
-      "solution": "Answer: is"
+      "solution": "Use is with he."
     }
   ],
   "summary": "Am, is and are help us say what someone or something is like.",
