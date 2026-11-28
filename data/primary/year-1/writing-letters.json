@@ -55,7 +55,7 @@
       "type": "text",
       "question": "Copy exactly: flower",
       "answer": "flower",
-      "solution": "Answer: flower",
+      "solution": "Copy f-l-o-w-e-r in order.",
       "caseSensitive": true
     },
     {
@@ -63,7 +63,7 @@
       "type": "text",
       "question": "Copy exactly: butterfly",
       "answer": "butterfly",
-      "solution": "Answer: butterfly",
+      "solution": "Copy b-u-t-t-e-r-f-l-y; remember the double t.",
       "caseSensitive": true
     },
     {
@@ -71,7 +71,7 @@
       "type": "text",
       "question": "Copy exactly: schoolbag",
       "answer": "schoolbag",
-      "solution": "Answer: schoolbag",
+      "solution": "Copy school and bag together as one word.",
       "caseSensitive": true
     },
     {
@@ -79,7 +79,7 @@
       "type": "text",
       "question": "Copy exactly: yellow pencil",
       "answer": "yellow pencil",
-      "solution": "Answer: yellow pencil",
+      "solution": "Leave one space between yellow and pencil.",
       "caseSensitive": true
     },
     {
@@ -87,7 +87,7 @@
       "type": "text",
       "question": "Add spaces: Thecatisblack.",
       "answer": "The cat is black.",
-      "solution": "Answer: The cat is black.",
+      "solution": "Separate the words The, cat, is and black; keep the full stop.",
       "caseSensitive": true
     },
     {
@@ -95,7 +95,7 @@
       "type": "text",
       "question": "Add spaces: Ireadabook.",
       "answer": "I read a book.",
-      "solution": "Answer: I read a book.",
+      "solution": "Separate the words I, read, a and book.",
       "caseSensitive": true
     },
     {
@@ -103,7 +103,7 @@
       "type": "text",
       "question": "Add spaces: Wecanjump.",
       "answer": "We can jump.",
-      "solution": "Answer: We can jump.",
+      "solution": "Separate the words We, can and jump; keep the full stop.",
       "caseSensitive": true
     },
     {
@@ -111,7 +111,7 @@
       "type": "text",
       "question": "Copy exactly: My name is Mei.",
       "answer": "My name is Mei.",
-      "solution": "Answer: My name is Mei.",
+      "solution": "Keep the capital letters in My and Mei, spaces and full stop.",
       "caseSensitive": true
     },
     {
@@ -119,7 +119,7 @@
       "type": "text",
       "question": "Copy exactly: This is a green leaf.",
       "answer": "This is a green leaf.",
-      "solution": "Answer: This is a green leaf.",
+      "solution": "Keep the capital T, five words separated by spaces, and the full stop.",
       "caseSensitive": true
     },
     {
@@ -127,7 +127,7 @@
       "type": "text",
       "question": "Copy exactly: Ali has two cups.",
       "answer": "Ali has two cups.",
-      "solution": "Answer: Ali has two cups.",
+      "solution": "Keep the capital A in Ali, spaces between words and the full stop.",
       "caseSensitive": true
     }
   ],
