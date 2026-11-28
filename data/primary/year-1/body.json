@@ -155,70 +155,70 @@
       "type": "text",
       "question": "Which joint bends in the arm?",
       "answer": "elbow",
-      "solution": "Answer: elbow"
+      "solution": "The elbow connects the upper arm and forearm."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which joint is above the foot?",
       "answer": "ankle",
-      "solution": "Answer: ankle"
+      "solution": "The ankle connects the lower leg and foot."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which sense helps us hear music?",
       "answer": "hearing",
-      "solution": "Answer: hearing"
+      "solution": "We use our ears to detect sounds."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which sense helps us see colours?",
       "answer": "sight",
-      "solution": "Answer: sight"
+      "solution": "Our eyes allow us to see light and colours."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which sense helps us feel a soft blanket?",
       "answer": "touch",
-      "solution": "Answer: touch"
+      "solution": "Our skin detects textures and pressure."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which sense helps us detect a sweet flavour?",
       "answer": "taste",
-      "solution": "Answer: taste"
+      "solution": "Our tongue helps us detect flavours."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "What joins the head to the body?",
       "answer": "neck",
-      "solution": "Answer: neck"
+      "solution": "The neck supports the head and connects it to the body."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "What is the short thick digit on the hand?",
       "answer": "thumb",
-      "solution": "Answer: thumb"
+      "solution": "The thumb is the short digit opposite the fingers."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "What is the front of the head?",
       "answer": "face",
-      "solution": "Answer: face"
+      "solution": "The face contains the eyes, nose and mouth."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "What is a digit on the foot called?",
       "answer": "toe",
-      "solution": "Answer: toe"
+      "solution": "The digits at the end of a foot are called toes."
     }
   ],
   "summary": "Describe body parts and the five familiar senses.",
