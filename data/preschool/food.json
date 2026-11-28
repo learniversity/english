@@ -102,42 +102,42 @@
       "type": "text",
       "question": "Which is a drink? (water or bread)",
       "answer": "water",
-      "solution": "Answer: water"
+      "solution": "Water is a liquid we drink; bread is food we eat."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which fruit is long and often yellow?",
       "answer": "banana",
-      "solution": "Answer: banana"
+      "solution": "A banana is a curved fruit that is often yellow when ripe."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which food is a grain? (rice or egg)",
       "answer": "rice",
-      "solution": "Answer: rice"
+      "solution": "Rice is a grain; an egg is not."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which vegetable is often orange?",
       "answer": "carrot",
-      "solution": "Answer: carrot"
+      "solution": "A carrot is a root vegetable, often orange."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which food is liquid and eaten with a spoon?",
       "answer": "soup",
-      "solution": "Answer: soup"
+      "solution": "Soup is a liquid food often eaten with a spoon."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which drink is made from fruit?",
       "answer": "juice",
-      "solution": "Answer: juice"
+      "solution": "Juice is a drink made from the liquid of fruit."
     }
   ],
   "summary": "Recognise foods and drinks in everyday life.",
