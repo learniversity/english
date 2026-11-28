@@ -74,84 +74,84 @@
       "type": "text",
       "question": "Two ___ (dog).",
       "answer": "dogs",
-      "solution": "Answer: dogs"
+      "solution": "Add -s to dog for more than one."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Four ___ (cup).",
       "answer": "cups",
-      "solution": "Answer: cups"
+      "solution": "Add -s to cup for more than one."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Three ___ (bus).",
       "answer": "buses",
-      "solution": "Answer: buses"
+      "solution": "Add -es to nouns ending in s."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Five ___ (dish).",
       "answer": "dishes",
-      "solution": "Answer: dishes"
+      "solution": "Add -es to nouns ending in sh."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Two ___ (box).",
       "answer": "boxes",
-      "solution": "Answer: boxes"
+      "solution": "Add -es to nouns ending in x."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Three ___ (baby).",
       "answer": "babies",
-      "solution": "Answer: babies"
+      "solution": "After a consonant, change final y to ies."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Two ___ (toy).",
       "answer": "toys",
-      "solution": "Answer: toys"
+      "solution": "After a vowel, keep y and add s."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Two ___ (child).",
       "answer": "children",
-      "solution": "Answer: children"
+      "solution": "Child has an irregular plural form."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Two ___ (foot).",
       "answer": "feet",
-      "solution": "Answer: feet"
+      "solution": "Foot has an irregular plural: change oo to ee."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Three ___ (tooth).",
       "answer": "teeth",
-      "solution": "Answer: teeth"
+      "solution": "Tooth has an irregular plural: change oo to ee."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "One ___ (chairs).",
       "answer": "chair",
-      "solution": "Answer: chair"
+      "solution": "One requires the singular form; remove the final s."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "Four ___ (person).",
       "answer": "people",
-      "solution": "Answer: people"
+      "solution": "Person has an irregular plural form."
     }
   ],
   "summary": "Singular words name one thing. Plural words name more than one.",
