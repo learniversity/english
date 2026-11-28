@@ -73,7 +73,7 @@
       "type": "text",
       "question": "Put in order: swim / Fish",
       "answer": "Fish swim.",
-      "solution": "Answer: Fish swim.",
+      "solution": "Place the subject Fish before the verb swim; finish with a full stop.",
       "caseSensitive": true
     },
     {
@@ -81,7 +81,7 @@
       "type": "text",
       "question": "Put in order: like / I / rice",
       "answer": "I like rice.",
-      "solution": "Answer: I like rice.",
+      "solution": "Start with I, then the verb like and the object rice.",
       "caseSensitive": true
     },
     {
@@ -89,7 +89,7 @@
       "type": "text",
       "question": "Put in order: is / The cup / blue",
       "answer": "The cup is blue.",
-      "solution": "Answer: The cup is blue.",
+      "solution": "Place the subject first, then is and the adjective blue.",
       "caseSensitive": true
     },
     {
@@ -97,7 +97,7 @@
       "type": "text",
       "question": "Put in order: jump / can / We",
       "answer": "We can jump.",
-      "solution": "Answer: We can jump.",
+      "solution": "Put We first, followed by can and the base verb jump.",
       "caseSensitive": true
     },
     {
@@ -105,7 +105,7 @@
       "type": "text",
       "question": "Put in order: a kite / has / Ali",
       "answer": "Ali has a kite.",
-      "solution": "Answer: Ali has a kite.",
+      "solution": "Start with Ali, then has and the object a kite.",
       "caseSensitive": true
     },
     {
@@ -113,7 +113,7 @@
       "type": "text",
       "question": "Put in order: are / The books / new",
       "answer": "The books are new.",
-      "solution": "Answer: The books are new.",
+      "solution": "Use the plural subject The books, then are and the adjective new.",
       "caseSensitive": true
     },
     {
@@ -121,7 +121,7 @@
       "type": "text",
       "question": "Put in order: my / This is / bag",
       "answer": "This is my bag.",
-      "solution": "Answer: This is my bag.",
+      "solution": "Start with This is, then my and the noun bag.",
       "caseSensitive": true
     },
     {
@@ -129,7 +129,7 @@
       "type": "text",
       "question": "Put in order: drinks / Mei / milk",
       "answer": "Mei drinks milk.",
-      "solution": "Answer: Mei drinks milk.",
+      "solution": "Put Mei first, then drinks and the object milk.",
       "caseSensitive": true
     },
     {
@@ -137,7 +137,7 @@
       "type": "text",
       "question": "Put in order: play / They / football",
       "answer": "They play football.",
-      "solution": "Answer: They play football.",
+      "solution": "Start with They, followed by play and the object football.",
       "caseSensitive": true
     },
     {
@@ -145,7 +145,7 @@
       "type": "text",
       "question": "Put in order: The dog / under the table / sleeps",
       "answer": "The dog sleeps under the table.",
-      "solution": "Answer: The dog sleeps under the table.",
+      "solution": "Place the subject first, then sleeps and the phrase describing location.",
       "caseSensitive": true
     },
     {
@@ -153,28 +153,28 @@
       "type": "text",
       "question": "Join: I like apples. I like bananas. Complete: I like apples ___ bananas.",
       "answer": "and",
-      "solution": "Answer: and"
+      "solution": "Use and to join two things you like without repeating the subject and verb."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "Complete: My name ___ Aina.",
       "answer": "is",
-      "solution": "Answer: is"
+      "solution": "Use is with the singular subject My name."
     },
     {
       "id": "q13",
       "type": "text",
       "question": "Complete: I ___ seven years old.",
       "answer": "am",
-      "solution": "Answer: am"
+      "solution": "Use am with the subject I."
     },
     {
       "id": "q14",
       "type": "text",
       "question": "Complete: I have a red bag ___ a blue pen.",
       "answer": "and",
-      "solution": "Answer: and"
+      "solution": "Use and to join the two objects in the sentence."
     }
   ],
   "summary": "A simple sentence can tell who or what it is about and what happens or what it is like.",
