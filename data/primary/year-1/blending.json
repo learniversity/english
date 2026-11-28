@@ -56,70 +56,70 @@
       "type": "text",
       "question": "Join b-l-o-c-k.",
       "answer": "block",
-      "solution": "Answer: block"
+      "solution": "Blend the bl sound, short o and final ck sound."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Join f-r-o-g.",
       "answer": "frog",
-      "solution": "Answer: frog"
+      "solution": "Blend fr, short o and final g."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Join s-k-i-p.",
       "answer": "skip",
-      "solution": "Answer: skip"
+      "solution": "Blend sk, short i and final p."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Join s-t-a-r.",
       "answer": "star",
-      "solution": "Answer: star"
+      "solution": "Blend st with the ar sound."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Join t-r-i-p.",
       "answer": "trip",
-      "solution": "Answer: trip"
+      "solution": "Blend tr, short i and final p."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Join s-n-a-p.",
       "answer": "snap",
-      "solution": "Answer: snap"
+      "solution": "Blend sn, short a and final p."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Join b-r-u-s-h.",
       "answer": "brush",
-      "solution": "Answer: brush"
+      "solution": "Blend br, short u and the sh sound."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Join g-r-a-s-s.",
       "answer": "grass",
-      "solution": "Answer: grass"
+      "solution": "Blend gr, the vowel sound and final ss sound."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Write the first two letters in clap.",
       "answer": "cl",
-      "solution": "Answer: cl"
+      "solution": "Look at the first two letters before the a."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Write the final two letters in desk.",
       "answer": "sk",
-      "solution": "Answer: sk"
+      "solution": "Look at the two letters after de."
     }
   ],
   "summary": "Blending joins sounds to read a word. Segmenting separates a word into sounds to help spell it.",
