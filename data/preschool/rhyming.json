@@ -99,70 +99,70 @@
       "type": "text",
       "question": "Which rhymes with bat: hat or bed?",
       "answer": "hat",
-      "solution": "Answer: hat"
+      "solution": "Bat and hat share the ending sound in cat."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which rhymes with red: bed or dog?",
       "answer": "bed",
-      "solution": "Answer: bed"
+      "solution": "Red and bed share the same -ed sound."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which rhymes with pin: bin or pen?",
       "answer": "bin",
-      "solution": "Answer: bin"
+      "solution": "Pin and bin share the same -in sound."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which rhymes with fox: box or fish?",
       "answer": "box",
-      "solution": "Answer: box"
+      "solution": "Fox and box share the same ending sound."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which rhymes with boat: coat or cat?",
       "answer": "coat",
-      "solution": "Answer: coat"
+      "solution": "Boat and coat share the same -oat sound."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which rhymes with light: night or leaf?",
       "answer": "night",
-      "solution": "Answer: night"
+      "solution": "Light and night share the same -ight sound."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Which rhymes with book: look or lock?",
       "answer": "look",
-      "solution": "Answer: look"
+      "solution": "Book and look share the same -ook sound."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Which rhymes with rain: train or tree?",
       "answer": "train",
-      "solution": "Answer: train"
+      "solution": "Rain and train share the same -ain sound."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Which rhymes with bee: tree or toy?",
       "answer": "tree",
-      "solution": "Answer: tree"
+      "solution": "Bee and tree share the same long ee sound."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Which rhymes with mouse: house or horse?",
       "answer": "house",
-      "solution": "Answer: house"
+      "solution": "Mouse and house share the same final sound."
     }
   ],
   "summary": "Rhyming words have matching ending sounds, like cat and hat.",
