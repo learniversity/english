@@ -106,70 +106,70 @@
       "type": "text",
       "question": "Join m-a-p.",
       "answer": "map",
-      "solution": "Answer: map"
+      "solution": "Blend /m/, the short a sound and /p/ into one word."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Join c-a-p.",
       "answer": "cap",
-      "solution": "Answer: cap"
+      "solution": "Blend /k/, the short a sound and /p/ into one word."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Join b-e-d.",
       "answer": "bed",
-      "solution": "Answer: bed"
+      "solution": "Blend /b/, the short e sound and /d/ into one word."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Join p-e-n.",
       "answer": "pen",
-      "solution": "Answer: pen"
+      "solution": "Blend /p/, the short e sound and /n/ into one word."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Join p-i-n.",
       "answer": "pin",
-      "solution": "Answer: pin"
+      "solution": "Blend /p/, the short i sound and /n/ into one word."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Join s-i-t.",
       "answer": "sit",
-      "solution": "Answer: sit"
+      "solution": "Blend /s/, the short i sound and /t/ into one word."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Join p-o-t.",
       "answer": "pot",
-      "solution": "Answer: pot"
+      "solution": "Blend /p/, the short o sound and /t/ into one word."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Join b-u-s.",
       "answer": "bus",
-      "solution": "Answer: bus"
+      "solution": "Blend /b/, the short u sound and /s/ into one word."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Join r-u-g.",
       "answer": "rug",
-      "solution": "Answer: rug"
+      "solution": "Blend /r/, the short u sound and /g/ into one word."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Join d-o-g.",
       "answer": "dog",
-      "solution": "Answer: dog"
+      "solution": "Blend /d/, the short o sound and /g/ into one word."
     }
   ],
   "summary": "Join the sounds in short words to read them. For example, c-a-t makes cat.",
