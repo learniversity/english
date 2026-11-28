@@ -165,84 +165,84 @@
       "type": "text",
       "question": "Which toy flies on a string?",
       "answer": "kite",
-      "solution": "Answer: kite"
+      "solution": "A kite is held by a string while flying in the wind."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which toy goes up and down a string?",
       "answer": "yo-yo",
-      "solution": "Answer: yo-yo"
+      "solution": "A yo-yo moves up and down as its string winds and unwinds."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which toy has pieces that fit together?",
       "answer": "puzzle",
-      "solution": "Answer: puzzle"
+      "solution": "A puzzle is completed by fitting pieces together."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which toy is a soft bear?",
       "answer": "teddy bear",
-      "solution": "Answer: teddy bear"
+      "solution": "A teddy bear is a soft toy shaped like a bear."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which vehicle has two wheels and pedals?",
       "answer": "bicycle",
-      "solution": "Answer: bicycle"
+      "solution": "A bicycle has two wheels and is moved by pedals."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which toy is a model house?",
       "answer": "dollhouse",
-      "solution": "Answer: dollhouse"
+      "solution": "A dollhouse is a miniature house used for play."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Which toy do you hit to make music?",
       "answer": "drum",
-      "solution": "Answer: drum"
+      "solution": "A drum makes sound when its surface is struck."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Complete: This is ___ robot. It belongs to me.",
       "answer": "my",
-      "solution": "Answer: my"
+      "solution": "Use my for something belonging to the speaker."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Complete: That is ___ kite. It belongs to you.",
       "answer": "your",
-      "solution": "Answer: your"
+      "solution": "Use your for something belonging to the listener."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Complete: I have two ___. (balls or ball)",
       "answer": "balls",
-      "solution": "Answer: balls"
+      "solution": "Two requires the plural form; add s to ball."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Which game uses a board?",
       "answer": "board game",
-      "solution": "Answer: board game"
+      "solution": "A board game is played using a board."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "Which toy is made of small round balls? (marbles or blocks)",
       "answer": "marbles",
-      "solution": "Answer: marbles"
+      "solution": "Marbles are small round balls used in games."
     }
   ],
   "summary": "We can name toys and say who owns them.",
