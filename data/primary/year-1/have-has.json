@@ -68,84 +68,84 @@
       "type": "text",
       "question": "I ___ a notebook.",
       "answer": "have",
-      "solution": "Answer: have"
+      "solution": "Use have with I."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "She ___ a red scarf.",
       "answer": "has",
-      "solution": "Answer: has"
+      "solution": "Use has with she."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "They ___ three toys.",
       "answer": "have",
-      "solution": "Answer: have"
+      "solution": "Use have with they."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "A bird ___ wings.",
       "answer": "has",
-      "solution": "Answer: has"
+      "solution": "A bird is singular, so use has."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "We ___ a new teacher.",
       "answer": "have",
-      "solution": "Answer: have"
+      "solution": "Use have with we."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "The cat ___ whiskers.",
       "answer": "has",
-      "solution": "Answer: has"
+      "solution": "The cat is singular, so use has."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "My cousins ___ bicycles.",
       "answer": "have",
-      "solution": "Answer: have"
+      "solution": "Cousins is plural, so use have."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "You ___ a nice hat.",
       "answer": "have",
-      "solution": "Answer: have"
+      "solution": "Use have with you."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Does he ___ a ruler?",
       "answer": "have",
-      "solution": "Answer: have"
+      "solution": "After does, use the base form have."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Do they ___ books?",
       "answer": "have",
-      "solution": "Answer: have"
+      "solution": "After do, use the base form have."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "The house ___ two doors.",
       "answer": "has",
-      "solution": "Answer: has"
+      "solution": "The house is singular, so use has."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "Ali and Mei ___ lunch boxes.",
       "answer": "have",
-      "solution": "Answer: have"
+      "solution": "Two people joined by and form a plural subject."
     }
   ],
   "summary": "Have and has help us talk about possessions and features.",
