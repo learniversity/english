@@ -181,84 +181,84 @@
       "type": "text",
       "question": "Where can you borrow books?",
       "answer": "library",
-      "solution": "Answer: library"
+      "solution": "A library lends books to readers."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Where can pupils buy lunch?",
       "answer": "canteen",
-      "solution": "Answer: canteen"
+      "solution": "A canteen is a place where pupils can buy food."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Who teaches a class?",
       "answer": "teacher",
-      "solution": "Answer: teacher"
+      "solution": "A teacher helps pupils learn in class."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "What shows lesson times?",
       "answer": "timetable",
-      "solution": "Answer: timetable"
+      "solution": "A timetable lists lessons and their times."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "What sharpens pencils?",
       "answer": "sharpener",
-      "solution": "Answer: sharpener"
+      "solution": "A sharpener makes a pencil point sharp."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "What explains word meanings?",
       "answer": "dictionary",
-      "solution": "Answer: dictionary"
+      "solution": "A dictionary gives word meanings."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "What holds pens and pencils?",
       "answer": "pencil case",
-      "solution": "Answer: pencil case"
+      "solution": "A pencil case holds writing tools."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "What is a book of exercises?",
       "answer": "workbook",
-      "solution": "Answer: workbook"
+      "solution": "A workbook contains activities and exercises."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Where can children play at school?",
       "answer": "playground",
-      "solution": "Answer: playground"
+      "solution": "A playground is an area for play."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Complete: This ___ my notebook.",
       "answer": "is",
-      "solution": "Answer: is"
+      "solution": "Use is with this to identify one thing."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Complete: There are two ___. (desks or desk)",
       "answer": "desks",
-      "solution": "Answer: desks"
+      "solution": "Two requires a plural noun; add s to desk."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "What is a person in your class called?",
       "answer": "classmate",
-      "solution": "Answer: classmate"
+      "solution": "A classmate is someone in the same class."
     }
   ],
   "summary": "Use classroom words to name, identify and describe objects at school.",
