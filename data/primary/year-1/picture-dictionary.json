@@ -32,35 +32,35 @@
       "type": "text",
       "question": "Which word matches 🐱: cat or cup?",
       "answer": "cat",
-      "solution": "Answer: cat"
+      "solution": "The picture shows an animal with pointed ears and whiskers."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which word matches 🍎: apple or ant?",
       "answer": "apple",
-      "solution": "Answer: apple"
+      "solution": "The picture shows a round fruit, not an insect."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which word comes first in alphabetical order: bag or cat?",
       "answer": "bag",
-      "solution": "Answer: bag"
+      "solution": "B comes before C in the alphabet."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which letter would you look under for dog?",
       "answer": "d",
-      "solution": "Answer: d"
+      "solution": "Look under the first letter of the word dog."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which word matches ☀️: sun or sock?",
       "answer": "sun",
-      "solution": "Answer: sun"
+      "solution": "The picture shows the bright object seen in the daytime sky."
     }
   ],
   "summary": "Match familiar words to pictures. A picture dictionary helps you find a word and its meaning. Look at the first letter and the picture.",
