@@ -136,70 +136,70 @@
       "type": "text",
       "question": "Name the colour of a ripe strawberry.",
       "answer": "red",
-      "solution": "Answer: red"
+      "solution": "A ripe strawberry is usually the colour shown by red."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Name the colour of a lemon.",
       "answer": "yellow",
-      "solution": "Answer: yellow"
+      "solution": "A ripe lemon is usually yellow."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Name the colour of many leaves.",
       "answer": "green",
-      "solution": "Answer: green"
+      "solution": "Many leaves are green because they contain chlorophyll."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Name the colour of a clear daytime sky.",
       "answer": "blue",
-      "solution": "Answer: blue"
+      "solution": "A clear daytime sky usually looks blue."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Name the colour of a ripe orange.",
       "answer": "orange",
-      "solution": "Answer: orange"
+      "solution": "A ripe orange usually has orange skin."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which rainbow colour comes between blue and violet in the traditional seven-colour list?",
       "answer": "indigo",
-      "solution": "Answer: indigo"
+      "solution": "Say the rainbow order: green, blue, indigo, violet."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Name the colour of fresh snow.",
       "answer": "white",
-      "solution": "Answer: white"
+      "solution": "Fresh snow usually looks white."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Name the colour of many tree trunks.",
       "answer": "brown",
-      "solution": "Answer: brown"
+      "solution": "Many tree trunks have brown bark."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Which colour is darker: black or white?",
       "answer": "black",
-      "solution": "Answer: black"
+      "solution": "Black reflects less visible light than white."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Name the colour between red and yellow in the rainbow.",
       "answer": "orange",
-      "solution": "Answer: orange"
+      "solution": "Say the rainbow order: red, orange, yellow."
     }
   ],
   "summary": "Practise all seven rainbow colours and familiar everyday colours.",
