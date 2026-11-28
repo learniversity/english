@@ -105,70 +105,70 @@
       "type": "text",
       "question": "A fish can ___ (swim or swims).",
       "answer": "swim",
-      "solution": "Answer: swim"
+      "solution": "After can, use the base form of the verb."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "A penguin ___ fly. (can or cannot)",
       "answer": "cannot",
-      "solution": "Answer: cannot"
+      "solution": "Penguins are birds adapted to swimming rather than flying."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "I can ___ a picture. (paint or paints)",
       "answer": "paint",
-      "solution": "Answer: paint"
+      "solution": "Use the base verb after can, without s."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "___ you catch a ball?",
       "answer": "Can",
-      "solution": "Answer: Can"
+      "solution": "Put can before you to ask about ability."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "A horse can ___. (run or runs)",
       "answer": "run",
-      "solution": "Answer: run"
+      "solution": "Use the base form run after can."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Complete: No, I ___. (cannot or does not)",
       "answer": "cannot",
-      "solution": "Answer: cannot"
+      "solution": "Use cannot to give a negative reply to a can question."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "A butterfly can ___ (fly or flies).",
       "answer": "fly",
-      "solution": "Answer: fly"
+      "solution": "After can, do not add s to the verb."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "She can ___ a bicycle. (ride or rides)",
       "answer": "ride",
-      "solution": "Answer: ride"
+      "solution": "Use the base form ride after can."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "A rabbit can ___. (hop or hops)",
       "answer": "hop",
-      "solution": "Answer: hop"
+      "solution": "Use the base form hop after can."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Complete: Yes, I ___. (can or am)",
       "answer": "can",
-      "solution": "Answer: can"
+      "solution": "Use can in a positive short reply to a can question."
     }
   ],
   "summary": "Use can to say what someone is able to do and cannot to say what they are not able to do.",
