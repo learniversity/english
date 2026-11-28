@@ -32,35 +32,35 @@
       "type": "text",
       "question": "What do you wear on your feet: shoes or hats?",
       "answer": "shoes",
-      "solution": "Answer: shoes"
+      "solution": "Shoes cover and protect the feet; hats cover the head."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "What do you wear on your head: a hat or socks?",
       "answer": "a hat",
-      "solution": "Answer: a hat"
+      "solution": "Choose the item worn on the head."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Complete: I wear a blue ___. (shirt or shirts)",
       "answer": "shirt",
-      "solution": "Answer: shirt"
+      "solution": "The article a requires a singular countable noun."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "What do you wear under shoes: socks or gloves?",
       "answer": "socks",
-      "solution": "Answer: socks"
+      "solution": "Socks cover the feet inside shoes; gloves cover the hands."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Complete: These ___ my trousers.",
       "answer": "are",
-      "solution": "Answer: are"
+      "solution": "These and trousers are plural, so use are."
     }
   ],
   "summary": "Name familiar clothes and describe their colours using simple sentences.",
