@@ -66,84 +66,84 @@
       "type": "text",
       "question": "___ elephant",
       "answer": "an",
-      "solution": "Answer: an"
+      "solution": "Elephant begins with a vowel sound, so use an."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "___ mango",
       "answer": "a",
-      "solution": "Answer: a"
+      "solution": "Mango begins with the consonant sound /m/."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "___ umbrella",
       "answer": "an",
-      "solution": "Answer: an"
+      "solution": "Umbrella begins with a vowel sound."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "___ ruler",
       "answer": "a",
-      "solution": "Answer: a"
+      "solution": "Ruler begins with the consonant sound /r/."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "___ octopus",
       "answer": "an",
-      "solution": "Answer: an"
+      "solution": "Octopus begins with a vowel sound."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "___ pencil case",
       "answer": "a",
-      "solution": "Answer: a"
+      "solution": "Pencil begins with the consonant sound /p/."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "___ ant",
       "answer": "an",
-      "solution": "Answer: an"
+      "solution": "Ant begins with a vowel sound."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "___ flower",
       "answer": "a",
-      "solution": "Answer: a"
+      "solution": "Flower begins with the consonant sound /f/."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "___ ice cream (one serving)",
       "answer": "an",
-      "solution": "Answer: an"
+      "solution": "Ice begins with a vowel sound."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "___ uniform",
       "answer": "a",
-      "solution": "Answer: a"
+      "solution": "Uniform starts with the consonant sound /j/, like the y in yes."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "___ hour",
       "answer": "an",
-      "solution": "Answer: an"
+      "solution": "The h in hour is silent, so the word starts with a vowel sound."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "___ book",
       "answer": "a",
-      "solution": "Answer: a"
+      "solution": "Book begins with the consonant sound /b/."
     }
   ],
   "summary": "Use a or an before a single countable thing when it is not already identified. Choose by the next sound.",
