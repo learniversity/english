@@ -110,42 +110,42 @@
       "type": "text",
       "question": "Where do we prepare food?",
       "answer": "kitchen",
-      "solution": "Answer: kitchen"
+      "solution": "The kitchen is the room where meals are prepared."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "What do we sleep on?",
       "answer": "bed",
-      "solution": "Answer: bed"
+      "solution": "A bed is furniture made for sleeping."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "What supports your head in bed?",
       "answer": "pillow",
-      "solution": "Answer: pillow"
+      "solution": "A pillow is a soft cushion for your head."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "What can cover you to keep warm?",
       "answer": "blanket",
-      "solution": "Answer: blanket"
+      "solution": "A blanket covers your body and helps you stay warm."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "What do you drink from?",
       "answer": "cup",
-      "solution": "Answer: cup"
+      "solution": "A cup is a small container used for drinking."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "What gives light in a room?",
       "answer": "lamp",
-      "solution": "Answer: lamp"
+      "solution": "A lamp produces light indoors."
     }
   ],
   "summary": "Learn the names of rooms and familiar household things.",
