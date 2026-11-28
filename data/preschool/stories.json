@@ -45,56 +45,56 @@
       "type": "text",
       "question": "What colour is Aina's kite?",
       "answer": "yellow",
-      "solution": "Answer: yellow"
+      "solution": "In Story 1, look for the colour used to describe Aina's kite."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Who goes with Aina? (brother or sister)",
       "answer": "brother",
-      "solution": "Answer: brother"
+      "solution": "In Story 1, find the family member who goes with Aina."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "What do they fly?",
       "answer": "kite",
-      "solution": "Answer: kite"
+      "solution": "In Story 1, identify the object Aina and her brother fly."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "What colour is Ben's cup?",
       "answer": "red",
-      "solution": "Answer: red"
+      "solution": "In Story 2, look for the colour used to describe Ben's cup."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which animal gets the water?",
       "answer": "dog",
-      "solution": "Answer: dog"
+      "solution": "In Story 2, find the animal that receives the water."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "What does Mei draw?",
       "answer": "flower",
-      "solution": "Answer: flower"
+      "solution": "In Story 3, find what Mei makes with her drawing materials."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "What colour is the flower?",
       "answer": "pink",
-      "solution": "Answer: pink"
+      "solution": "In Story 3, look for the colour used to describe the flower."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Who gets Mei's picture?",
       "answer": "grandmother",
-      "solution": "Answer: grandmother"
+      "solution": "In Story 3, find the family member who receives Mei's drawing."
     }
   ],
   "summary": "Stories tell us about people, animals or events. Listen, look at pictures and talk about what happens.",
