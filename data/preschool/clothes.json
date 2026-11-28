@@ -102,42 +102,42 @@
       "type": "text",
       "question": "What do we wear on our head? (hat or socks)",
       "answer": "hat",
-      "solution": "Answer: hat"
+      "solution": "A hat covers the head; socks cover the feet."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "What helps keep rain off?",
       "answer": "raincoat",
-      "solution": "Answer: raincoat"
+      "solution": "A raincoat helps keep your clothes dry in rain."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "What covers the feet inside shoes?",
       "answer": "socks",
-      "solution": "Answer: socks"
+      "solution": "Socks are worn on the feet, often inside shoes."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "What is a casual top with short sleeves?",
       "answer": "T-shirt",
-      "solution": "Answer: T-shirt"
+      "solution": "A T-shirt is a casual top, usually with short sleeves."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "What is open footwear?",
       "answer": "sandals",
-      "solution": "Answer: sandals"
+      "solution": "Sandals leave parts of the feet uncovered."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "What are short trousers called?",
       "answer": "shorts",
-      "solution": "Answer: shorts"
+      "solution": "Shorts are trousers with short legs."
     }
   ],
   "summary": "Name things we wear in different situations.",
