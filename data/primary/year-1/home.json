@@ -32,35 +32,35 @@
       "type": "text",
       "question": "Where do you usually sleep: bedroom or kitchen?",
       "answer": "bedroom",
-      "solution": "Answer: bedroom"
+      "solution": "A bedroom is a room used for sleeping."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Where do you usually cook: kitchen or bedroom?",
       "answer": "kitchen",
-      "solution": "Answer: kitchen"
+      "solution": "A kitchen is a room used for preparing meals."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Complete: The pillow is ___ the bed. (on or under; it is resting on top)",
       "answer": "on",
-      "solution": "Answer: on"
+      "solution": "Use on when something rests on top of another object."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which room has a shower: bathroom or living room?",
       "answer": "bathroom",
-      "solution": "Answer: bathroom"
+      "solution": "A bathroom is used for washing and bathing."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Complete: This ___ my home.",
       "answer": "is",
-      "solution": "Answer: is"
+      "solution": "Use is with this to identify one thing."
     }
   ],
   "summary": "Name familiar rooms and objects in a home. Say where things are using simple phrases.",
