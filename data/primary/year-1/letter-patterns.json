@@ -90,70 +90,70 @@
       "type": "text",
       "question": "Complete: __op (sh or ch), a place to buy things.",
       "answer": "sh",
-      "solution": "Answer: sh"
+      "solution": "The sh pattern represents the first sound in shop."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Complete: __eese (ch or th), a dairy food.",
       "answer": "ch",
-      "solution": "Answer: ch"
+      "solution": "The ch pattern represents the first sound in cheese."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Complete: __ree (th or sh), number 3.",
       "answer": "th",
-      "solution": "Answer: th"
+      "solution": "The th pattern represents the first sound in three."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Complete: ri__ (ng or ck), jewellery for a finger.",
       "answer": "ng",
-      "solution": "Answer: ng"
+      "solution": "The ng pattern represents the last sound in ring."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Complete: ne__ (ck or ng), joins the head to the body.",
       "answer": "ck",
-      "solution": "Answer: ck"
+      "solution": "The ck pattern represents the final /k/ sound in neck."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Complete: f__t (ee or ai), plural of foot.",
       "answer": "ee",
-      "solution": "Answer: ee"
+      "solution": "The ee pattern gives the long ee sound in feet."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Complete: sp__n (oo or ee), a tool for eating soup.",
       "answer": "oo",
-      "solution": "Answer: oo"
+      "solution": "The oo pattern gives the long oo sound in spoon."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Complete: tr__n (ai or ee), a railway vehicle.",
       "answer": "ai",
-      "solution": "Answer: ai"
+      "solution": "The ai pattern gives the long a sound in train."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Which begins like chair: cheese or shell?",
       "answer": "cheese",
-      "solution": "Answer: cheese"
+      "solution": "Chair and cheese begin with the same ch sound."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Which ends like sing: king or sock?",
       "answer": "king",
-      "solution": "Answer: king"
+      "solution": "Sing and king end with the same ng sound."
     }
   ],
   "summary": "Two letters can work together to represent one sound, such as sh in ship.",
