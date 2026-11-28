@@ -70,56 +70,56 @@
       "type": "text",
       "question": "Complete: I ___ tired.",
       "answer": "am",
-      "solution": "Answer: am"
+      "solution": "Use am with the subject I."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Complete: I ___ a ruler. (have or has)",
       "answer": "have",
-      "solution": "Answer: have"
+      "solution": "Use have with I; use has with he, she or it."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Complete: This ___ a cup.",
       "answer": "is",
-      "solution": "Answer: is"
+      "solution": "Use is with this when naming one thing."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Complete: I ___ bananas. (like or likes)",
       "answer": "like",
-      "solution": "Answer: like"
+      "solution": "Use the base verb like after I."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Complete: The flower ___ pink.",
       "answer": "is",
-      "solution": "Answer: is"
+      "solution": "The flower is one thing, so use is."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Complete: You ___ kind.",
       "answer": "are",
-      "solution": "Answer: are"
+      "solution": "Use are with the subject you."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Complete: That is ___ egg.",
       "answer": "an",
-      "solution": "Answer: an"
+      "solution": "Egg begins with a vowel sound, so use an."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Complete: I can ___. (jump or jumps)",
       "answer": "jump",
-      "solution": "Answer: jump"
+      "solution": "After can, use the base form of the verb without s."
     }
   ],
   "summary": "A sentence can express a complete idea. Say short sentences about yourself and the world around you.",
