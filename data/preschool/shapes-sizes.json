@@ -311,70 +311,70 @@
       "type": "text",
       "question": "Which shape has three straight sides?",
       "answer": "triangle",
-      "solution": "Answer: triangle"
+      "solution": "A triangle is a flat shape with three straight sides."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which shape is round like a coin?",
       "answer": "circle",
-      "solution": "Answer: circle"
+      "solution": "A circle is round and has no corners."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which shape has four equal sides and square corners?",
       "answer": "square",
-      "solution": "Answer: square"
+      "solution": "A square has four equal sides and four right angles."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which shape looks like the outline of an egg?",
       "answer": "oval",
-      "solution": "Answer: oval"
+      "solution": "An oval is a rounded shape that can look like an egg outline."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which shape has points like a decoration in the sky?",
       "answer": "star",
-      "solution": "Answer: star"
+      "solution": "A star shape has points extending outwards."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Opposite of big?",
       "answer": "small",
-      "solution": "Answer: small"
+      "solution": "Big and small describe opposite sizes."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Opposite of long?",
       "answer": "short",
-      "solution": "Answer: short"
+      "solution": "Long and short describe opposite lengths."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Opposite of wide?",
       "answer": "narrow",
-      "solution": "Answer: narrow"
+      "solution": "Wide and narrow describe opposite widths."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "A giraffe is ___. (tall or short)",
       "answer": "tall",
-      "solution": "Answer: tall"
+      "solution": "A giraffe has a long neck and stands high above the ground."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "A tiny ant is ___. (big or small)",
       "answer": "small",
-      "solution": "Answer: small"
+      "solution": "Tiny means very small."
     }
   ],
   "summary": "Name familiar shapes and describe objects using simple size words.",
