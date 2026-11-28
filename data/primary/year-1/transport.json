@@ -32,35 +32,35 @@
       "type": "text",
       "question": "Which travels on water: boat or bus?",
       "answer": "boat",
-      "solution": "Answer: boat"
+      "solution": "A boat travels on water; a bus travels on roads."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which has two wheels and pedals: bicycle or train?",
       "answer": "bicycle",
-      "solution": "Answer: bicycle"
+      "solution": "A bicycle has two wheels and pedals."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which travels on rails: train or car?",
       "answer": "train",
-      "solution": "Answer: train"
+      "solution": "A train travels along railway tracks."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Complete: I go to school ___ bus. (by or on)",
       "answer": "by",
-      "solution": "Answer: by"
+      "solution": "Use by with a means of transport when describing how you travel."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which flies in the sky: aeroplane or bicycle?",
       "answer": "aeroplane",
-      "solution": "Answer: aeroplane"
+      "solution": "An aeroplane flies through the air; a bicycle travels on land."
     }
   ],
   "summary": "Name familiar forms of transport and say how people travel.",
