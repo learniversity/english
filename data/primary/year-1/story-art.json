@@ -51,84 +51,84 @@
       "type": "text",
       "question": "Read: Sara finds a kitten by a shop. What animal does she find?",
       "answer": "kitten",
-      "solution": "Answer: kitten"
+      "solution": "Identify the young animal Sara finds near the shop."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Read: Ravi plants a bean in a pot. What does he plant?",
       "answer": "bean",
-      "solution": "Answer: bean"
+      "solution": "Find the object Ravi puts into the pot."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Read: Ravi waters his plant each day. What appears? (shoot or stone)",
       "answer": "shoot",
-      "solution": "Answer: shoot"
+      "solution": "A growing seed develops a small new shoot."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Read: Mei folds paper into a boat. What does she make?",
       "answer": "boat",
-      "solution": "Answer: boat"
+      "solution": "Identify the object Mei makes by folding paper."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Read: The wind moves Mei's boat on a puddle. What moves the boat?",
       "answer": "wind",
-      "solution": "Answer: wind"
+      "solution": "Find what causes the paper boat to move."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Read: Sara asks an adult for help. Who does she ask?",
       "answer": "adult",
-      "solution": "Answer: adult"
+      "solution": "Identify the person Sara asks for assistance."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Read: Aina draws a tiger in a forest. Which animal is in her drawing?",
       "answer": "tiger",
-      "solution": "Answer: tiger"
+      "solution": "Find the animal Aina draws in the forest."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Read: Ben makes a kite from paper and string. What does he make?",
       "answer": "kite",
-      "solution": "Answer: kite"
+      "solution": "Identify the object made from paper and string."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Read: Lina acts like a rabbit in a play. Which animal does she act like?",
       "answer": "rabbit",
-      "solution": "Answer: rabbit"
+      "solution": "Find the animal Lina imitates in the play."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Read: Amir paints a picture of a cloudy sky. What does he paint? (sky or sea)",
       "answer": "sky",
-      "solution": "Answer: sky"
+      "solution": "Identify what Amir paints rather than the material he uses."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "A story is about a lost puppy. Complete a caption for a drawing: This is a ___.",
       "answer": "puppy",
-      "solution": "Answer: puppy"
+      "solution": "Use the noun naming the young dog in the story."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "A character plants a seed. What could you draw: a plant or a bus?",
       "answer": "a plant",
-      "solution": "Answer: a plant"
+      "solution": "A seed grows into a plant, which matches the story."
     }
   ],
   "summary": "Stories can inspire us to draw, talk and make things. Think about the people, places and events in a story.",
