@@ -143,70 +143,70 @@
       "type": "text",
       "question": "What weather has many clouds?",
       "answer": "cloudy",
-      "solution": "Answer: cloudy"
+      "solution": "Cloudy describes a sky covered by many clouds."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "What weather has falling rain?",
       "answer": "rainy",
-      "solution": "Answer: rainy"
+      "solution": "Rainy describes weather in which rain falls."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "What is a small pool of water?",
       "answer": "puddle",
-      "solution": "Answer: puddle"
+      "solution": "A puddle is a small pool of water on the ground."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "What is a bright electrical flash in the sky?",
       "answer": "lightning",
-      "solution": "Answer: lightning"
+      "solution": "Lightning is a bright electrical discharge in the atmosphere."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "What is the sound of lightning?",
       "answer": "thunder",
-      "solution": "Answer: thunder"
+      "solution": "Thunder is the sound caused by lightning."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "What is the opposite of wet?",
       "answer": "dry",
-      "solution": "Answer: dry"
+      "solution": "Wet means containing or covered in water; its opposite has no moisture."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "What is the opposite of hot?",
       "answer": "cold",
-      "solution": "Answer: cold"
+      "solution": "Hot describes a high temperature; its opposite describes a low temperature."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "What can you hold above your head in the rain?",
       "answer": "umbrella",
-      "solution": "Answer: umbrella"
+      "solution": "An umbrella provides cover from rain."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "What is an arc of colours in the sky?",
       "answer": "rainbow",
-      "solution": "Answer: rainbow"
+      "solution": "A rainbow appears as an arc of colours when sunlight interacts with water droplets."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "What weather has moving air?",
       "answer": "windy",
-      "solution": "Answer: windy"
+      "solution": "Windy describes weather with noticeable moving air."
     }
   ],
   "summary": "Use familiar words to describe daily weather.",
