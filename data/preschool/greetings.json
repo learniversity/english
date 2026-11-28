@@ -114,56 +114,56 @@
       "type": "text",
       "question": "Complete: Good ___ (before sleeping).",
       "answer": "night",
-      "solution": "Answer: night"
+      "solution": "Use the greeting said before going to sleep."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Complete: Thank ___.",
       "answer": "you",
-      "solution": "Answer: you"
+      "solution": "We say this polite phrase when someone helps us."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Complete: Water, ___.",
       "answer": "please",
-      "solution": "Answer: please"
+      "solution": "Add a polite word when asking for something."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Complete: Excuse ___.",
       "answer": "me",
-      "solution": "Answer: me"
+      "solution": "Use this phrase to get someone's attention politely."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "What can you say after accidentally stepping on a foot? (sorry or hello)",
       "answer": "sorry",
-      "solution": "Answer: sorry"
+      "solution": "Say sorry when you accidentally hurt someone."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Complete: Good ___ (after lunch).",
       "answer": "afternoon",
-      "solution": "Answer: afternoon"
+      "solution": "Afternoon is the part of the day after noon."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Complete: See ___.",
       "answer": "you",
-      "solution": "Answer: you"
+      "solution": "This is a friendly phrase used when saying goodbye."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Complete: You are ___.",
       "answer": "welcome",
-      "solution": "Answer: welcome"
+      "solution": "This polite reply is used after someone thanks you."
     }
   ],
   "summary": "Greetings help us start conversations. Polite words help us show kindness.",
