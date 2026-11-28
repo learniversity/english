@@ -98,42 +98,42 @@
       "type": "text",
       "question": "Which vehicle travels on rails?",
       "answer": "train",
-      "solution": "Answer: train"
+      "solution": "Trains run along railway tracks."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which vehicle has pedals?",
       "answer": "bicycle",
-      "solution": "Answer: bicycle"
+      "solution": "A bicycle moves when the rider pushes its pedals."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which carries many passengers on roads?",
       "answer": "bus",
-      "solution": "Answer: bus"
+      "solution": "A bus carries groups of passengers along roads."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which is a large vessel on water?",
       "answer": "ship",
-      "solution": "Answer: ship"
+      "solution": "A ship is a large vessel that travels on water."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which aircraft has spinning rotor blades?",
       "answer": "helicopter",
-      "solution": "Answer: helicopter"
+      "solution": "A helicopter uses spinning rotor blades to lift into the air."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which vehicle carries goods on roads? (lorry or boat)",
       "answer": "lorry",
-      "solution": "Answer: lorry"
+      "solution": "A lorry carries goods by road; a boat travels on water."
     }
   ],
   "summary": "Name familiar ways to travel.",
