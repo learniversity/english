@@ -94,42 +94,42 @@
       "type": "text",
       "question": "How might you feel when you need sleep?",
       "answer": "tired",
-      "solution": "Answer: tired"
+      "solution": "Needing rest or sleep can make you feel tired."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "What means feeling afraid?",
       "answer": "scared",
-      "solution": "Answer: scared"
+      "solution": "Feeling afraid means feeling scared."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "What means feeling peaceful?",
       "answer": "calm",
-      "solution": "Answer: calm"
+      "solution": "When you feel peaceful and relaxed, you are calm."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "What means feeling pleased?",
       "answer": "happy",
-      "solution": "Answer: happy"
+      "solution": "Feeling pleased or joyful means feeling happy."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "What means feeling unhappy?",
       "answer": "sad",
-      "solution": "Answer: sad"
+      "solution": "Feeling unhappy can mean feeling sad."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "What means feeling something unexpected?",
       "answer": "surprised",
-      "solution": "Answer: surprised"
+      "solution": "Something unexpected can make you feel surprised."
     }
   ],
   "summary": "Use words to tell others how you feel.",
