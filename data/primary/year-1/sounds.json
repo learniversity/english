@@ -57,91 +57,91 @@
       "type": "text",
       "question": "First letter of goat?",
       "answer": "g",
-      "solution": "Answer: g"
+      "solution": "Look at the letter before oa in goat."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Middle letter in hen?",
       "answer": "e",
-      "solution": "Answer: e"
+      "solution": "Hen has three letters; identify the second letter."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Last letter of lamp?",
       "answer": "p",
-      "solution": "Answer: p"
+      "solution": "Look at the letter after m in lamp."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Middle letter in pig?",
       "answer": "i",
-      "solution": "Answer: i"
+      "solution": "Pig has three letters; identify the vowel between p and g."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Last letter in van?",
       "answer": "n",
-      "solution": "Answer: n"
+      "solution": "Look at the letter after a in van."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "First letter in leaf?",
       "answer": "l",
-      "solution": "Answer: l"
+      "solution": "Look at the letter before ea in leaf."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Change the first letter of bat to m.",
       "answer": "mat",
-      "solution": "Answer: mat"
+      "solution": "Replace b with m and keep at unchanged."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Change the last letter of bag to t.",
       "answer": "bat",
-      "solution": "Answer: bat"
+      "solution": "Replace g with t and keep ba unchanged."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Which ends like dog: frog or fish?",
       "answer": "frog",
-      "solution": "Answer: frog"
+      "solution": "Dog and frog share the same final -og sound."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Which has the same middle vowel as cup: bus or bed?",
       "answer": "bus",
-      "solution": "Answer: bus"
+      "solution": "Cup and bus both contain the short u sound."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Which lower-case letter matches B?",
       "answer": "b",
-      "solution": "Answer: b"
+      "solution": "Change the capital letter B to its small form."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "Which capital letter matches m?",
       "answer": "M",
-      "solution": "Answer: M"
+      "solution": "Change the small letter m to its capital form."
     },
     {
       "id": "q13",
       "type": "text",
       "question": "Which letter begins sun?",
       "answer": "s",
-      "solution": "Answer: s"
+      "solution": "Listen for the /s/ sound at the beginning of sun."
     }
   ],
   "summary": "Words are made of sounds. Listen for the first, middle and last sounds in short words.",
