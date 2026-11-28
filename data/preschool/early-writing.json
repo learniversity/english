@@ -51,7 +51,7 @@
       "type": "text",
       "question": "Copy exactly: cup",
       "answer": "cup",
-      "solution": "Answer: cup",
+      "solution": "Copy the letters c, u, p from left to right.",
       "caseSensitive": true
     },
     {
@@ -59,7 +59,7 @@
       "type": "text",
       "question": "Copy exactly: hen",
       "answer": "hen",
-      "solution": "Answer: hen",
+      "solution": "Copy the letters h, e, n from left to right.",
       "caseSensitive": true
     },
     {
@@ -67,7 +67,7 @@
       "type": "text",
       "question": "Copy exactly: fish",
       "answer": "fish",
-      "solution": "Answer: fish",
+      "solution": "Copy f, i, s, h in order.",
       "caseSensitive": true
     },
     {
@@ -75,7 +75,7 @@
       "type": "text",
       "question": "Copy exactly: kite",
       "answer": "kite",
-      "solution": "Answer: kite",
+      "solution": "Copy k, i, t, e in order.",
       "caseSensitive": true
     },
     {
@@ -83,7 +83,7 @@
       "type": "text",
       "question": "Copy exactly: leaf",
       "answer": "leaf",
-      "solution": "Answer: leaf",
+      "solution": "Copy l, e, a, f in order.",
       "caseSensitive": true
     },
     {
@@ -91,7 +91,7 @@
       "type": "text",
       "question": "Copy exactly: moon",
       "answer": "moon",
-      "solution": "Answer: moon",
+      "solution": "Copy m, o, o, n; remember both o letters.",
       "caseSensitive": true
     },
     {
@@ -99,7 +99,7 @@
       "type": "text",
       "question": "Copy exactly: red hat",
       "answer": "red hat",
-      "solution": "Answer: red hat",
+      "solution": "Leave one space between red and hat.",
       "caseSensitive": true
     },
     {
@@ -107,7 +107,7 @@
       "type": "text",
       "question": "Copy exactly: big dog",
       "answer": "big dog",
-      "solution": "Answer: big dog",
+      "solution": "Leave one space between big and dog.",
       "caseSensitive": true
     },
     {
@@ -115,7 +115,7 @@
       "type": "text",
       "question": "Copy exactly: I can run.",
       "answer": "I can run.",
-      "solution": "Answer: I can run.",
+      "solution": "Start with capital I, leave spaces between words and finish with a full stop.",
       "caseSensitive": true
     }
   ],
