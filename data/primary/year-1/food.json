@@ -265,98 +265,98 @@
       "type": "text",
       "question": "Which fruit grows in bunches?",
       "answer": "grapes",
-      "solution": "Answer: grapes"
+      "solution": "Grapes grow together in clusters on a vine."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which vegetable has layers?",
       "answer": "onion",
-      "solution": "Answer: onion"
+      "solution": "An onion has layers that can be peeled apart."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which food is made from soya beans?",
       "answer": "tofu",
-      "solution": "Answer: tofu"
+      "solution": "Tofu is made by setting soya milk into curds."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which drink is made from fruit?",
       "answer": "juice",
-      "solution": "Answer: juice"
+      "solution": "Juice is the liquid extracted from fruit."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which snack is made from puffed corn?",
       "answer": "popcorn",
-      "solution": "Answer: popcorn"
+      "solution": "Popcorn is made by heating corn kernels until they pop."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Complete: I ___ like cabbage. (do not or does not)",
       "answer": "do not",
-      "solution": "Answer: do not"
+      "solution": "Use do not with I to make a negative sentence."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Complete: May I have ___ water, please? (some or a)",
       "answer": "some",
-      "solution": "Answer: some"
+      "solution": "Water is uncountable, so use some rather than a."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Complete: This is ___ egg.",
       "answer": "an",
-      "solution": "Answer: an"
+      "solution": "Egg starts with a vowel sound."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Complete: These are two ___. (mangoes or mango)",
       "answer": "mangoes",
-      "solution": "Answer: mangoes"
+      "solution": "Two requires the plural noun; mango can take -es."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Which is a frozen dessert?",
       "answer": "ice cream",
-      "solution": "Answer: ice cream"
+      "solution": "Ice cream is a sweet dessert served frozen."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Which vegetable is often orange and grows underground?",
       "answer": "carrot",
-      "solution": "Answer: carrot"
+      "solution": "A carrot is a root vegetable that grows in the soil."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "Which food has filling between slices of bread?",
       "answer": "sandwich",
-      "solution": "Answer: sandwich"
+      "solution": "A sandwich consists of bread with a filling."
     },
     {
       "id": "q13",
       "type": "text",
       "question": "Complete: Do you ___ noodles?",
       "answer": "like",
-      "solution": "Answer: like"
+      "solution": "After do, use the base form of the verb."
     },
     {
       "id": "q14",
       "type": "text",
       "question": "Which fruit has a rough skin and is tropical? (pineapple or grape)",
       "answer": "pineapple",
-      "solution": "Answer: pineapple"
+      "solution": "A pineapple is a tropical fruit with a rough outer skin."
     }
   ],
   "summary": "Use English to name food and drinks and express likes and dislikes.",
