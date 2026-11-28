@@ -91,56 +91,56 @@
       "type": "text",
       "question": "Complete: Pick ___ the book.",
       "answer": "up",
-      "solution": "Answer: up"
+      "solution": "To pick something up means to lift it."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Complete: Put ___ the pen.",
       "answer": "down",
-      "solution": "Answer: down"
+      "solution": "To put something down means to place it on a surface."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Complete: Turn ___.",
       "answer": "around",
-      "solution": "Answer: around"
+      "solution": "Turning around means changing to face the other way."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Complete: Point ___ the door.",
       "answer": "to",
-      "solution": "Answer: to"
+      "solution": "To point to something means to indicate it with your finger."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which means shut the door: close or open?",
       "answer": "close",
-      "solution": "Answer: close"
+      "solution": "Closing means shutting rather than opening."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which means use your eyes: look or listen?",
       "answer": "look",
-      "solution": "Answer: look"
+      "solution": "Looking means using your eyes to see something."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Which means pay attention to sound: listen or jump?",
       "answer": "listen",
-      "solution": "Answer: listen"
+      "solution": "Listening means paying attention to sounds."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "In 'Sit down, then clap', what comes last?",
       "answer": "clap",
-      "solution": "Answer: clap"
+      "solution": "The word then tells you to do the second action after the first."
     }
   ],
   "summary": "An instruction tells us what to do. Listen carefully before acting.",
