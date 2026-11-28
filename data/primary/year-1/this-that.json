@@ -66,70 +66,70 @@
       "type": "text",
       "question": "___ is my cup here. (This or That)",
       "answer": "This",
-      "solution": "Answer: This"
+      "solution": "Use this for one object close to you."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "___ is a mountain over there.",
       "answer": "That",
-      "solution": "Answer: That"
+      "solution": "Use that for one object far from you."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "___ are my shoes here. (These or Those)",
       "answer": "These",
-      "solution": "Answer: These"
+      "solution": "Use these for several objects close to you."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "___ are birds far away.",
       "answer": "Those",
-      "solution": "Answer: Those"
+      "solution": "Use those for several objects far from you."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "This ___ a ruler.",
       "answer": "is",
-      "solution": "Answer: is"
+      "solution": "This refers to one thing, so use is."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Those ___ trees.",
       "answer": "are",
-      "solution": "Answer: are"
+      "solution": "Those refers to several things, so use are."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "That is ___ orange.",
       "answer": "an",
-      "solution": "Answer: an"
+      "solution": "Orange begins with a vowel sound, so use an."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "These are three ___. (pencil or pencils)",
       "answer": "pencils",
-      "solution": "Answer: pencils"
+      "solution": "Three requires a plural noun; add s to pencil."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "___ is a flower beside me. (This or That)",
       "answer": "This",
-      "solution": "Answer: This"
+      "solution": "Beside me indicates a nearby singular object."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "___ are houses across the road. (These or Those)",
       "answer": "Those",
-      "solution": "Answer: Those"
+      "solution": "Across the road indicates objects at a distance; houses is plural."
     }
   ],
   "summary": "This and these are for nearby things. That and those are for things farther away.",
