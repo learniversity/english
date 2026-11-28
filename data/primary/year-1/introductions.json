@@ -108,91 +108,91 @@
       "type": "text",
       "question": "My ___ is Lina.",
       "answer": "name",
-      "solution": "Answer: name"
+      "solution": "Use the word for what a person is called."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "I am seven years ___.",
       "answer": "old",
-      "solution": "Answer: old"
+      "solution": "Use years old to state a person's age."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Nice to ___ you.",
       "answer": "meet",
-      "solution": "Answer: meet"
+      "solution": "Nice to meet you is a greeting used when meeting someone."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "How ___ you?",
       "answer": "are",
-      "solution": "Answer: are"
+      "solution": "Use are with you, even in a question."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "I ___ drawing. (like or likes)",
       "answer": "like",
-      "solution": "Answer: like"
+      "solution": "Use the base verb with I."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "What is your favourite ___? (colour or colours)",
       "answer": "colour",
-      "solution": "Answer: colour"
+      "solution": "The question asks for one favourite colour, so use the singular noun."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "I am ___, thank you. (fine or fines)",
       "answer": "fine",
-      "solution": "Answer: fine"
+      "solution": "Fine is an adjective describing how someone feels."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Complete: Good ___ (a greeting early in the day).",
       "answer": "morning",
-      "solution": "Answer: morning"
+      "solution": "Use the greeting for the early part of the day."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Complete: See you ___ (when leaving until another day).",
       "answer": "tomorrow",
-      "solution": "Answer: tomorrow"
+      "solution": "Tomorrow means the day after today."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Complete: This is my ___. (someone in my class)",
       "answer": "classmate",
-      "solution": "Answer: classmate"
+      "solution": "A classmate is someone who studies in the same class."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Complete: I do not ___ spiders.",
       "answer": "like",
-      "solution": "Answer: like"
+      "solution": "After do not, use the base form of the verb."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "Complete: Thank ___ for helping me.",
       "answer": "you",
-      "solution": "Answer: you"
+      "solution": "Thank you is the polite expression of gratitude."
     },
     {
       "id": "q13",
       "type": "text",
       "question": "Complete: I am ___ for being late.",
       "answer": "sorry",
-      "solution": "Answer: sorry"
+      "solution": "Sorry expresses an apology for being late."
     }
   ],
   "summary": "Use short sentences to tell someone your name, age and how you feel.",
