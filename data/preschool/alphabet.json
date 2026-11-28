@@ -52,21 +52,21 @@
       "type": "text",
       "question": "Write the letter after C.",
       "answer": "D",
-      "solution": "Answer: D"
+      "solution": "Say B, C, D, E in order."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Write the letter before H.",
       "answer": "G",
-      "solution": "Answer: G"
+      "solution": "Say F, G, H, I in order."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Write the uppercase form of r.",
       "answer": "R",
-      "solution": "Answer: R",
+      "solution": "Uppercase means the capital form of a letter.",
       "caseSensitive": true
     },
     {
@@ -74,7 +74,7 @@
       "type": "text",
       "question": "Write the lowercase form of P.",
       "answer": "p",
-      "solution": "Answer: p",
+      "solution": "Lowercase means the small form of a letter.",
       "caseSensitive": true
     },
     {
@@ -82,42 +82,42 @@
       "type": "text",
       "question": "Which letter begins kite?",
       "answer": "k",
-      "solution": "Answer: k"
+      "solution": "Look at the first letter in kite."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which letter begins zebra?",
       "answer": "z",
-      "solution": "Answer: z"
+      "solution": "Look at the first letter in zebra."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Which letter begins elephant?",
       "answer": "e",
-      "solution": "Answer: e"
+      "solution": "Look at the first letter in elephant."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Which letter begins violin?",
       "answer": "v",
-      "solution": "Answer: v"
+      "solution": "Look at the first letter in violin."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Write the letter after W.",
       "answer": "X",
-      "solution": "Answer: X"
+      "solution": "Say V, W, X, Y in order."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Write the letter before M.",
       "answer": "L",
-      "solution": "Answer: L"
+      "solution": "Say K, L, M, N in order."
     }
   ],
   "summary": "English has 26 letters. Each letter has an uppercase and a lowercase form.",
