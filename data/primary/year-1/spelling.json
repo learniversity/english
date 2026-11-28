@@ -32,35 +32,35 @@
       "type": "text",
       "question": "Complete the word for a pet: c_t.",
       "answer": "cat",
-      "solution": "Answer: cat"
+      "solution": "The short a sound completes the word c-t for this animal."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Complete: b_ok (something to read).",
       "answer": "book",
-      "solution": "Answer: book"
+      "solution": "The word for something to read uses the double-o pattern."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Choose the correct spelling: frend or friend.",
       "answer": "friend",
-      "solution": "Answer: friend"
+      "solution": "The correct spelling includes ie after fr."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Choose the correct spelling: skool or school.",
       "answer": "school",
-      "solution": "Answer: school"
+      "solution": "The word begins with the letter pattern sch."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Complete: I ___ a pencil. (have or hav)",
       "answer": "have",
-      "solution": "Answer: have"
+      "solution": "The verb have ends with a silent e."
     }
   ],
   "summary": "Say a word slowly, listen for sounds, write the letters and check your spelling. Practise common words that do not follow regular sound patterns too.",
