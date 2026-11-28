@@ -32,35 +32,35 @@
       "type": "text",
       "question": "Complete: I ___ my teeth in the morning.",
       "answer": "brush",
-      "solution": "Answer: brush"
+      "solution": "Brushing teeth is part of keeping them clean."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Complete: I ___ breakfast before school. (eat or eats)",
       "answer": "eat",
-      "solution": "Answer: eat"
+      "solution": "Use the base verb with the subject I."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Complete: I like ___ books. (reading or read)",
       "answer": "reading",
-      "solution": "Answer: reading"
+      "solution": "After like, the -ing form can describe an activity you enjoy."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Complete: I ___ football with my friends. (play or plays)",
       "answer": "play",
-      "solution": "Answer: play"
+      "solution": "Use the base verb with I, without s."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Complete: I go to ___ at night. (bed or school)",
       "answer": "bed",
-      "solution": "Answer: bed"
+      "solution": "Going to bed is the usual activity before sleeping at night."
     }
   ],
   "summary": "Talk about familiar routines and activities using short present-tense sentences.",
