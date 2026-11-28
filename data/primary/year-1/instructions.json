@@ -96,70 +96,70 @@
       "type": "text",
       "question": "Complete: Turn ___ page. (the or many)",
       "answer": "the",
-      "solution": "Answer: the"
+      "solution": "Use the to refer to the particular page you need to turn."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Complete: Draw a ___ under your name. (line or chair)",
       "answer": "line",
-      "solution": "Answer: line"
+      "solution": "A line is a straight mark that can be drawn under a name."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which instruction means draw around a word: circle or underline?",
       "answer": "circle",
-      "solution": "Answer: circle"
+      "solution": "To circle a word, draw a curved line around it."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which instruction means write the same word: copy or erase?",
       "answer": "copy",
-      "solution": "Answer: copy"
+      "solution": "To copy means to write or make the same thing again."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which instruction means stand in a line?",
       "answer": "line up",
-      "solution": "Answer: line up"
+      "solution": "To line up means to stand in a row."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which means select an answer: choose or close?",
       "answer": "choose",
-      "solution": "Answer: choose"
+      "solution": "To choose means to select from alternatives."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "In 'Open your book, then read', what comes last?",
       "answer": "read",
-      "solution": "Answer: read"
+      "solution": "Then introduces the action that follows opening the book."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "In 'Pick up the pencil, then write', what comes first? (pick up or write)",
       "answer": "pick up",
-      "solution": "Answer: pick up"
+      "solution": "The first instruction comes before the word then."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Complete: Say it again, ___.",
       "answer": "please",
-      "solution": "Answer: please"
+      "solution": "Please makes a request polite."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Which means say something again: repeat or match?",
       "answer": "repeat",
-      "solution": "Answer: repeat"
+      "solution": "To repeat means to say or do something again."
     }
   ],
   "summary": "Listen to short instructions and questions about familiar things.",
