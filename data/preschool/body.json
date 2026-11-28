@@ -110,42 +110,42 @@
       "type": "text",
       "question": "We hear with our ___. (ears or hands)",
       "answer": "ears",
-      "solution": "Answer: ears"
+      "solution": "Ears help us hear sounds."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "We smell with our ___.",
       "answer": "nose",
-      "solution": "Answer: nose"
+      "solution": "The nose detects smells."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "We chew with our ___.",
       "answer": "teeth",
-      "solution": "Answer: teeth"
+      "solution": "Teeth break food into smaller pieces."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "We see with our ___.",
       "answer": "eyes",
-      "solution": "Answer: eyes"
+      "solution": "Eyes help us see."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "We clap our ___.",
       "answer": "hands",
-      "solution": "Answer: hands"
+      "solution": "Clapping means bringing both hands together."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "What joins the thigh and lower leg?",
       "answer": "knee",
-      "solution": "Answer: knee"
+      "solution": "The knee is the joint between the upper and lower leg."
     }
   ],
   "summary": "Learn the names of body parts and how we use them.",
