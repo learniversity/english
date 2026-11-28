@@ -135,63 +135,63 @@
       "type": "text",
       "question": "What do you use to measure a line?",
       "answer": "ruler",
-      "solution": "Answer: ruler"
+      "solution": "A ruler has marks for measuring length."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "What removes pencil marks?",
       "answer": "rubber",
-      "solution": "Answer: rubber"
+      "solution": "A rubber (eraser) removes pencil marks."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "What do you sit on? (chair or paper)",
       "answer": "chair",
-      "solution": "Answer: chair"
+      "solution": "A chair has a seat for sitting."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "What do you use to cut paper?",
       "answer": "scissors",
-      "solution": "Answer: scissors"
+      "solution": "Scissors have two blades for cutting."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "What do you carry books in? (bag or glue)",
       "answer": "bag",
-      "solution": "Answer: bag"
+      "solution": "A bag holds books and other things."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "What sticks paper together?",
       "answer": "glue",
-      "solution": "Answer: glue"
+      "solution": "Glue makes pieces of paper stick together."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "What can you read? (book or chair)",
       "answer": "book",
-      "solution": "Answer: book"
+      "solution": "A book contains words or pictures to read."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "What lets light into a room?",
       "answer": "window",
-      "solution": "Answer: window"
+      "solution": "A window lets daylight into a room."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "What coloured stick can you draw with?",
       "answer": "crayon",
-      "solution": "Answer: crayon"
+      "solution": "A crayon is a coloured wax stick used for drawing."
     }
   ],
   "summary": "Classroom words name things we use when learning.",
