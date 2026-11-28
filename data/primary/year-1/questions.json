@@ -89,105 +89,105 @@
       "type": "text",
       "question": "___ is your name?",
       "answer": "What",
-      "solution": "Answer: What"
+      "solution": "Use what to ask for information such as a name."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "___ is your teacher?",
       "answer": "Who",
-      "solution": "Answer: Who"
+      "solution": "Use who to ask about a person."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "___ is the library?",
       "answer": "Where",
-      "solution": "Answer: Where"
+      "solution": "Use where to ask for a location."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "___ is your birthday?",
       "answer": "When",
-      "solution": "Answer: When"
+      "solution": "Use when to ask about a time or date."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "___ are you today?",
       "answer": "How",
-      "solution": "Answer: How"
+      "solution": "Use how to ask about someone's condition."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "How ___ apples are there?",
       "answer": "many",
-      "solution": "Answer: many"
+      "solution": "Use how many to ask about the number of countable objects."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "How ___ are you?",
       "answer": "old",
-      "solution": "Answer: old"
+      "solution": "Use how old to ask about age."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "___ you swim? (Can or Where)",
       "answer": "Can",
-      "solution": "Answer: Can"
+      "solution": "Use can to ask whether someone has an ability."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Is it green? Yes, it ___.",
       "answer": "is",
-      "solution": "Answer: is"
+      "solution": "Repeat is in the positive short reply to an is question."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Are they ready? Yes, they ___.",
       "answer": "are",
-      "solution": "Answer: are"
+      "solution": "Repeat are in the positive short reply to an are question."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "___ is your favourite food?",
       "answer": "What",
-      "solution": "Answer: What"
+      "solution": "Use what to ask which food someone prefers."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "___ is that girl? (Who or Where)",
       "answer": "Who",
-      "solution": "Answer: Who"
+      "solution": "Use who to identify a person."
     },
     {
       "id": "q13",
       "type": "text",
       "question": "Complete: Can you ___ me, please?",
       "answer": "help",
-      "solution": "Answer: help"
+      "solution": "Use the base verb help when requesting assistance."
     },
     {
       "id": "q14",
       "type": "text",
       "question": "Complete: Can you say that ___, please?",
       "answer": "again",
-      "solution": "Answer: again"
+      "solution": "Again means one more time."
     },
     {
       "id": "q15",
       "type": "text",
       "question": "Complete: What is ___? (pointing to a nearby object)",
       "answer": "this",
-      "solution": "Answer: this"
+      "solution": "Use this to refer to a nearby singular object."
     }
   ],
   "summary": "Questions help us find out information. Answer using a short phrase or sentence.",
