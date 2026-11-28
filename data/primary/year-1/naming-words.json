@@ -78,70 +78,70 @@
       "type": "text",
       "question": "Which names a person: nurse or blue?",
       "answer": "nurse",
-      "solution": "Answer: nurse"
+      "solution": "A noun can name a person; blue describes a colour."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which names a place: market or walk?",
       "answer": "market",
-      "solution": "Answer: market"
+      "solution": "A market is a place; walk can describe an action."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which names an animal: goat or tall?",
       "answer": "goat",
-      "solution": "Answer: goat"
+      "solution": "A goat is an animal; tall describes height."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which names a thing: chair or sing?",
       "answer": "chair",
-      "solution": "Answer: chair"
+      "solution": "A chair is an object; sing describes an action."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which is a person's name: Ali or pencil?",
       "answer": "Ali",
-      "solution": "Answer: Ali"
+      "solution": "A person's name is a proper noun."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Find the animal noun: The duck swims.",
       "answer": "duck",
-      "solution": "Answer: duck"
+      "solution": "Identify the animal performing the action swims."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Find the place noun: The children play in the park.",
       "answer": "park",
-      "solution": "Answer: park"
+      "solution": "Identify the place where the children play."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Find the object noun: I open the window.",
       "answer": "window",
-      "solution": "Answer: window"
+      "solution": "Identify the object being opened."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Which is a noun: bicycle or happy?",
       "answer": "bicycle",
-      "solution": "Answer: bicycle"
+      "solution": "A bicycle names a thing; happy describes a feeling."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Which is a noun: flower or jump?",
       "answer": "flower",
-      "solution": "Answer: flower"
+      "solution": "A flower names a thing; jump can describe an action."
     }
   ],
   "summary": "Naming words identify people, animals, places and things.",
