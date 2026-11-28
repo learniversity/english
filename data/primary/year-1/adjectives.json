@@ -131,84 +131,84 @@
       "type": "text",
       "question": "Opposite of heavy?",
       "answer": "light",
-      "solution": "Answer: light"
+      "solution": "Heavy describes something that weighs a lot; its opposite weighs little."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Opposite of full?",
       "answer": "empty",
-      "solution": "Answer: empty"
+      "solution": "Full means containing as much as possible; its opposite contains nothing."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Opposite of wet?",
       "answer": "dry",
-      "solution": "Answer: dry"
+      "solution": "Wet means covered in water; its opposite has no moisture."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Opposite of soft?",
       "answer": "hard",
-      "solution": "Answer: hard"
+      "solution": "Soft means easy to press or bend; its opposite is firm."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Opposite of clean?",
       "answer": "dirty",
-      "solution": "Answer: dirty"
+      "solution": "Clean means free from dirt; its opposite has dirt on it."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Opposite of fast?",
       "answer": "slow",
-      "solution": "Answer: slow"
+      "solution": "Fast means moving quickly; its opposite means moving with little speed."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "A ___ pillow (soft or run).",
       "answer": "soft",
-      "solution": "Answer: soft"
+      "solution": "Choose the word describing how the pillow feels, not an action."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "The soup is ___. (hot or jump)",
       "answer": "hot",
-      "solution": "Answer: hot"
+      "solution": "Choose the word describing the soup's temperature."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Find the adjective: The tall tree grows.",
       "answer": "tall",
-      "solution": "Answer: tall"
+      "solution": "The adjective describes the height of the tree."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Find the adjective: My shoes are new.",
       "answer": "new",
-      "solution": "Answer: new"
+      "solution": "The adjective describes the condition of the shoes."
     },
     {
       "id": "q11",
       "type": "text",
       "question": "Find the adjective: A cold drink.",
       "answer": "cold",
-      "solution": "Answer: cold"
+      "solution": "The adjective describes the temperature of the drink."
     },
     {
       "id": "q12",
       "type": "text",
       "question": "The bag has nothing inside. It is ___.",
       "answer": "empty",
-      "solution": "Answer: empty"
+      "solution": "A bag containing nothing is not full."
     }
   ],
   "summary": "Describing words tell us what something is like, for example its colour or size.",
