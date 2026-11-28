@@ -107,70 +107,70 @@
       "type": "text",
       "question": "Which letter begins dog?",
       "answer": "d",
-      "solution": "Answer: d"
+      "solution": "Say dog slowly and listen for the /d/ sound at the start."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which letter begins hat?",
       "answer": "h",
-      "solution": "Answer: h"
+      "solution": "Say hat slowly and listen for the /h/ sound."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which letter begins jam?",
       "answer": "j",
-      "solution": "Answer: j"
+      "solution": "Say jam slowly and listen for its first sound, /dʒ/."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which letter begins kite?",
       "answer": "k",
-      "solution": "Answer: k"
+      "solution": "Say kite slowly and listen for the /k/ sound."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which letter begins leaf?",
       "answer": "l",
-      "solution": "Answer: l"
+      "solution": "Say leaf slowly and listen for the /l/ sound."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which letter begins mouse?",
       "answer": "m",
-      "solution": "Answer: m"
+      "solution": "Say mouse slowly and listen for the /m/ sound."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Which letter begins pen?",
       "answer": "p",
-      "solution": "Answer: p"
+      "solution": "Say pen slowly and listen for the /p/ sound."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Which letter begins sock?",
       "answer": "s",
-      "solution": "Answer: s"
+      "solution": "Say sock slowly and listen for the /s/ sound."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Which begins like tap: tin or cat?",
       "answer": "tin",
-      "solution": "Answer: tin"
+      "solution": "Tap and tin start with the same /t/ sound."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Which begins like goat: gate or leaf?",
       "answer": "gate",
-      "solution": "Answer: gate"
+      "solution": "Goat and gate start with the same /g/ sound."
     }
   ],
   "summary": "Letters represent sounds. In simple words, m often represents /m/ and s often represents /s/.",
