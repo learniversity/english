@@ -116,70 +116,70 @@
       "type": "text",
       "question": "Which word means a way in?",
       "answer": "entrance",
-      "solution": "Answer: entrance"
+      "solution": "An entrance is a place through which you go inside."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Which word means a way out?",
       "answer": "exit",
-      "solution": "Answer: exit"
+      "solution": "An exit is a place through which you leave."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which word means move towards you?",
       "answer": "pull",
-      "solution": "Answer: pull"
+      "solution": "Pull describes moving something towards yourself."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Which word means move away from you?",
       "answer": "push",
-      "solution": "Answer: push"
+      "solution": "Push describes moving something away from yourself."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Which sign tells you not to enter?",
       "answer": "no entry",
-      "solution": "Answer: no entry"
+      "solution": "A no-entry sign means you must not go in."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which word means little or no noise?",
       "answer": "quiet",
-      "solution": "Answer: quiet"
+      "solution": "Quiet describes a place or person making little or no noise."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "Which sign warns about a slippery wet surface?",
       "answer": "wet floor",
-      "solution": "Answer: wet floor"
+      "solution": "A wet-floor sign warns that the surface may be slippery."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "Which word means assistance?",
       "answer": "help",
-      "solution": "Answer: help"
+      "solution": "Help means assistance."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "Which word means not open?",
       "answer": "closed",
-      "solution": "Answer: closed"
+      "solution": "Closed indicates that something is not open."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "Which word means possible harm?",
       "answer": "danger",
-      "solution": "Answer: danger"
+      "solution": "Danger warns that something may cause harm."
     }
   ],
   "summary": "Labels identify things. Common words help us understand short phrases and signs.",
