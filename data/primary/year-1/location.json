@@ -80,70 +80,70 @@
       "type": "text",
       "question": "The milk is inside the fridge. It is ___ the fridge.",
       "answer": "in",
-      "solution": "Answer: in"
+      "solution": "Use in when something is inside a space."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "The picture rests against the wall surface. It is ___ the wall.",
       "answer": "on",
-      "solution": "Answer: on"
+      "solution": "Use on when something touches a surface."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "The ball is below the table. It is ___ the table.",
       "answer": "under",
-      "solution": "Answer: under"
+      "solution": "Use under when something is below another object."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "The shop is beside the bank. It is ___ the bank. (next to or under)",
       "answer": "next to",
-      "solution": "Answer: next to"
+      "solution": "Next to means beside."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "The tree is at the back of the house. It is ___ the house.",
       "answer": "behind",
-      "solution": "Answer: behind"
+      "solution": "Behind means at the back of something."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "The teacher stands ahead of the class. She is ___ the class.",
       "answer": "in front of",
-      "solution": "Answer: in front of"
+      "solution": "In front of means ahead of something."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "The shoes are inside the box. They are ___ the box.",
       "answer": "in",
-      "solution": "Answer: in"
+      "solution": "Use in for objects inside a container."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "The plate rests on the counter. It is ___ the counter.",
       "answer": "on",
-      "solution": "Answer: on"
+      "solution": "Use on for an object resting on a surface."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "The bag is below the chair. It is ___ the chair.",
       "answer": "under",
-      "solution": "Answer: under"
+      "solution": "Use under when an object is below another."
     },
     {
       "id": "q10",
       "type": "text",
       "question": "___ is the ruler? (Where or Who)",
       "answer": "Where",
-      "solution": "Answer: Where"
+      "solution": "Where asks about a place; who asks about a person."
     }
   ],
   "summary": "Use position words to describe where people and things are.",
