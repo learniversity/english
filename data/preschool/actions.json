@@ -151,63 +151,63 @@
       "type": "text",
       "question": "I ___ a picture. (draw or sleep)",
       "answer": "draw",
-      "solution": "Answer: draw"
+      "solution": "Use the action for making a picture with a pencil."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "I ___ water. (drink or sing)",
       "answer": "drink",
-      "solution": "Answer: drink"
+      "solution": "Water is something we drink, not sing."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "I ___ my hands. (clap or read)",
       "answer": "clap",
-      "solution": "Answer: clap"
+      "solution": "Clapping means bringing your hands together."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "I ___ a book. (read or jump)",
       "answer": "read",
-      "solution": "Answer: read"
+      "solution": "Reading means looking at and understanding words in a book."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "I ___ food. (eat or write)",
       "answer": "eat",
-      "solution": "Answer: eat"
+      "solution": "Eating means taking food into your mouth."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "I ___ my face. (wash or dance)",
       "answer": "wash",
-      "solution": "Answer: wash"
+      "solution": "Washing means cleaning with water."
     },
     {
       "id": "q7",
       "type": "text",
       "question": "I ___ a song. (sing or sit)",
       "answer": "sing",
-      "solution": "Answer: sing"
+      "solution": "Singing means making music with your voice."
     },
     {
       "id": "q8",
       "type": "text",
       "question": "I ___ on a chair. (sit or run)",
       "answer": "sit",
-      "solution": "Answer: sit"
+      "solution": "Sitting means resting your body on a chair."
     },
     {
       "id": "q9",
       "type": "text",
       "question": "I ___ the door to enter. (open or sleep)",
       "answer": "open",
-      "solution": "Answer: open"
+      "solution": "Opening a door lets you go through it."
     }
   ],
   "summary": "Action words tell us what someone or something does.",
